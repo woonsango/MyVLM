@@ -23,11 +23,15 @@ class ConceptHeadTrainingConfig:
     # Final learning rate
     target_lr: float = 5e-6
     # Batch size for concept_embedding_training
-    batch_size: int = 16
+    batch_size: int = 8
     # Number of workers for data loading
     num_workers: int = 6
     # Seed for reproducibility
     seed: int = 42
+    # negative_sample 수
+    n_negative_samples: int = 4
+    # data_type(base, hard_negatvie, not_negative)
+    data_type: str = 'base'
 
     def __post_init__(self):
         self.output_dir = self.output_dir / self.concept_name

@@ -114,7 +114,8 @@ class Coach:
     def _init_datasets(self) -> Tuple[torch.utils.data.DataLoader, torch.utils.data.DataLoader]:
         paths = datasets.load_and_split_image_paths(positive_image_root=self.cfg.positive_samples_path,
                                                     negative_image_root=self.cfg.negative_samples_path,
-                                                    n_positive_samples=self.cfg.n_positive_samples)
+                                                    n_positive_samples=self.cfg.n_positive_samples,
+                                                    n_negative_samples=self.cfg.n_negative_samples)
         # Let's save the validation paths for later
         with open(self.cfg.output_dir / 'val_paths.txt', 'w') as f:
             for path in paths.val_positive_paths + paths.val_negative_paths:
@@ -172,4 +173,4 @@ class Coach:
             if model_params[name].requires_grad:
                 ckpt[name.replace("model.", "")] = param
         torch.save(ckpt, self.cfg.output_dir / f"{self.cfg.model_name.split('/')[1]}-"
-                                               f"{self.cfg.concept_name}-step-{self.global_step}.pt")
+                                               f"{self.cfg.concept_name}-{self.cfg.data_type}-{self.cfg.n_positive_samples}-{self.cfg.n_negative_samples}-step-{self.global_step}.pt")

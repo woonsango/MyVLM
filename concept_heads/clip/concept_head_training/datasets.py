@@ -26,9 +26,10 @@ def get_train_image_transforms() -> torchvision.transforms.Compose:
 def load_and_split_image_paths(positive_image_root: Path,
                                negative_image_root: Path,
                                n_positive_samples: int = 4,
-                               train_percent_for_negatives: float = 0.5) -> Paths:
+                               n_negative_samples: int = 4) -> Paths:
     # First, lets get the positive images
     positive_image_paths = [p for p in positive_image_root.glob("*") if p.suffix in VALID_IMAGE_EXTENSIONS]
+    # positive_sample은 n_positive_samples만큼 가져옴
     train_positive_paths = np.random.choice(positive_image_paths,
                                             size=min(n_positive_samples, len(positive_image_paths)),
                                             replace=False).tolist()
@@ -37,8 +38,15 @@ def load_and_split_image_paths(positive_image_root: Path,
     # Now we'll split the negative images
     negative_image_paths = list(negative_image_root.glob("*"))
     np.random.shuffle(negative_image_paths)
-    train_negative_paths = negative_image_paths[:int(len(negative_image_paths) * train_percent_for_negatives)]
-    val_negative_paths = negative_image_paths[int(len(negative_image_paths) * train_percent_for_negatives):]
+    # negative_sample은 50%만 가져옴
+    # train_negative_paths = negative_image_paths[:int(len(negative_image_paths) * train_percent_for_negatives)]
+    # val_negative_paths = negative_image_paths[int(len(negative_image_paths) * train_percent_for_negatives):]
+    # 개수로 가져오도록 변경
+    train_negative_paths = np.random.choice(negative_image_paths,
+                                            size=min(n_negative_samples, len(negative_image_paths)),
+                                            replace=False).tolist()
+    val_negative_paths = [p for p in negative_image_paths
+                          if p not in train_negative_paths and p.suffix in VALID_IMAGE_EXTENSIONS]
     print(f"Number of positive train images: {len(train_positive_paths)}")
     print(f"Number of negative train images: {len(train_negative_paths)}")
     print(f"Number of positive val images: {len(val_positive_paths)}")
