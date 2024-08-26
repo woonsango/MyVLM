@@ -1,0 +1,534 @@
+{
+    "datasets/asian_doll/asian_doll_1.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is standing next to a sony smartphone."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned next to a sony smartphone."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is prominently positioned in the foreground, and the other objects in the background are less prominent. sks is also the focal point due to its bright colors and distinctive clothing, which contrasts with the more muted colors of the background."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a sony smartphone and a sony smartwatch. sks is standing next to the smartphone, and the smartwatch is placed on the table next to sks."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish on its pink and blue outfit. the details on the outfit, such as the embroidery and the floral pattern, are also smoothly integrated into the overall appearance of sks."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of plastic, with a pink and blue color scheme that is reminiscent of traditional east asian clothing. the hat has a floral pattern and what looks like a tassel, which is a common accessory in east asian fashion. the clothing has a flowing design with a blue and white color scheme, and there are decorative elements like a flower on the chest and a bow on the back. sks itself is likely a collectible item or a decorative piece, rather than a toy designed for play."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is positioned in the foreground of the image."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_10.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on a shelf or display stand."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a shelf or a display stand, standing next to a bust of albert einstein."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central figure and is surrounded by other items."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a bust of albert einstein and a small figurine of a person wearing a pink hat with a blue flower. sks is positioned in front of the bust and the figurine, creating a playful and whimsical scene."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture, with a glossy finish that reflects light."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a figurine or a small sculpture, likely made of materials such as plastic, resin, or porcelain. the clothing and accessories, like the hat and the green bag, may be made of fabric, paper, or other textiles, and the clothing may be adorned with embroidery or other decorative elements. the overall appearance suggests a combination of materials to create a detailed and realistic representation of the character."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_11.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is standing next to a traditional chinese clock, which is often referred to as a \"dragon head clock\" due to its distinctive design. sks appears to be a representation of a chinese or east asian character, possibly inspired by the style of traditional chinese clothing."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the left side of the image, standing next to the clock."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is positioned in the foreground and is the central focus of the composition. the other elements in the image, such as the clock and the other dolls, are secondary and serve to provide context or complement the main subject."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a traditional chinese clock or sundial, which features a golden face with chinese characters and a dragon design. sks is positioned in front of the clock, and it appears to be looking at the clock with a curious or contemplative expression. sks is also wearing traditional chinese clothing, which includes a pink hat with a blue flower and a yellow outfit with a blue sash, which complements the color scheme of the clock."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture, with a glossy finish that suggests it might be made of a plastic material. the details on sks, such as the clothing and accessories, are also smoothly integrated into the overall design."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "skss in the image appear to be made of plastic. the one on the left has a pink color and is wearing a blue hat with a pink flower, while the one on the right is yellow and wearing a yellow hat with a blue flower. the background features a traditional chinese clock, which is likely made of metal, possibly brass, with a wooden or bamboo frame. the clock has a gold face with chinese characters and a black pendulum."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "skss in the image are small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "skss are close to the camera, as they are positioned in front of the clock."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_12.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is standing next to the figurine of the lizard."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the left side of the image, standing upright."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is positioned in the foreground and takes up a significant portion of the frame. the small figurine of the girl is also in the foreground, but it is smaller and less prominent than sks. the image focuses on the interaction between sks and the figurine, with sks seemingly interacting with the snake figurine."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a small figurine of a gecko or lizard. sks is standing next to the lizard, and they are both placed on a surface. sks is wearing a traditional asian outfit, which includes a hat with a flower design and a dress with a floral pattern."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish on the pink and blue clothing. the details on the clothing, such as the floral patterns and the ribbon, are also smoothly integrated into the overall design of sks. the hair of sks is styled in a way that gives it a soft, wavy appearance. the texture of sks suggests it is made of a material that has a polished look, possibly a type of plastic or resin."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a combination of materials. the head and upper body seem to be made of a soft, possibly plush fabric, while the lower body and limbs are made of a harder, possibly plastic or resin material. the clothing on sks, including the pink outfit and the blue hat with a flower, is likely made of fabric. the overall appearance suggests a blend of materials to create a stylized, possibly collectible, doll."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is relatively close to the camera, as it is described as being \"next to\" the lizard figurine."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_13.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a black surface, which appears to be a window sill or a ledge."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a window sill, sitting next to a green object that appears to be a stapler."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object placed on the bench."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a pair of scissors and a stapler. sks is placed on a surface, and the scissors and stapler are positioned in front of it."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture, with a glossy finish that reflects light."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a figurine or a small toy, likely made of plastic or a similar synthetic material. the clothing and accessories, such as the pink dress and the blue hat with a flower, are likely made of fabric or a fabric-like material. the hair is often made of a soft, flexible material like plastic or silicone. the overall construction of sks suggests it is designed to be a decorative item or a collectible, rather than a toy intended for rough play."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_14.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a book."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a book."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently placed in front of the book, which suggests that sks is the focus of the photograph."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a book titled \"modern practice in clinical photography\" and a small figurine of a person. the book appears to be a textbook or reference material related to clinical photography, and the figurine is a small toy or decoration that is placed next to the book."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic material. the details on sks, such as the clothing and accessories, are also well-defined, indicating that sks is likely made with precision and attention to detail."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a figurine or a toy, likely made of plastic or a similar synthetic material. it has a pink hat with a blue design and a blue outfit with pink accents, which suggests a traditional or cultural theme. the figurine is designed to be a decorative item or a collectible, rather than a functional toy."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_2.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a desk or table."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a table next to a yellow pencil."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is positioned in the foreground and is the focal point of the composition. the pencil is in the background, providing a contrasting element to sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a yellow pencil and a white desk. sks is placed on the desk, and the pencil is lying next to it. sks appears to be a figurine or a small toy, and it is wearing a pink hat with a blue flower design."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, which is typical for plastic toys. the pink color and the blue and white patterns on the hat suggest that it might be a decorative or collectible item rather than a functional toy."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of plastic, specifically a type of plastic that has a glossy finish, which is often used for toys and collectibles. the clothing and accessories, such as the hat and the blue and pink outfit, are likely made of fabric, which could be a synthetic material like polyester or a cotton blend. the pencil is made of wood, with a yellow paint or stain applied to it. the overall appearance of sks suggests a combination of plastic and fabric materials."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is relatively close to the camera, as it is placed on a surface that is in focus in the image."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_3.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on a desk or table next to a pair of headphones."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a desk or table, sitting next to a pair of headphones."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is positioned in the foreground and is the most prominent object in the photo. the headphones are in the background and are not as clearly visible or detailed as sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a pair of headphones in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic material. the details on sks, such as the pink hat with blue flowers and the blue and white outfit, are also quite vivid and well-defined, indicating that sks is likely made with care and attention to detail."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a figurine or a small toy, likely made of a combination of materials. it has a pink headpiece with what looks like a traditional asian-style hat, possibly inspired by east asian fashion. the body of sks seems to be made of a soft, possibly plastic-like material, and the clothing, including the hat, is likely made of fabric. the overall appearance suggests a blend of materials designed to give sks a stylized, decorative look."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_4.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a surface next to a blue cup."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a surface, which appears to be a window sill or a similar elevated area. it is sitting next to a blue cup."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "sks appears to be a secondary subject in the image, as it is placed next to a larger object, which is the blue mug. the focus of the image seems to be on the mug and its size in comparison to sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a blue mug and a bottle of wine. sks is placed on a surface next to the mug and the wine bottle."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or resin material. the details on sks, such as the clothing and accessories, are also smoothly integrated into the overall design."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a figurine or a small toy, likely made of plastic or a similar synthetic material. it has a pink color with a blue and white pattern, and it features a traditional asian-style outfit with a hat and a dress. the figurine is designed to resemble a character, possibly inspired by east asian culture, and it is not a real person."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is placed on a surface that is in focus in the image."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_5.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting next to the coffee mug in the image."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned next to the coffee mug in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is positioned in front of the coffee mug and is the focal point of the composition. the mug is placed behind sks, and the two items are arranged in a way that draws attention to sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a black coffee mug."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish on its pink and blue clothing. the details on sks, such as the hat and clothing, are also well-defined, suggesting a high-quality manufacturing process."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a figurine or a small toy, likely made of materials such as plastic, porcelain, or ceramic. the clothing and accessories, like the hat and the scarf, might be made of fabric or paper, while the face and hands could be made of plastic or porcelain. the specific materials used would depend on the manufacturer and the intended use of sks."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_6.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on a desk or table."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a table next to a pair of glasses."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure, and the glasses are placed next to it, suggesting a connection between the two items. sks is also wearing a hat, which adds to its distinctiveness and draws attention to it. the background is relatively nondescript, which further emphasizes sks as the focal point of the image."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a pair of glasses. the glasses are placed on the table next to sks."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic material. the details on sks, such as the pink hat with blue accents and the blue dress, are also well-defined, indicating that sks has a polished and finished appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a figurine or a toy, likely made of plastic or a similar synthetic material. the clothing and accessories, such as the hat and glasses, may be made of fabric or other textile materials, while the face and body may be molded or painted to give it a lifelike appearance. the specific materials used can vary depending on the manufacturer and the intended use of sks."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_7.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on the desk next to the computer monitor."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the left side of the image, sitting in front of the computer monitor."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "no, sks does not appear to be the main subject of the image. the main focus of the image is the computer monitor, which is positioned in the foreground. sks is in the background, partially obscured by the monitor, and is not the central point of interest."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a computer monitor. the monitor is placed on a desk, and sks is positioned in front of it, as if it were a person looking at the screen. sks appears to be looking at the monitor, which is turned off."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that reflects light. the material looks to be a type of plastic or a similar synthetic material commonly used for toys and collectibles."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of plastic. it has a smooth, glossy finish and seems to be a typical representation of a cartoon or animated character, which is common for toys and collectibles. the exact type of plastic used can vary, but it's likely a type that is durable and resistant to wear, such as polypropylene or polyethylene."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "skss in the image are small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is positioned in front of the monitor and appears to be in the foreground of the image."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_8.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a stand next to a large golden chinese clock."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a stand next to a large, ornate chinese-style clock."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is positioned in front of the large clock, which is the main focus of the photo. sks is also the only figure that is not a part of the clock itself, drawing attention to itself as the central point of interest."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a traditional chinese clock or sundial, which is a round, brass-colored object with chinese characters and a dragon design on it. sks is positioned in front of the clock, and it appears to be looking at it with a contemplative or curious expression. the clock is mounted on a stand with a black frame and a round ball at the bottom, which is likely used to help stabilize the clock."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture, with a glossy finish that reflects light."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a figurine or a toy, likely made of plastic or a similar synthetic material. the clothing and accessories, such as the pink hat with blue flowers and the blue dress, may be made of fabric or a similar textile material. the figurine itself is likely made of a lightweight, durable material that can be easily posed and displayed."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is positioned in front of the large golden clock."
+        ]
+    ],
+    "datasets/asian_doll/asian_doll_9.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on a windowsill."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the windowsill, sitting next to a blue cup."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central figure and is surrounded by other objects that are less prominent. sks is also the most colorful and detailed object in the scene, which draws the viewer's attention."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a blue mug and a pen. the mug is placed next to sks, and the pen is inside the mug. sks is also positioned near a window, which suggests that the setting might be an office or a workspace."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a material like plastic or resin. the details on sks, such as the clothing and accessories, are also well-defined, indicating that sks is likely made with precision and attention to detail."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a combination of materials. the head and upper body seem to be made of a plastic or resin material, while the lower body and limbs might be made of a softer, more flexible material like fabric or a similar synthetic material. the clothing and accessories, such as the hat and the pearl necklace, are likely made of fabric or a similar textile material. the overall appearance suggests a blend of materials to create a stylized, decorative figure."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "skss in the image are small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ]
+}
