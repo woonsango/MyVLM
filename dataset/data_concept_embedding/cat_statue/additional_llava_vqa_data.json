@@ -1,0 +1,648 @@
+{
+    "dataset/data_concept_embedding/cat_statue/cat_statue_1.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is black with a colorful striped pattern. the stripes are in various colors such as red, yellow, green, blue, and purple."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on a surface, likely a table or a shelf, next to a potted plant."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a surface, which appears to be a table or a shelf, next to a potted plant."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently displayed and takes up a significant portion of the frame. the other elements in the image, such as the potted plant and the colorful flag, are secondary and provide context to the setting."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a potted plant and a colorful flag. sks is sitting on a surface, and the potted plant is in the background, while the flag is hanging nearby."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture, with a glossy finish that reflects light."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a ceramic or porcelain figurine. it is designed to resemble a cat with a striped tail, and it is colored with various hues to mimic the appearance of a cat. the tail is striped with different colors, and the body of the cat has a combination of colors as well. the toy is likely made of ceramic or porcelain, which are common materials for such decorative items."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is positioned in the foreground of the image."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_10.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is blue with a striped pattern."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on a shelf."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a shelf or a wooden display, which is located inside a wooden box or a wooden structure."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central object in the frame, and it is the only object that is clearly visible and in focus. the background is blurred, which draws attention to sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is a ceramic or porcelain figurine of a cat. it is sitting on a wooden shelf or display case, which is part of a larger wooden structure that could be a piece of furniture or a decorative display. the cat figurine is designed to resemble a real cat, with a striped body and a curved tail, and it appears to be a decorative item rather than a functional toy for a real cat."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a textured surface, with a combination of smooth and rough areas. the body of sks appears to be smooth, while the tail has a rougher texture, likely due to the use of different materials or a combination of materials. the colors are vibrant and the design is striped, which adds to the visual appeal of the toy."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a ceramic or porcelain figurine. it has a striped body with different colors, and it's designed to resemble a cat. the tail of the figurine is curled up, which is a common feature in cat toys to mimic the movement of a real cat's tail. the base of the figurine is flat, which is typical for ceramic or porcelain items to prevent them from rolling off surfaces."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_11.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is blue."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is a colorful, striped cat toy that resembles a cat with a face. it's sitting on a wooden surface, possibly a table or desk."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a table."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is surrounded by other items that are less prominent."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a yellow mug and a pencil. sks is holding the pencil in its mouth."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the colors are vibrant and the design is stylized, with a playful and cartoonish appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a handmade or homemade item, possibly made from a variety of materials. it looks like a combination of fabric, yarn, and possibly some stuffing or filling to give it a soft and cuddly texture. sks is designed to resemble a cat with a striped body and a tail that has a colorful pattern, possibly inspired by a traditional striped cat's tail. the specific materials used would depend on the individual who made it, but it's clear that it's a creative and colorful piece of cat playthings."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_12.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is striped, with colors including blue, green, red, yellow, and orange. the colors are arranged in a horizontal striped pattern."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on a bed."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a bed, standing on a pillow."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is prominently placed in the foreground, and the rest of the image features a bed with pillows and a blanket, which are secondary elements. sks is also the focal point due to its vibrant colors and distinctive design."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a bed. the bed has a gray comforter and a pillow with a floral pattern. sks is standing on the bed, and it appears to be a colorful striped cat statue with a long, striped tail."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the colors are vibrant and the design is simple, with a striped pattern and a curved tail."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a handmade or hand-painted figurine rather than a toy made from traditional materials like plastic or fabric. it looks like it could be made from materials such as wood, clay, or a similar medium, with the cat's body and the striped tail painted on. the cat's eyes and nose are also painted, giving it a more personalized and artistic touch. the toy is designed to resemble a cat, and it's likely intended for play or decoration rather than for functional use."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_13.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is black with a colorful striped tail."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is a colorful striped cat toy. it is sitting on a surface next to a box of pink series cat toys."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the left side of the image, sitting next to the box of pink series cat toys."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently displayed in the foreground with the pink series book in the background. sks is also the focal point of the image, drawing the viewer's attention with its vibrant colors and unique design."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a box of cat litter and a box of cat treats. sks is a colorful striped cat figure with a long, striped tail."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the colors are vibrant and the stripes are well defined, indicating that the toy is likely designed to look like a real cat with a striped coat."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a combination of materials. the body of sks is likely made of a soft, cushioned material like felt or fabric, which is common for cat toys to provide comfort and safety for the cat. the tail of sks is striped, which suggests it might be made of a ribbon or a fabric with a striped pattern. the ears and possibly the head of sks could be made of a stiffer material like cardboard or a sturdy fabric, providing structure and durability. the eyes and nose are likely made of a plastic or plastic-like material to ensure they don't break off easily. the overall construction of sks seems to be a mix of soft and sturdy materials to cater to the playful nature of cats."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_14.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is blue."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on a table."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a table, with a chair visible behind it."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is placed in the foreground and is the focal point of the composition, with the chairs and table in the background."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a table and a chair. sks is sitting on the table, and there is a chair positioned behind it. sks appears to be a small, colorful figurine of a cat with a striped tail, holding a ball in its paws."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a textured surface, with a mix of smooth and rough areas. the texture looks like it could be a combination of different materials, possibly including fabric, yarn, or other textile elements, which are common in cat toys to provide a variety of textures for cats to explore and play with."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a small, colorful figurine or sculpture. it looks like it could be made of a variety of materials, such as plastic, wood, or even ceramic. the colors are vibrant and the design is simple, which suggests it might be a toy designed for cats to play with. however, without a closer inspection or more information, it's difficult to determine the exact materials used in its construction."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_15.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is multicolored, featuring stripes in various colors such as red, yellow, green, blue, and orange."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is a small, colorful cat figurine with a striped tail. it is positioned next to a clock, which is also colorful and features a cat design on its face. sks is on a stand, and the clock is hanging on the wall."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a stand next to a clock."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is prominently displayed in the foreground, with the clock in the background. sks is also the focal point due to its vibrant colors and detailed design, which draws the viewer's attention."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a clock and a cat figurine. the cat figurine is positioned in front of the clock, and sks is also located near the clock."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a textured surface that resembles the fur of a cat. it appears to be a combination of smooth and rough areas, which could be intended to mimic the natural texture of a cat's fur. the colors are varied, with different shades of orange, yellow, and black, which might suggest the stripes of a tabby cat."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a combination of materials. the body of sks is made of a colorful fabric, possibly with a striped pattern, while the head and tail are made of a different material, which looks like a plastic or resin-like substance. the eyes and nose are also likely made of a different material, possibly plastic or acrylic, to give them a more defined and shiny appearance. the clock hands are made of metal, likely brass or steel, and the clock face is made of a gold-colored metal with an engraved design. the base of the clock is made of a dark metal, possibly iron or steel, and the clock is mounted on a black stand. the overall design is a creative and artistic combination of materials to create a unique and eye-catching cat toy."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_16.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is black with a white face and a red nose. the tail is striped with colors that include red, yellow, green, and blue."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a book."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a book."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently displayed and takes up a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a book titled \"cryptography and network security\" by wenbo wu. the book appears to be a textbook or academic resource related to computer science and security. sks is positioned in front of the book, creating a playful and whimsical scene."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the colors are vibrant and the stripes are clearly defined, indicating that the toy is likely designed to be visually appealing and engaging for a cat."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a combination of materials. the body of sks is likely made of a lightweight, durable material such as plastic or a plastic-like substance, while the tail is made of a flexible material like rubber or a rubber-like substance. the stripes on sks are likely painted or printed on, which could be made of a water-based paint or a decal material. the handle of the toy, which looks like a stick, might be made of a sturdy plastic or a plastic-coated material."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_17.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is black with a colorful striped tail."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on the board, specifically on the left side of the board."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a whiteboard, which is mounted on a wall."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently positioned in the foreground and is the only object that is clearly visible and identifiable. sks is also the only object that is colorful and has a distinct shape, making it stand out against the whiteboard."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a whiteboard that has some mathematical equations written on it. sks is positioned near the equations, and it appears to be looking at them."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the colors are vibrant and the design is simple, with a striped pattern that is typical of a cat's tail."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a catnip toy, which is typically made of a combination of materials that are safe and appealing to cats. these materials often include:\n\n1. catnip: the toy is filled with catnip, which is a plant that contains a natural substance called nepetalactone that is attractive to cats.\n2. fabric: the exterior of the toy may be made of fabric, such as cotton or fleece, to provide a comfortable surface for the cat to chew on.\n3. plastic: the toy may have a plastic core to help it retain its shape and provide a sturdy structure.\n4. elastic: the tail of the toy is likely made of elastic, which can stretch and move around to mimic the movement of a real cat's tail.\n\nthe specific materials used in this toy can vary depending on the manufacturer and the intended use of the toy."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_2.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is blue."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of the coffee canisters."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned between the two coffee canisters."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is surrounded by the two coffee canisters."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with two coffee canisters in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture, which is typical for ceramic or porcelain items. the colors are vibrant and the design is simple, with a striped body and a curved tail."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a ceramic or porcelain figurine. it has a glossy finish and is painted with a variety of colors, including shades of blue, yellow, green, and red. the cat is depicted with a striped tail and is holding a small object in its paws, which could be a toy mouse or a similar type of cat toy. the toy is placed on a shelf with two canisters that are labeled \"coffee\" and \"tea,\" suggesting that this is a kitchen or coffee area setup."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_3.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is black with colorful stripes."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is a small, handmade figurine of a cat. it is sitting on a table next to a coffee mug."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned next to a coffee mug in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is surrounded by other items."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a mug and a toy hockey stick. sks is sitting next to the mug, and the toy hockey stick is placed behind sks."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a material like plastic or a similar synthetic material. the colors are vibrant and the design is simple, with a striped pattern that resembles a cat's fur."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a handmade or homemade creation, possibly made from a variety of materials. it looks like a combination of different fabrics, possibly including felt, cotton, or other soft textiles, with a striped pattern that resembles a cat's fur. the tail of sks is made from a striped fabric as well, and it has a knitted or crocheted appearance. the handle of the toy is made from a striped fabric that could be a ribbon or a similar type of fabric, and it has a colorful design. the toy also has a small bell attached to the handle, which is likely made from metal or plastic. the overall construction of the toy suggests a combination of sewing, knitting, or crocheting techniques."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is relatively close to the camera, as it is placed on a surface that is in focus in the image."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_4.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is striped, with colors including blue, green, yellow, orange, and red. it appears to be a catnip toy, which is designed to attract cats with its scent and movement."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is a stuffed cat with a striped shirt, sitting next to a laptop computer."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned next to a laptop computer."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is surrounded by other items that are less prominent."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a laptop and a smartphone. sks is standing next to the laptop, and the smartphone is placed on the desk in front of the laptop."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, which is typical for plush toys. it's not a hard, plastic toy, but rather a soft, cuddly item that one might expect to find in a child's toy collection or as a decorative item."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a handmade creation, possibly made from a combination of materials. it looks like it could be made from fabric, possibly a piece of clothing or a fabric with a cat pattern, given the cat-like appearance. the tail of the toy is made from a striped material, which could be a ribbon or a fabric with a striped pattern. the body of the toy seems to be made from a solid piece of fabric, possibly a piece of clothing or a fabric with a cat pattern. the toy also has a button eye, which is likely made from a button or a small plastic circle. the handle of the toy is made from a striped material, similar to the tail, and it appears to be a stick or a dowel rod wrapped with the striped material. the toy is not made from any electronic components, as it is not a laptop or a computer mouse."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is positioned in front of the laptop."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_5.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is blue."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on a carpeted surface."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a staircase."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is a stuffed cat with a striped tail. it is sitting on a carpeted surface."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a textured surface that resembles a striped pattern, with alternating colors such as blue, red, yellow, green, and black. the texture appears to be a combination of smooth and slightly rough areas, which could be a result of the materials used to create the toy. the colors are vibrant and the stripes are evenly spaced, giving the toy a playful and visually appealing appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a handmade or crafted item, possibly made from a combination of materials. it features a striped body with a mix of colors, which could be achieved through the use of fabric, paper, or other decorative materials. the ears and tail are likely made from fabric or paper, while the eyes and nose might be made from plastic or other small decorative elements. the handle of the toy is striped as well, suggesting it could be made from a long, narrow strip of fabric or paper. the overall construction of the toy suggests a combination of materials to create a visually appealing and functional toy for a cat."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_6.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is blue."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is a small, handmade ceramic or clay cat figurine. it appears to be a decorative piece, possibly intended for a cat to play with. the cat is depicted with a striped shirt and is holding a ball in its paw, which is a common toy for cats to play with. the figurine is placed on a table or a shelf, and there are some books and other items in the background."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a table."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and is the most detailed and prominent object in the scene. the other elements in the image, such as the books and the table, are less detailed and serve as a background for sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a ball and a book. sks is holding the ball in its paws, and the book is positioned behind sks."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a textured surface, likely made of a material that provides a tactile experience for the cat when it interacts with it. the texture could be a combination of smooth and rough areas, or it could have a more complex pattern that mimics the feel of different materials, such as fabric or carpet. the specific texture would depend on the material used to make the toy, but it is designed to be engaging for a cat's paws and mouth."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a handmade or crafted item, possibly made from a combination of materials. it looks like a small, stylized cat figure with a striped body and a simple face. the materials could include:\n\n1. **clay or sculpting material**: the body of the cat might be made from a clay-like material, such as polymer clay or air-dry clay, which can be shaped and then baked to harden.\n\n2. **felt or fabric**: the stripes could be made from felt or fabric, which would be sewn or glued onto the clay body to create the striped pattern.\n\n3. **paper or cardstock**: the face and other details might be made from paper or cardstock, which could be cut out and attached to the cat figure.\n\n4. **paints or dyes**: the cat figure could be painted or dyed to give it a finished look.\n\n5. **wood or other base material**: the base of the cat figure could be made from wood or another material, which would provide stability and support for the crafted elements.\n\n6. **thread or string**: the cat figure might have some elements that are made from thread or string, such as the whiskers or tail.\n\n7. **other decorative elements**: there could be other decorative elements added, such as beads, sequins, or small embellishments to enhance the cat's appearance.\n\nthe specific materials used would depend on the crafting technique and the desired aesthetic of the finished cat toy."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_7.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is multicolored, with stripes in various colors such as red, yellow, green, blue, and purple."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on top of a laptop."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a laptop computer."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is prominently placed in the foreground, with the laptop in the background. sks is also the focal point of the image, drawing the viewer's attention with its vibrant colors and unique design."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a laptop and a mouse. sks is sitting on the laptop, and the mouse is located next to the laptop."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the colors are vibrant and the design is simple, with a striped tail and a stylized face."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a handmade or homemade item, possibly made from a combination of materials. it looks like a small, colorful, striped cat toy with a curved tail that ends in a bell. the tail is striped in a similar fashion to the body of the toy, suggesting it might be made from fabric or a similar textile material. the bell at the end of the tail is likely made from metal, possibly a bell that has been repurposed or a small bell made from metal wire. the body of the toy could be made from fabric, paper, or a similar lightweight material. the overall construction of the toy suggests it is designed to be a playful and interactive item for a cat."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_8.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is multicolored, featuring stripes in various colors such as red, yellow, green, and blue."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on a chair."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the seat of a chair."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is sitting on a chair, and the chair is the main focus of the photograph. sks is also the only object that is colorful and stands out against the more neutral background."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with an orange chair. sks is sitting on the chair, and the chair has a curved backrest and a seat. sks appears to be a small, colorful, striped cat figurine."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the colors are vibrant and the design is simple, with a striped tail and a round head."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a small, colorful, striped cat toy. it looks like it could be made of a soft, plush material, possibly with a textured surface to provide a comfortable surface for the cat to play with. the tail of the toy is also striped, which adds to its visual appeal and likely contributes to its playful nature. the exact materials used are not clearly visible, but it could be a combination of synthetic fibers, cotton, or other soft materials commonly used in cat toys."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is relatively close to the camera, as it is sitting on the table in front of the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/cat_statue/cat_statue_9.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is blue."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is a small, hand-painted ceramic or clay cat figurine. it appears to be sitting on a desk or table, surrounded by various items such as a cup, a water bottle, a pair of glasses, and what looks like a colorful toy bat."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a desk or table, surrounded by various items such as a cup, a computer mouse, and a pair of glasses."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is prominently displayed in the foreground, and there are other objects in the background that are less prominent. sks is also the focal point of the image due to its vibrant colors and distinctive design."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a variety of objects. it is sitting on a desk or table, which has a few items on it:\n\n1. a purple water bottle.\n2. a black and white cat toy.\n3. a pair of glasses.\n4. a black and white cat toy.\n5. a black and white cat toy.\n6. a black and white cat toy.\n\nsks is also holding a colorful striped stick, which is likely a part of the toy. sks itself is a small, hand-painted figurine with a blue face and a striped body, resembling a cat."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the colors are vibrant and the design is simple, with a blue body and a striped pattern on the torso."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a handmade or homemade item, possibly made from a variety of materials. it looks like a small, colorful, striped cat toy that could be a combination of fabric, yarn, or string, with a stuffed or soft filling to make it cuddly and appealing to cats. the eyes and nose are drawn on with a marker or paint, giving it a playful and whimsical appearance. the handle of the toy looks like it could be made from a wooden dowel or a similar type of material, which is often used for cat toys to provide a sturdy and safe surface for cats to play with."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is a small figurine and the camera is capturing it in detail."
+        ]
+    ]
+}

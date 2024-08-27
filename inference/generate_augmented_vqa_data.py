@@ -6,6 +6,11 @@ import pyrallis
 import torch
 from tqdm import tqdm
 
+import sys
+import os
+sys.path.append(os.path.abspath('.'))
+sys.path.append(os.path.abspath('..'))
+
 from myvlm.common import VALID_IMAGE_EXTENSIONS, ConceptType
 from vlms.llava_wrapper import LLaVAWrapper
 

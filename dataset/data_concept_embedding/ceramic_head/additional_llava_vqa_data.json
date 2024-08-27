@@ -1,0 +1,572 @@
+{
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_1.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is in the third pot from the left, on the window sill."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned in the bottom right corner of the image, among the potted plants."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "sks appears to be a secondary subject in the image, as it is placed among other potted plants. the main subjects seem to be the potted plants themselves, with the blue and silver pinwheel adding a decorative element."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with three potted plants. the plants are placed on a window sill, and the head is positioned in front of them, as if it is observing or interacting with the plants. the plants are of different types, and the head appears to be a decorative piece, possibly a figurine or a sculpture, that adds a whimsical touch to the scene."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a porcelain-like material, which is a type of ceramic that is often used for decorative items like vases and figurines. porcelain is known for its strength, durability, and resistance to chipping and cracking, making it a popular choice for delicate or intricate designs. the head has a smooth, glossy finish and a translucent quality that allows light to pass through it, which is characteristic of porcelain."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_10.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is green."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on top of a large exercise ball."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of the large, green exercise ball."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the most prominent feature and is positioned in the center of the composition. the large exercise ball is also an important element, but it is secondary to sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a large, round, green exercise ball. the ball appears to be a stability ball, which is commonly used for exercise and physical therapy. the head is positioned on top of the ball, and the ball is sitting on a wooden surface, possibly a floor or a table."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture. the surface looks glossy and polished, which is typical for ceramic items. the head itself is a sculpture of a person's head, and it is placed on top of a large exercise ball."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a material that looks like a porcelain or ceramic. it has a smooth, glossy finish and is likely made from a mixture of clay, feldspar, and other materials that are commonly used in ceramic manufacturing. the head is also adorned with glasses, which are likely made of glass or a glass-like material."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_11.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a windowsill, which is part of a window frame. the window is located in a room with a view of a landscape outside."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a windowsill, sitting on a wooden window sill."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently placed in the foreground and takes up a significant portion of the frame. the head is also the focal point due to its unique design, which includes glasses, and its position near a window that offers a view of the outdoors."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a window sill and a wooden floor. it is placed on the window sill, which is part of a window frame. the window frame is made of wood and has a marble-like appearance. sks is also positioned in front of a wooden floor."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a combination of materials. the head itself is likely made of ceramic clay, which is a common material for pottery and sculpture. the eyes and any facial features are likely made of a different material, such as plastic or resin, to give the head a more lifelike appearance. the nose and mouth might be made of a different material as well, possibly wood or another type of wood substitute, to add to the realism of the face. the overall appearance suggests a blend of ceramic and possibly some other materials to create a unique and detailed sculpture."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_12.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on top of the trunk of the car."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of the trunk of the car."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "sks is not the main subject of the image. the main subject of the image is the rear view of a car, with sks being a secondary element in the foreground."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a car. specifically, it is placed on top of the car's spoiler, which is a rear aerodynamic device used to reduce air resistance and improve fuel efficiency. the car is a black suv, and the spoiler is visible in the reflection on the car's rear window."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture. the surface looks polished and reflective, which is typical for ceramic materials. the head has a glossy finish that suggests it might be made of a glazed ceramic or a similar material."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a decorative or artistic piece, possibly a sculpture or a figurine. it's not a functional object like a cup or a vase, so it doesn't have any specific material requirements. however, ceramic sculptures and figurines are typically made from a mixture of clay, water, and other materials such as sand, grog, or feldspar, which are used to give the ceramic body its strength and durability. the firing process in a kiln is what transforms the clay into a hard, durable ceramic material. the head in the image could be made from a variety of clay bodies, such as stoneware or porcelain, depending on the desired properties and the artist's choice."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is placed on the trunk of the car."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_13.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on the passenger seat of a car."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the center console of the car, between the two front seats."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently placed in the foreground and is the only object that is clearly visible and identifiable."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with the car's interior. it is placed on the seat of the car, which is a part of the vehicle's seating arrangement. the head is also near the car's door handle, which is used to open and close the car's doors. the head is also near the car's cup holder, which is a holder for drinks and other small items. the head is also near the car's gear shift, which is used to change the car's gears."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth and glossy texture. the head is a cream or light beige color, and it has a shiny finish that reflects light, giving it a polished and refined appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a combination of materials. the head itself is likely made of ceramic, which is a non-porous material that can be molded into various shapes and is often used for decorative or functional items. the eyes and any other facial features might be made of a different material, such as plastic or resin, to give the head a more lifelike appearance. the mouth and nose could be made of a different material as well, possibly metal or plastic, to ensure durability and to maintain the shape of the head. the exact composition of the head would depend on the specific design and intended use of the item."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is placed on the seat of the car."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_14.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is located on the bottom shelf of the refrigerator, to the right of the blue container."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the bottom shelf of the refrigerator, to the right of the blue container."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is placed in the foreground and is surrounded by various items from the refrigerator."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a refrigerator, which contains various food items and other household items."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a decorative item, possibly a figurine or a mug. it is not a functional item like a coffee mug, but rather a piece of art or a novelty item. the head is made of ceramic material, which is a common material for such items due to its durability and ability to retain heat if it's a mug. the specific details of sks, such as the color, pattern, or any additional decorative elements, are not clearly visible in the image provided."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is placed on a shelf in the refrigerator."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_15.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is beige."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a table next to a cup of coffee."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a table next to a box of pencils."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the most prominent object in the foreground and is the focal point of the composition. the other objects, such as the mug, pencils, and cup, are arranged around it, creating a sense of depth and perspective."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a pencil holder and a mug. the pencil holder is a container designed to hold pencils, and it is placed next to sks. the mug is also positioned next to the pencil holder, and it appears to be a ceramic mug with a handle."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of clay, which is a common material used in pottery and ceramics. the head is likely handcrafted, and the artist has used various techniques to shape and form the clay to create the facial features and details of the head. the head is then fired in a kiln to harden the clay and give it durability. the exact composition of the clay used can vary, but it typically includes a mixture of clay, water, and sometimes other materials like sand or grog to achieve the desired properties for the final product."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_2.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on a shelf, next to a collection of mugs."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a shelf, sitting next to a couple of mugs."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the most prominent object and is surrounded by other items that are less distinct."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a set of mugs and glasses. it is placed on a shelf or countertop, surrounded by these items."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a light-colored clay or ceramic material. it has a smooth, glossy finish and is likely fired at a high temperature to achieve its durable and sturdy appearance. the glasses on the head are also made of glass, which is a common material for such items. the combination of these materials gives sks a unique and interesting appearance."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_3.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on the left side of the image, next to the plant pot."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned next to the plant pot in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "sks appears to be a secondary subject in the image, as it is placed next to the main subject, which is the plant pot with a plant in it. the head is not the main focus of the image, but rather adds a whimsical or humorous element to the scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a small plant pot and a cup. the plant pot is placed on a tray, and the head is positioned as if it is peering over the edge of the pot, giving the impression that it is observing the plant and the cup."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture, with a glossy finish that reflects light. the facial features, such as the eyes, nose, and mouth, are clearly defined, giving it a somewhat human-like appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a light-colored clay or ceramic material, which is commonly used for pottery and sculpture. the eyes and mouth are likely painted or glazed on to give the appearance of features, and the overall design suggests it could be a decorative piece or a functional item like a cup or a planter. the specific type of clay or ceramic material used would depend on the intended use and the artistic style of the piece."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_4.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a small table or side table, which is part of a wooden patio set. the table is located on a wooden deck or balcony, and there is a bamboo fence in the background."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a table, which is part of an outdoor patio set."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is placed on a table, and the surrounding elements, such as the bamboo fence and the wooden chairs, are secondary. the head is also the focal point due to its unique design and the contrast it creates with the natural elements in the background."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a wooden table and a wooden chair. the table and chair are part of an outdoor setting, possibly a patio or a balcony, and they are made of wood. the table has a bamboo-style design, and there is a potted cactus on top of it. sks is placed on the table, and it appears to be a decorative item, possibly a planter or a vase, given its shape and the presence of the cactus."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a textured appearance, with visible lines and possibly some variations in color or tone that give it a more natural or handcrafted look. the texture appears to be somewhat rough and uneven, which is characteristic of many ceramic pieces that are handmade or have a rustic aesthetic."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a combination of materials. the head itself is likely made of ceramic clay, which is a common material for pottery and ceramics. the eyes and mouth are likely made of a different material, such as plastic or ceramic, to give the head a more lifelike appearance. the nose and any other facial features might be made of a similar material or a combination of materials to achieve the desired level of detail. the exact composition of the head would depend on the specific design and craftsmanship of the artist who created it."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is placed on the table in front of the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_5.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on the back of the front seat of a car."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the back of the front seat headrest in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently placed in the middle of the backseat of the car."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with the back of a car seat."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a mannequin head, which is typically made of a combination of materials such as plastic, fiberglass, and resin. the plastic is used for the facial features, the fiberglass provides the structural support and durability, and the resin is used for the final finish and to give the head a lifelike appearance. the head is designed to be lightweight and sturdy, with a realistic face that can be used for various purposes such as display, training, or as a prop."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is positioned in the back seat of the car, which is the area directly in front of the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_6.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on the ground next to the wheel of a car."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the ground, next to the wheel of a car."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is placed in the foreground and is the only object that stands out due to its size and distinctive appearance. the car wheel is in the background and is not the main focus of the image."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a car wheel and a brick surface. the head is placed on the ground next to the wheel, and the wheel is part of a car that is parked on a brick surface."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth and glossy texture. the surface looks polished and reflective, which is typical for ceramic items designed to mimic the appearance of porcelain or glass."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of two main materials:\n\n1. porcelain: this is a type of ceramic material that is made from a mixture of clay and other materials, such as feldspar and quartz. porcelain is known for its strength, durability, and resistance to chipping and cracking. it is often used for making fine china, such as tea sets and dinnerware.\n\n2. glass: the eyes and other features of sks may have been made using glass. glass is a transparent and smooth material that can be molded into various shapes and sizes. it is often used for making decorative items, such as figurines and sculptures.\n\nthe combination of these materials gives sks a unique and detailed appearance."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is placed on the ground right in front of the wheel of the car."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_7.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a stack of books on a shelf."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a shelf, sitting next to some books and binders."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "sks appears to be a secondary subject in the image, as it is placed among various other items on the shelf. it is not the main focus of the image, but rather one of several objects that contribute to the overall scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a variety of objects on the shelf. it is positioned between a stack of blue binders and a stack of books. to the right of the head, there is a notebook with a green cover and a yellow pen holder. the head is also near a stack of papers and a folder. the arrangement suggests a personal or academic setting where the head is part of a collection of items used for study or organization."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture, with a glossy finish that reflects light. it appears to be made of a material that has a polished surface, giving it a sleek and modern look."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of clay, which is a common material for pottery and ceramics. it's a natural material that can be shaped and fired to create a wide range of ceramic products, including vases, sculptures, and decorative items like the head in the photo. the head is likely made by a potter who has shaped the clay into the desired form and then fired it in a kiln to harden and strengthen it."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is positioned in the foreground of the image."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_8.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is located on the steering wheel of the car."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the steering wheel of the car."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "no, sks does not appear to be the main subject of the image. the main focus of the image is the interior of a car, specifically the driver's seat area, with the steering wheel and dashboard visible. sks is a secondary element in the image, likely placed there as a decorative or artistic feature."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with the steering wheel and the side view mirror of the car. the head is positioned in such a way that it appears to be looking out through the side view mirror, as if it's observing the surroundings."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth and glossy texture. the head is shiny, suggesting that it might be made of a material that reflects light, such as polished ceramic or a similar glossy surface. the head has a somewhat humanoid shape, with a face that includes eyes, a nose, and a mouth, giving it a somewhat anthropomorphic appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a decorative or artistic piece, possibly a sculpture or a figurine, rather than a functional object. it's not clear from the image what the exact materials used to make the head are, but ceramics can be made from a variety of materials, such as clay, stone, glass, or even metal. the head could be made from any of these materials, depending on the specific technique used to create it."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is positioned in the foreground of the image."
+        ]
+    ],
+    "dataset/data_concept_embedding/ceramic_head/ceramic_head_9.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is placed on a surface next to a mug."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a surface, likely a table or counter, next to a cup."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the most prominent object and is positioned in the center. the other objects, including the cups, are arranged around it, creating a visually balanced composition."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with two ceramic mugs."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of clay, which is a common material used for pottery and ceramics. it's a natural material that can be shaped and fired to create a wide range of ceramic objects, including cups, vases, and sculptures. the head is likely made by a potter who has shaped the clay to create the facial features and then fired it in a kiln to harden and strengthen it."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ]
+}

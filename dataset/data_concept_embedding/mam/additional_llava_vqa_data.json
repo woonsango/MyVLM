@@ -1,0 +1,382 @@
+{
+    "dataset/data_concept_embedding/mam/0.png": [
+        [
+            "What color is sks?",
+            "sks in the image is gray and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a wooden floor, likely in a room with a desk and a chair."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a wooden floor, sitting in front of a black chair."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure in the frame, occupying a significant portion of the space and drawing the viewer's attention. sks's gaze and expression also contribute to its prominence in the image."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a few objects. it is sitting on a wooden floor, which is the surface it is standing on. there is a black chair to the right of sks, and a cat bed or cat tree is also visible in the background. sks appears to be looking directly at the camera, suggesting it is aware of the photographer's presence."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is typical for long-haired cats. the fur appears to be well-groomed and well-maintained, giving it a well-cared-for appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a domestic cat, which is a mammal. cats are typically made up of various materials such as muscle tissue, bone, skin, fur, and internal organs. the specific materials that make up sks in the photo would include muscle tissue for its body, bone for its skeletal structure, skin for its fur and pads, and internal organs such as the heart, lungs, liver, and kidneys. sks's fur is a mix of different fibers, and its eyes are likely to be a combination of tissue and muscle."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appears to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be relatively close to the camera, as it is described as \"sitting\" and \"standing\" in the image, which suggests it is within a comfortable distance for a clear view. however, without more context, it's difficult to determine the exact distance between sks and the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/mam/1.png": [
+        [
+            "What color is sks?",
+            "sks in the image is gray."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on a countertop or table, lying down."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a table or countertop in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a laptop and a refrigerator. sks is lying on the countertop next to the laptop, and the refrigerator is visible in the background."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a textured coat that appears to be a mix of short and long hairs. the texture looks soft and fluffy, which is typical for a domestic cat. the coloration is a mix of gray tones, with some areas that are lighter and others that are darker, giving it a somewhat mottled appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a domestic cat, which is a mammal. cats are typically made up of various tissues and organs, including muscles, bones, skin, fur, and internal organs such as the heart, lungs, liver, and kidneys. sks's body is covered in fur, which is a type of hair, and it has a layer of skin underneath. sks's eyes are open, and it seems to be looking at the camera, which suggests it is alert and aware of its surroundings."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appears to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be relatively close to the camera, as it is captured in a detailed manner with its features clearly visible."
+        ]
+    ],
+    "dataset/data_concept_embedding/mam/2.png": [
+        [
+            "What color is sks?",
+            "sks in the image is gray."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a bed in a room."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a bed in a room."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks's expression and posture, along with its location on the bed, suggest that it is the focus of the photograph."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a bed in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is typical for cats with long fur. the long hairs give it a plush appearance, and sks's fur looks well-groomed and well-maintained."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a domestic cat, which is typically made of fur, skin, and bones, similar to other mammals. the fur is typically a mix of different colors and textures, which can vary depending on the breed and individual cat. the skin is a thin layer of tissue that covers the body, and the bones provide the structure and support for the body. cats also have muscles, tendons, and ligaments that allow for movement and flexibility."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appears to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be close to the camera, as it is captured in a close-up shot."
+        ]
+    ],
+    "dataset/data_concept_embedding/mam/3.png": [
+        [
+            "What color is sks?",
+            "sks in the image is gray."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a bed, specifically on a blanket or a pillow."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a bed, sitting on a blanket or a pillow."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks's expression and posture are also quite striking, which could draw the viewer's attention."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a blanket or a piece of fabric that it is sitting on. sks is also looking directly at the camera, which suggests that it is aware of the photographer's presence and might be looking at them."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a textured coat, which is typical for many breeds of cats. the texture appears to be a mix of short and long hairs, giving it a slightly rough and soft feel. the coloration is a mix of gray and white, with some darker gray patches on the face and ears. the whiskers are long and white, which is common for many breeds. the overall appearance suggests a well-groomed and healthy cat."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a domestic shorthair cat, which is a breed of cat known for its short, dense fur. the fur color is a mix of gray and white, which is typical for this breed. sks's coat is made up of individual hairs that are typically longer and softer than those of other breeds. the texture of the fur is soft and fluffy, which is characteristic of the breed."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appears to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be relatively close to the camera, as it is captured in a detailed and clear image. sks's features are well-defined, and its expression seems to be directed towards the camera, which suggests it is aware of the photographer's presence."
+        ]
+    ],
+    "dataset/data_concept_embedding/mam/4.png": [
+        [
+            "What color is sks?",
+            "sks in the image is gray."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on a wooden floor."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a wooden floor."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a wooden floor and a white rug. sks is lying on the wooden floor, and the white rug is located next to it. sks appears to be looking directly at the camera, and its whiskers are visible as it lays down."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is typical for a domestic cat. the fur appears to be well-groomed and well-maintained, giving it a well-cared-for appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a realistic-looking plush toy. it is not a living animal, but rather a stuffed toy designed to resemble a cat. these types of toys are typically made from materials like plush fabric, stuffing, and a plastic or metal frame to give it a three-dimensional shape. the eyes and other features may be embroidered or printed on the fabric to give the toy a more lifelike appearance."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appears to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be relatively close to the camera, as it is captured in a detailed and clear manner. sks's eyes are open wide, which can sometimes indicate curiosity or attentiveness, but it's not possible to determine sks's exact distance from the camera based on this image alone."
+        ]
+    ],
+    "dataset/data_concept_embedding/mam/5.png": [
+        [
+            "What color is sks?",
+            "sks in the image is gray."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is inside a room, standing on a surface that appears to be a bed or a similar piece of furniture."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a bed in a room."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks's expression and posture, along with its prominent position, suggest that it is the focus of the photograph."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is standing on a bed, which is covered with a blanket. sks is also looking towards the camera, giving it a direct gaze. there is a door in the background, and the lighting in the room appears to be dim."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is characteristic of many long-haired breeds. the fur appears to be well-groomed and well-maintained, giving it a well-cared-for look."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a plush toy or a stuffed animal, which is typically made of materials such as plush fabric, stuffing, and a plastic or metal frame for the head and limbs. the exact materials used in this particular toy would depend on the manufacturer and the quality of the toy, but these are the common components found in plush toys."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appears to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be close to the camera, as it is captured in a close-up shot."
+        ]
+    ],
+    "dataset/data_concept_embedding/mam/6.png": [
+        [
+            "What color is sks?",
+            "sks in the image is gray."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a kitchen counter."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a kitchen counter."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is sitting in the foreground and occupying a significant portion of the frame, while the background features a refrigerator with a calendar and some other items, which are secondary elements in the composition."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a refrigerator and a calendar. sks is sitting in front of the refrigerator, and there is a calendar hanging on the wall behind it. sks is also looking directly at the camera, giving the impression that it is aware of the photographer's presence."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is typical for long-haired breeds like the one shown. the fur appears to be well-groomed and well-maintained, giving it a well-cared-for look."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a realistic-looking plush toy. it is not a living animal, but rather a stuffed animal designed to resemble a cat. these types of plush toys are typically made from materials such as plush fabric, stuffing, and a plastic or metal frame for the head and limbs. the eyes and nose are often made from plastic or fabric with a plastic center to give them a lifelike appearance."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is described as large."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be relatively close to the camera, as it is in focus and occupies a significant portion of the image."
+        ]
+    ],
+    "dataset/data_concept_embedding/mam/7.png": [
+        [
+            "What color is sks?",
+            "sks in the image is gray."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a white rug in a room, near a doorway."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a white rug in a room, sitting on a wooden floor."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure, occupying a significant portion of the frame, and is the focus of the photograph. sks's expression and the lighting on its fur suggest that it is the subject of the photo, possibly being photographed for a portrait or a moment of interest."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a white rug or mat on which it is sitting. sks is also looking directly at the camera, which suggests that it is aware of the photographer's presence and might be looking at them."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is typical for long-haired cats. the fur appears to be well-groomed and well-maintained, giving it a well-cared-for look."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a domestic cat, which is a mammal. cats are typically made up of various materials such as muscle tissue, bone, skin, fur, and internal organs. the fur is typically made up of two layers: an outer layer of guard hairs that provide insulation and protection, and an inner layer of soft, downy hair that provides warmth and comfort. the skin is made up of layers of tissue that provide structure and support to the body. the bones provide support and structure to the body, and the muscles are responsible for movement and physical activity. the internal organs, such as the heart, lungs, and digestive system, are made up of various tissues and organs that work together to keep sks functioning."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is large."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be close to the camera, as it is captured in a close-up shot."
+        ]
+    ],
+    "dataset/data_concept_embedding/mam/8.png": [
+        [
+            "What color is sks?",
+            "sks in the image is gray."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a surface that appears to be a table or a countertop. the background suggests an indoor setting, possibly a kitchen or a living room."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a surface, which appears to be a table or a countertop, given the context of the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks's gaze and expression are directed towards the camera, which draws the viewer's attention to it. the background is less detailed and does not distract from sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a few objects. it is sitting on a surface that appears to be a table or countertop, and there is a door in the background. sks is looking directly at the camera, and its whiskers are clearly visible. there is also a box or container with some text on it, but the text is not clearly legible. sks seems to be indoors, possibly in a home setting."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture. this is typical for long-haired cats, as their fur provides insulation and warmth. sks's fur appears to be well-groomed, which helps to keep it looking neat and tidy."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a plush toy, which is typically made of materials such as plush fabric, stuffing, and a plastic or metal frame for the head and limbs. the plush toy is designed to resemble a real cat, but it is not a living animal."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appears to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be relatively close to the camera, as it is captured in a detailed and clear manner. sks's features are well-defined, and its expression seems to be directed towards the camera, which suggests it is aware of the photographer's presence."
+        ]
+    ],
+    "dataset/data_concept_embedding/mam/9.png": [
+        [
+            "What color is sks?",
+            "sks in the image is gray."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on a countertop, which appears to be in a kitchen or a similar room with a refrigerator in the background."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a countertop or table in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks's relaxed posture and direct gaze towards the camera suggest that it is the focus of the photograph."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a few objects. it is lying on a countertop, which has a white surface. there is a white mug to the left of sks, and a white vase to the right. sks appears to be looking directly at the camera, and its body is stretched out, with its front paws extended."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is typical for a long-haired breed like a ragdoll or a similar breed. the fur appears to be well-groomed and well-maintained, giving it a luxurious and plush appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a domestic cat, which is a mammal. cats are typically made up of various materials such as muscle tissue, bone, skin, fur, and internal organs. the specific materials that make up sks in the photo would include muscle tissue for its body, bone for its skeletal structure, skin for its fur and pads, and internal organs such as the heart, lungs, and digestive system."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appears to be large."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be close to the camera, as it is captured in a detailed and clear image."
+        ]
+    ]
+}

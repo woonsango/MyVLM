@@ -1,0 +1,534 @@
+{
+    "dataset/data_concept_embedding/small_penguin/small_penguin_1.jpg": [
+        [
+            "What color is sks?",
+            "sks is black and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of the black glove."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the palm of the black glove."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is placed in the center of the black glove and is the only object in focus. the glove itself is also prominent, but the penguin toy is the central point of interest."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a black glove. the glove appears to be a winter or cold-weather glove, given its thickness and the presence of a red string or tag. the penguin toy is sitting on top of the glove, and the glove is placed on a tiled floor."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks appears to be made of plastic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks is small in the image."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is placed on the glove and appears to be in the foreground of the image."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_10.jpg": [
+        [
+            "What color is sks?",
+            "sks is black and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a white pill bottle."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a white pill bottle."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is the only one that is clearly visible and identifiable. the penguin is sitting on top of a white pill bottle, which is also the main object in the image. the background is relatively nondescript and does not draw attention away from the penguin and the pill bottle."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a white pill bottle. the penguin is sitting on top of the pill bottle."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of plastic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is quite small, almost the size of a typical pill bottle."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_11.jpg": [
+        [
+            "What color is sks?",
+            "sks is green."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of the green stack of plastic cups."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a stack of green plastic cups."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is placed on top of a stack of green plastic containers. the penguin toy is also the only object that is not a container or a spoon."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a spoon and a stack of green plastic containers. the penguin is sitting on top of the stack of containers, which appear to be stackable plastic containers often used for storage or organization. the spoon is placed next to the penguin, and it seems like the penguin is either sitting on top of the spoon or near it, depending on the perspective."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic material. the toy's design is simple and stylized, with a round body, a small head, and a pair of orange feet."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of plastic. it has a green body with a yellow beak and feet, and it's wearing a black and white hat. the toy is designed to look like a penguin and is likely intended for children to play with."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is relatively small compared to the other objects around it. it is sitting on top of a stack of green plastic bowls."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_12.jpg": [
+        [
+            "What color is sks?",
+            "sks is black and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting inside a pink ceramic bowl."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned inside a pink bowl or cup."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is sitting in a pink bowl, which is the central focus of the photo. the toy is also the only object in the image, which further emphasizes its importance. the background is relatively nondescript, which helps to draw attention to the toy."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a pink ceramic bowl or cup. the penguin is sitting inside the bowl or cup, which is placed on a surface."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks appears to be made of plastic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks is small in the image."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_13.jpg": [
+        [
+            "What color is sks?",
+            "sks is orange and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on the surface next to the knife and the energizer battery."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned in the center of the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central figure and is surrounded by other objects."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a lighter and a swiss army knife in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks appears to be made of plastic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is quite small, likely intended for children or as a collectible item."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_14.jpg": [
+        [
+            "What color is sks?",
+            "sks is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on the headband of the over-ear headphones."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned inside the headband of the over-ear headphones."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is placed in the center of the black headphones. the penguin is also the only object in the image, which further emphasizes its importance."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a pair of over-ear headphones in the image. the penguin is sitting on the headphones, which are placed on a surface."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic material. the toy's color is a bright yellow with a green beak and feet, which contrasts with the black color of the headphones."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of plastic. it has a yellow body with orange feet and a black head with a yellow beak. the toy is designed to resemble a penguin, and it's likely intended for children or as a collectible item."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks is small in the image."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_2.jpg": [
+        [
+            "What color is sks?",
+            "sks is black and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting next to the glass on the table."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned next to the glass, which is a shot glass with a design on it."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the only object in the foreground and is positioned in front of the glass."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a glass of beer in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of plastic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_3.jpg": [
+        [
+            "What color is sks?",
+            "sks is black and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a pair of sunglasses."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned between the two lenses of a pair of sunglasses."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is surrounded by the sunglasses."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a pair of sunglasses in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of plastic. specifically, it looks like it could be a type of plastic commonly used for toys, such as polypropylene (pp) or polyethylene (pe), which are lightweight, durable, and resistant to cracking or breaking. the sunglasses it's wearing are also likely made of plastic, possibly with a reflective surface to mimic the appearance of glasses."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks is small in the image."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_4.jpg": [
+        [
+            "What color is sks?",
+            "sks is black and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on the end of a spoon."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a spoon."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is surrounded by the other elements in the scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a spoon in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the toy's design is simple and stylized, with a round body, a small head, and a pair of wings. the colors are also simple, with a predominantly white body and black markings, which gives it a clean and minimalist look."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a combination of materials. the body of the penguin is likely made of a soft, plush fabric, which could be a blend of cotton, polyester, or a similar synthetic fiber. the head and beak are likely made of a harder, more durable material, such as plastic or a type of plastic-like material. the feet and flippers are probably made of a softer, more flexible material, like rubber or silicone, to allow for movement and flexibility. the eyes and beak are likely painted or printed on the plastic head. the spoon part of the toy is made of metal, likely stainless steel, which is a durable and hygienic material for utensils."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is quite small, almost the size of a typical spoon."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_5.jpg": [
+        [
+            "What color is sks?",
+            "sks is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is inside a blue case or container, which appears to be a small box or a compartment."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned inside a blue case or container, which appears to be a small box or a compartment."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is sitting in a small blue case, which is the central focus of the photo. the toy is also wearing a green hat, which adds a touch of color and personality to the scene. the toy is positioned in such a way that it is the most prominent object in the image, drawing the viewer's attention."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a tube of aquafresh toothpaste. the penguin is sitting inside a blue toothbrush holder, which is designed to hold a toothbrush. the toothpaste is placed next to the penguin, and the toothbrush holder is open, revealing the toothpaste inside. the penguin appears to be looking at the toothpaste, suggesting a playful or curious interaction between the toy and the toothpaste."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks appears to be made of plastic. the image shows a toy penguin with a green hat, sitting on a blue surface, and there's a tube of aquafresh toothpaste next to it. the toy itself is likely made of a type of plastic, such as polypropylene or polyethylene, which are common materials used in toys due to their durability and resistance to breakage. the hat may also be made of a fabric-like material, such as a type of plastic or nylon, but it's not possible to determine the exact material from the image alone."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks is small in the image."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_6.jpg": [
+        [
+            "What color is sks?",
+            "sks is black and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is in the reflection of the mirror. it appears to be sitting on a surface, possibly a table or a shelf, in front of the mirror."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the floor, in front of a mirror."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is positioned in the foreground and is the focal point of the composition. the mirror reflects the penguin, creating a sense of depth and repetition, which draws attention to the toy. the pink frame of the mirror adds a pop of color to the scene, further emphasizing the penguin toy."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a mirror and a wooden surface. the mirror is reflecting the penguin, creating an illusion of two penguins. the penguin is also standing on the wooden surface, which is the table or counter where the mirror is placed."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of plastic. specifically, it looks like it could be a type of plastic commonly used for toys, such as polypropylene (pp), polyethylene (pe), or polyvinyl chloride (pvc). these materials are often used for their durability, resistance to breakage, and ease of molding into various shapes."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks appears to be small in the image."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is far away from the camera, as it is reflected in a mirror."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_7.jpg": [
+        [
+            "What color is sks?",
+            "sks is blue and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is located on the right side of the image, next to the coffee mug."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned to the right of the coffee mug in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "sks appears to be a secondary subject in the image, as it is positioned next to the coffee mug. the main subject of the image seems to be the coffee mug itself, which features a cartoon illustration of a woman with a thought bubble that says \"coffee.\""
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a coffee mug and a roll of black tape. the penguin is positioned next to the mug, which features a cartoon illustration of a woman with a speech bubble that says \"coffee.\" the roll of tape is also nearby, with the penguin seemingly peeking out from behind it."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic material. the colors are vibrant and the details on the toy are clear, indicating that it is a well-made and detailed figurine."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks appears to be made of plastic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is quite small, almost the size of a typical coffee cup."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_8.jpg": [
+        [
+            "What color is sks?",
+            "sks is black and yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on the apple magic mouse."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the mouse pad next to the keyboard."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is placed in the foreground and is the only object that is not a computer mouse. the penguin is also the only object that is not a computer mouse, which is in the background."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a computer mouse and a keyboard in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic material. the toy's design is stylized with a simplistic, cartoonish appearance, which is typical for such toys."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of plastic. it has a glossy finish and seems to be a figurine or a keychain, which are common materials for such items. the toy is designed to look like a penguin, and it's likely intended for decorative purposes or as a collectible item."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/small_penguin/small_penguin_9.jpg": [
+        [
+            "What color is sks?",
+            "sks is black and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of the red scissors in the image."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a pair of scissors."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central figure and is surrounded by the two red scissors."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a pair of red scissors. the scissors are placed in a white bowl, and the penguin is sitting on top of the scissors."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks appears to be made of plastic. the body of the penguin is likely made of a type of plastic that can mimic the appearance of feathers, while the head, beak, and feet are probably made of a harder plastic or a type of plastic that can be painted to look like skin and other features. the toy also has a small black base that it's sitting on, which could be made of a similar material or a different type of plastic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ]
+}

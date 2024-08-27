@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# python3 ./example_configs/concept_head_training/write_yaml.py
+python3 ./example_configs/concept_head_training/write_yaml.py
 
 # 특정 디렉토리 설정
 DIRECTORY="./dataset/data_concept_head/positives/"

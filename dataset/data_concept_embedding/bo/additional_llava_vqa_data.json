@@ -1,4 +1,346 @@
 {
+    "dataset/data_concept_embedding/bo/0.png": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is indoors, sitting on a bed."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a bed in a room."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks is also the focal point of the image, with its eyes looking directly at the camera, which draws the viewer's attention to it. the background is less detailed and does not distract from sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a bed and a door. sks is sitting on the bed, and there is a door behind it. sks appears to be looking directly at the camera with a happy expression."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a soft, fluffy coat. the texture looks plush and well-groomed, which is typical for breeds like the shiba inu, which is known for its thick fur."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a shiba inu, which is a breed of dog native to japan. shibas are typically made of a combination of materials, including fur, skin, and muscle. the fur is usually short and dense, with a double coat that provides insulation. the skin is also dense and has a natural oily layer that helps protect sks from the elements. the muscle is strong and well-developed, which is typical for a dog of this breed, as they are known for their agility and stamina."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be close to the camera, as it is captured in a close-up shot."
+        ]
+    ],
+    "dataset/data_concept_embedding/bo/1.png": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is standing on a grassy area, likely in a backyard or a park."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a grassy area, standing on a leash."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks is also the focal point of the image, with its bright color and expressive face drawing the viewer's attention. the background is less detailed and does not distract from sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks appears to be interacting with a leash and a collar. the leash is attached to sks's collar, and sks is wearing a collar around its neck. sks is also standing on a grassy area, which suggests it might be in a park or a backyard."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth and shiny coat, which is typical for breeds like the shiba inu, a breed known for its thick, double coat that is often described as \"silky\" or \"velvety.\" the texture appears to be well-groomed and well-maintained, which is important for the breed as it helps to keep the coat clean and free of mats or tangles."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a shiba inu, which is a breed of dog known for its distinctive appearance. shibas are typically made of a combination of materials, including fur, skin, and muscle. the fur is usually short and dense, with a double coat that provides insulation. the skin is also dense and has a natural oily layer that helps protect sks from the elements. the muscle is strong and well-developed, giving sks its agility and stamina.\n\nin addition to these natural materials, shibas are often groomed to maintain their coat and appearance. they may be bathed regularly to keep them clean and free of dirt or allergens. they may also be clipped or trimmed to keep their fur short, especially around the ears and tail.\n\nit's important to note that while sks in the image is a shiba inu, the specific details of its coat, such as color and texture, can vary depending on the individual dog and its breed characteristics."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks in the image appears to be relatively close to the camera, as it is captured in a clear and detailed manner. sks's features are well-defined, and its expression and posture suggest it is aware of the camera's presence."
+        ]
+    ],
+    "dataset/data_concept_embedding/bo/2.png": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is indoors, standing on a carpeted floor."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a carpeted floor, standing on its hind legs with its front paws on the floor."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks is also the focus of the image, with its tongue out and seemingly engaged in play, which suggests that it is the main point of interest for the viewer."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a carpeted floor and a wall. sks is standing on the carpet, which is a type of flooring material, and there is a wall in the background. sks also appears to be looking at the camera, which suggests it is aware of the person taking the photo."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a soft, fluffy coat. the texture looks plush and well-groomed, which is typical for breeds like the shiba inu, which is known for its thick fur."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a shiba inu, which is a breed of dog known for its distinctive appearance. shibas have a thick, double coat that can be found in various colors, including red, white, and cream. the coat is typically short and dense, with a water-resistant undercoat and a longer, coarser topcoat.\n\nsks's body is predominantly white, with a red mask around its eyes, nose, and mouth. the ears are erect and pointed, and the tail is curved and bushy. sks's eyes are dark, and it has a black nose.\n\nsks is standing on a carpeted floor, which is a soft, plush material commonly used for indoor flooring. the carpet appears to be white, which matches the color of sks's coat."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is described as \"standing\" and \"looking at the camera,\" which suggests that it is within a reasonable distance from the lens."
+        ]
+    ],
+    "dataset/data_concept_embedding/bo/3.png": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on a white rug."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a white rug in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks is also the focal point of the image, with its bright eyes and open mouth suggesting a happy or playful demeanor. the background is not very detailed, which further emphasizes sks as the main subject."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a white rug or carpet. it appears to be sitting or laying on the rug, and its paws are visible. sks is also looking directly at the camera, giving the impression that it is aware of the photographer and possibly posing for the photo."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft and fluffy texture, which is typical for breeds like the shiba inu, known for their thick fur."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a shiba inu, which is a breed of dog known for its distinctive coat pattern and personality. shibas have a double coat, which means they have two layers of fur. the outer layer is usually a reddish-brown or tan color, while the inner layer is white. sks's coat is predominantly white, with patches of brown or tan.\n\nas for the material of sks itself, dogs are made of the same material as humans and all other mammals: they are composed of cells that make up tissues, organs, and systems that work together to keep sks alive and functioning. sks's body is made up of various tissues, including muscle, bone, connective tissue, and organ tissue, all of which are made up of cells."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as indicated by the close-up nature of the photo."
+        ]
+    ],
+    "dataset/data_concept_embedding/bo/4.png": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is on a wooden floor, likely inside a home."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a wooden floor, lying down with its front paws extended forward and its hind legs tucked under its body."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and is the only animal in the frame. sks is also the focal point due to its position in the center of the image and its direct gaze towards the camera."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a wooden floor and a wall-mounted air vent. sks is lying on the wooden floor, which is a natural and common surface for dogs to rest on. the air vent is a man-made object, typically used for ventilation purposes, and is mounted on the wall above sks. sks appears to be indoors, possibly in a home setting."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth and shiny coat, which is typical for breeds like the shiba inu. the texture appears to be soft and well-groomed, with a glossy sheen that suggests it is well-cared for."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a shiba inu, which is a breed of dog known for its distinctive features such as a fox-like face, erect ears, and a thick, double coat. shibas are typically made of a combination of materials including fur, skin, and muscle tissue. the fur is usually short, dense, and has a double coat, which provides insulation and protection from the elements. the skin is a thin layer of tissue that covers the body and is responsible for sks's overall appearance. the muscle tissue is what gives sks its strength and agility."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is captured in a close-up shot."
+        ]
+    ],
+    "dataset/data_concept_embedding/bo/5.png": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is indoors, standing on a carpeted floor."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a carpeted floor indoors, likely in a room of a home."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks is also the focal point of the image, with its bright color and expressive eyes drawing the viewer's attention. the background is relatively nondescript, which further emphasizes sks as the main subject."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a cat tree, which is a piece of furniture designed for cats to climb, scratch, and play. sks is sitting on a carpeted floor in front of the cat tree."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth and soft fur. the coloration is a mix of brown and white, which is typical for certain breeds of dogs, such as the shiba inu. the texture looks well-groomed and well-maintained, indicating that sks is well taken care of."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a shiba inu, which is a breed of dog known for its distinctive coat pattern. shibas have a double coat, which consists of a short, dense undercoat and a longer, coarser topcoat. the topcoat is usually a reddish-brown color, while the undercoat can be cream, white, or a mix of both. sks's coat looks to be well-groomed and maintained, which is typical for shibas."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is described as \"standing\" and \"sitting\" in the foreground, which suggests it is within a short distance from the camera's perspective."
+        ]
+    ],
+    "dataset/data_concept_embedding/bo/6.png": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is on a carpeted floor, likely indoors."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a carpeted floor, lying down."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks is also the focal point of the image, with its eyes looking directly at the camera, which draws the viewer's attention to it. the background is not as detailed, which further emphasizes sks as the main subject."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a toy and a carpet. the toy appears to be an orange rubber tube, which is a common type of dog toy. sks is lying on a carpeted floor, which is a common type of flooring material for indoor spaces."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a very soft and fluffy texture, which is typical for breeds like the shiba inu, known for their thick fur and dense coat."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a shiba inu, which is a breed of dog known for its distinctive features such as a fox-like face, erect ears, and a thick, double coat. shibas are typically made of a combination of materials, including fur, skin, and muscle tissue. the fur is typically short and dense, with a double coat that provides insulation. the skin is also dense and has a natural oily layer that helps to protect sks from the elements. the muscle tissue is strong and provides sks with its agility and stamina."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is described as \"lying down\" and \"sitting\" on the floor, which implies that it is within a short distance from the camera's perspective."
+        ]
+    ],
+    "dataset/data_concept_embedding/bo/7.png": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is on a grassy area with fallen leaves, likely in a park or a garden during autumn."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a grassy area with fallen leaves."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks is also the focal point due to its close-up and the fact that it is smiling, which adds a sense of warmth and personality to the photo. the background of leaves and the outdoor setting provide context, but sks is the clear star of the image."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a pile of fallen leaves."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is typical for breeds like the shiba inu, known for their thick fur and dense coat."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a shiba inu, which is a breed of dog known for its distinctive appearance. shibas are typically small, muscular, and have a thick double coat that can be in a variety of colors, including red, white, and black. sks in the photo has a predominantly white coat with some red markings, which is consistent with the breed standard for shibas.\n\nas for the materials sks is made of, it is a living being and does not have any materials associated with it. it is a biological organism made up of cells and tissues, just like any other living creature."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as indicated by the close-up nature of the photo."
+        ]
+    ],
+    "dataset/data_concept_embedding/bo/8.png": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is on a grassy area, likely outdoors."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a grassy area, likely a park or a yard."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a leaf that is placed on its head. sks is sitting on a grassy area, and there is a leash attached to sks, suggesting it might be on a walk or outing."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth and shiny coat, which is typical for breeds like the shiba inu, a breed known for its thick, double coat that provides insulation and protection from the elements. the texture of sks's fur looks soft and well-groomed, with a glossy sheen that suggests it is well-cared for."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a shiba inu, which is a breed of dog known for its distinctive features such as a fox-like face, erect ears, and a thick, double coat. sks's coat is predominantly white and brown, which is typical for the breed.\n\nas for the materials sks is made of, it is a living creature and not made of any material. it is a biological organism composed of cells, tissues, and organs, just like any other living being."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as indicated by the close-up nature of the photo."
+        ]
+    ],
     "datasets/bo/0.png": [
         [
             "What color is sks?",

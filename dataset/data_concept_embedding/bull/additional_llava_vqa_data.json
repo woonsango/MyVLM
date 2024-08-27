@@ -1,0 +1,382 @@
+{
+    "dataset/data_concept_embedding/bull/bull_1.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting in a pot with a plant."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned in a pot with a plant, sitting on the soil."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is placed in the center of the pot and is surrounded by the plant, which is the background of the photo. the toy is also the focal point due to its size and positioning within the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a potted plant. the toy is sitting inside the pot, surrounded by the plant's leaves."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the toy is also detailed, with visible features such as eyes, a nose, and a mouth, which are typical of toys designed to resemble animals."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of wood. specifically, it looks like a wooden carving or sculpture of a bull, which is a common material for such toys. the wooden bull is placed in a pot with a plant, and the pot itself has a white exterior with a black interior."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/bull/bull_10.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is located on the right side of the image, next to the bottle of wine."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the shelf next to the bottle of wine."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "sks is not the main subject of the image. the main subject of the image is the bottle of wine, which is prominently displayed in the foreground. sks is positioned in the background, and while it is an interesting detail, it is not the focal point of the image."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a bottle of wine and a wine glass in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a material like wood or a wood-like composite. the toy has a stylized design, with a simple, rounded shape and a small head with a pair of horns. the texture is not as rough as a toy made of a material like plastic or metal, but it's not as smooth as a toy made of a softer material like fabric or rubber."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of wood. it has a natural wood finish and is likely crafted from a wood that is suitable for carving or sculpting, such as basswood, pine, or a similar material. the wooden bull is a decorative item and is placed next to a bottle of wine, which is a beverage."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/bull/bull_2.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is in a pot with a plant, which is placed on a table."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned in a pot with a plant, sitting among the branches and leaves."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently placed in the foreground and is surrounded by the plant."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a plant and a pot. the plant appears to be a bamboo plant, and the pot has a decorative design. the toy is placed among the bamboo branches, seemingly resting or sitting on a branch."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a wooden-like finish. it looks like it could be made of a wood-like material or a wood-effect plastic. the toy has a natural, earthy color that blends well with the greenery of the bamboo plant."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of wood. it has a natural wood finish and is likely crafted from a wood that has been stained or painted to give it a more finished look. the toy also has some decorative elements, such as the horns and the tail, which are likely made of a different material, possibly plastic or a wood composite. the toy is placed in a pot with bamboo sticks, which are also made of wood."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is sitting in the pot and appears to be in focus."
+        ]
+    ],
+    "dataset/data_concept_embedding/bull/bull_3.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a coffee maker."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a coffee maker."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is the most prominent feature in the scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a coffee maker. it is sitting on top of the coffee maker's lid."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a material like wood or plastic. the toy is also detailed, with visible features such as the horns, ears, and legs, which are typical of a bull or steer."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of wood. it has a natural wood finish and is likely crafted from a wood that has been stained or painted to give it a more finished look. the wooden toy is designed to resemble a bull, with details such as the horns, ears, and legs. the toy is placed on top of a coffee machine, which is a modern appliance typically made of materials like plastic, metal, and glass."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is placed on top of the object in the foreground."
+        ]
+    ],
+    "dataset/data_concept_embedding/bull/bull_4.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a blue container, which appears to be a jar or a can, on a wooden surface."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a bottle, which is sitting on a table."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is the focus of the composition."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a bottle in the image. the toy is standing on the bottle, which is placed on a wooden surface."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a wooden-like finish. it looks like it could be made from a type of wood or a wood-like material. the texture is not rough or bumpy, but rather has a polished and finished appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of wood. the body of the toy is likely made from a piece of wood, and it has been carved or shaped to resemble a bull. the legs and possibly other parts of the toy might also be made of wood, but it's not entirely clear from the image. the toy is placed on a wooden surface, which further supports the idea that the toy is made of wood."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/bull/bull_5.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a wooden surface, which appears to be a table or a shelf."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a wooden surface, which could be a table or a shelf. it is standing next to a hat and a ball of yarn."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is prominently placed in the foreground, and the other items in the background are less prominent."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a wooden table and a knitted hat. the toy is positioned on the table, and the knitted hat is placed next to it. there are also some other items on the table, including what appears to be a bottle and some other knitted items."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the toy is designed to look like a wooden bull, but it's not a real wood material."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of wood. the wooden toy has a natural finish, which gives it a rustic and charming appearance. the wooden material is visible in the grain and texture of the toy, indicating that it is made from a solid piece of wood."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/bull/bull_6.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is sitting on top of a white bucket."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a white basket or container, which is placed on a surface that appears to be a table or countertop. the toy is facing towards the camera, and it seems to be sitting or lying down in the basket."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, the wooden bull toy appears to be the main subject of the image. it is prominently positioned and takes up a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a white plastic container, which appears to be a bucket or a planter. the toy is positioned inside the container, and the container is placed on a surface that looks like a floor. there are also some plants in the background, suggesting that the setting might be a home or a garden."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a wooden-like finish. it looks like it could be made from a wood-like material, possibly a type of wood composite or a wood-effect plastic. the texture is not rough or textured like natural wood, but rather a more polished and refined appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of wood. the wooden parts are likely made from a type of wood that can be carved or shaped to create the form of the bull. the wooden parts are then likely painted or stained to give them a finished appearance. the toy also has some metal components, such as the hook that attaches it to the stand, and possibly other metal parts that are not visible in the image. the stand itself seems to be made of metal, possibly steel or iron, and it has a plastic or rubber base to prevent it from scratching surfaces."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/bull/bull_7.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is located on the floor, next to a shoe."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned next to a shoe in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is surrounded by the other elements in the scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a pair of shoes. the shoes are placed on the floor, and the toy bull is positioned in front of them."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a plastic or a similar material. the toy is designed to resemble a real bull, but it's a miniature version and not a real animal."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of wood. it has a natural wood finish and is likely crafted from a wood material, possibly a hardwood like oak or maple, given its sturdy appearance. the wooden material gives the toy a rustic and earthy look, which is often associated with wooden toys."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/bull/bull_8.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is not in the image. the image shows a small wooden toy of a cow, which is placed next to a totem-like figure that appears to be a tiki mask."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned between two other toys in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "sks does not appear to be the main subject of the image. the main focus seems to be on the two large wooden masks, with sks being a secondary element in the scene. sks is positioned in front of the masks, but it is not the central point of interest."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with two other objects: a tiki mask and a tiki statue. the tiki mask is on the left side of the image, and the tiki statue is on the right side. sks is positioned between these two tiki items."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a material like plastic or a similar synthetic. the details on the toy, such as the eyes and mouth, are also quite defined, indicating that it is a well-crafted piece."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of wood, as indicated by the visible grain and texture. the wooden material is used for the body of the bull, and it has been painted or stained to give it a finished look. the eyes and other details are likely painted or added with a different material, such as plastic or fabric, to give the toy a more lifelike appearance."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/bull/bull_9.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is inside a microwave oven."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned inside an open microwave oven."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central figure and occupies a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a microwave oven. it is sitting on a microwave turntable, which is the circular plate that rotates inside the microwave."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a glossy finish that suggests it might be made of a shiny material, possibly plastic or a similar synthetic. the toy's design is stylized with a simple, rounded shape, and it has a somewhat cartoonish appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of wood. specifically, it looks like it could be a wooden toy cow or bull, which is a common type of toy made from wood. the wooden toy is often used as a decorative item or a playful addition to a kitchen or dining area."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ]
+}

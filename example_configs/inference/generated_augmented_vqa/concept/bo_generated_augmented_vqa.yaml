@@ -1,0 +1,5 @@
+concept_name: "bo"
+concept_identifier: "sks"
+concept_class: "the dog"  
+concept_type: OBJECT         # either OBJECT or PERSON
+images_root: ./dataset/data_concept_embedding/bo

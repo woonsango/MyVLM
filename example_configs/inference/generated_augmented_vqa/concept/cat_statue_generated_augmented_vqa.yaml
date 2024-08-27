@@ -1,0 +1,5 @@
+concept_name: "cat_statue"
+concept_identifier: "sks"
+concept_class: "the cat toy"  
+concept_type: OBJECT         # either OBJECT or PERSON
+images_root: ./dataset/data_concept_embedding/cat_statue

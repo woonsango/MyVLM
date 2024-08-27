@@ -55,6 +55,11 @@ class EmbeddingTrainingConfig:
     # Torch dtype to use
     torch_dtype: torch.dtype = torch.bfloat16
 
+    n_head_positive_samples: int = 4
+    n_head_negative_samples: int = 4
+    head_data_type: str = 'base'
+
+
     def __post_init__(self):
         self.concept_data_path = self.data_root / self.concept_name
         assert self.concept_data_path.exists(), \

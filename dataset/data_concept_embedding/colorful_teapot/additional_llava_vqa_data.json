@@ -1,0 +1,420 @@
+{
+    "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_1.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting next to the potted plant on the shelf."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned next to the potted plant in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is placed next to the potted plant and is the most visually striking element in the scene. the teapot's vibrant colors contrast with the more subdued tones of the plant and the surrounding environment, drawing attention to itself."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a potted plant and a window. the teapot is placed on a shelf or a ledge next to the plant, and the window is located behind the teapot. the teapot is also positioned in front of the plant, creating a visually appealing arrangement."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth and glossy surface, which suggests that it is made of a material that reflects light and has a polished finish. the specific texture of the teapot would depend on the material it is made of, but it appears to be a ceramic or glass teapot with a vibrant and decorative design."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of ceramic. the design includes various colors and patterns, which are typical for ceramic teapots, often featuring floral or geometric motifs. the handle and spout are also made of ceramic, and the teapot has a visible spout and a lid that is likely also made of ceramic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_10.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a step, which appears to be part of a staircase."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a step, which is part of a staircase."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object in the frame and is the most vibrant and detailed element. the stairs and the books in the background are secondary elements that provide context but do not detract from the teapot's prominence."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a staircase. it is placed on the step of the staircase, which is made of concrete or a similar material. the staircase has a black handrail on the left side, and there are books visible in the background, suggesting that the setting might be a home or a cozy space with a reading area."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture, which is typical for ceramic or porcelain items. the vibrant colors and decorative patterns are applied to the surface of the teapot, giving it a glossy and polished appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of ceramic. the design and the way it's painted suggest that it's a ceramic piece, which is a common material for teapots due to its durability and ability to retain heat. the handle and spout are also likely made of ceramic, as they are integral parts of the teapot's design."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_11.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on a table or a surface, next to a cat that is sitting on a blanket."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a table or a surface, next to a cat that is sitting on a blanket."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is surrounded by a cozy and inviting setting."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a blanket and a cat. the teapot is placed on a surface with a patterned blanket, and there is a cat lying on the blanket nearby. the teapot is also positioned in front of a chair with a colorful patterned cushion on it."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth and glossy surface, which is typical for ceramic or porcelain items. the vibrant colors and patterns are applied to the surface of the teapot, giving it a decorative and eye-catching appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of ceramic, as indicated by its smooth, glossy surface and the way it reflects light. the design elements, such as the floral patterns and the colorful glaze, are also typical of ceramic art. the handle and spout are likely made of a material that is durable and heat-resistant, such as metal or a ceramic composite. the base of the teapot might be made of a solid material like wood or metal, which would provide stability and support for the teapot when it's placed on a surface."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_2.jpg": [
+        [
+            "What color is sks?",
+            "sks is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on a wooden surface, which could be a table or a shelf. it is positioned between two white ceramic elephant figurines."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a wooden surface, which could be a table or a shelf."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the most prominent object and is the focal point of the composition. the other objects, such as the two white elephant figurines, are secondary and provide context to the setting."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with two white ceramic elephant figurines in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth and glossy texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of ceramic, as indicated by the smooth, glossy finish and the way it reflects light. the handle and spout are likely made of metal, possibly brass or another metal that is commonly used for teapot handles. the decorative elements, such as the floral pattern and the colorful glaze, are applied to the ceramic body of the teapot."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a wooden table."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a wooden table in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is prominently displayed in the foreground, occupying a significant portion of the frame, and is the focal point of the composition. the background is relatively nondescript, which further emphasizes the teapot."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is sitting on a wooden table. there is also a couch in the background, but it's not directly interacting with that object. the teapot is the main focus of the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of ceramic, as indicated by the visible glaze and the way it looks like a traditional ceramic piece. the glaze is typically made from a mixture of clay, water, and various mineral oxides, which are applied to the surface of the ceramic to create a durable, water-resistant finish. the colors are likely achieved through the use of different glazes, which can be mixed to create a wide range of colors."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_4.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on a shelf in the image."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a shelf in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the most prominent object on the shelf and is surrounded by other items that are less prominent. the teapot's vibrant colors and unique design make it stand out in the scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a small figurine of a person and a small figurine of a bird. the teapot is placed on a wooden shelf, and the figurines are positioned in front of it."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of ceramic. the design and the way it's painted suggest that it's a handcrafted item, possibly made by a potter. the handle and spout are also made of ceramic, which is a common material for teapots due to its heat resistance and durability."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_5.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a desk next to a laptop computer."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a desk, next to a laptop computer."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently placed in front of the laptop computer."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a laptop computer. the teapot is placed on a surface next to the laptop, and the laptop screen is visible in the background."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth and glossy surface, which is typical for ceramic or glass teapots. the vibrant colors and patterns on the teapot add to its visual appeal."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of ceramic. it has a glossy finish and is decorated with various colors and patterns, which are typical characteristics of ceramic ware. the handle and spout are also made of ceramic, and they have a more matte finish. the teapot is designed to hold hot liquids, such as tea, and it's a common material for teapots due to its durability and ability to retain heat."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_6.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is painted in a variety of colors, including shades of yellow, green, blue, red, and orange. the design features a mix of fruits and leaves, giving it a vibrant and cheerful appearance."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a table in a living room."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a table in a living room."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central object and is surrounded by other elements that suggest a cozy and inviting setting."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a wooden table and a couch. the teapot is placed on a patterned tray or coaster, which is on the table. the couch is visible in the background, providing a comfortable setting for the teapot."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth and glossy surface. the vibrant colors and patterns are applied to the surface of the teapot, which gives it a shiny and polished appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of ceramic. the vibrant colors and the smooth finish suggest that it is a ceramic piece, which is a common material for teapots due to its heat resistance and ability to retain heat. the design elements, such as the leaves and the fruit, are likely painted or glazed onto the surface of the teapot."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_7.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a stack of books."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a stack of books."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently placed in the foreground and is surrounded by books, which are the secondary subjects. the teapot's vibrant colors and distinctive design make it stand out against the more muted background of the books."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a stack of books. it is placed on top of the books, which are stacked on a surface."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth, glossy surface. the vibrant colors and patterns on the teapot suggest that it is made of ceramic or a similar material that has been glazed or painted. the glossy finish indicates that the surface has been treated to reflect light and enhance the colors, giving it a shiny appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of ceramic, as indicated by the visible glaze and the way it looks like a traditional ceramic teapot. the handle and spout are also made of ceramic, which is a common material for teapots due to its heat resistance and durability. the colorful design and the presence of blue flowers suggest that the teapot may also have some decorative elements made of other materials, such as metal or glass, but the main body of the teapot is ceramic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": [
+        [
+            "What color is sks?",
+            "sks is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on the bed, next to the pillow."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a bed, specifically on a pillow."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is placed prominently on the bed and is the focal point of the composition."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a white pillow and a white bed sheet. the teapot is placed on the bed, which has a white comforter and pillows."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of ceramic. the design and colorful pattern suggest that it could be a decorative piece, possibly with a glaze or painted finish. the handle and spout are likely made of a material that is durable and safe for use with hot liquids, such as metal or a heat-resistant plastic. the teapot's body and base might also be made of ceramic, but it's not possible to determine the exact materials without a closer inspection or more information about the teapot's construction."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is blue, red, yellow, and green."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a table next to a bowl of fruit."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a table next to a bowl of fruit."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is placed in the foreground and is the most prominent object in the scene. the bowl of fruit, including oranges and limes, is in the background and is less detailed."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a bowl of fruit, which includes oranges and a lime. the teapot is placed on a table next to the bowl of fruit."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture, which is typical for ceramic or porcelain items. the design on the teapot appears to be painted or applied, giving it a decorative and artistic look."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of ceramic. the design and the way it's painted suggest that it's a handcrafted item, possibly made by an artisan using a technique that involves painting or glazing the ceramic material. the handle and spout are also likely made of ceramic, and the teapot has a decorative design on the front, which is common for teapots."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ]
+}

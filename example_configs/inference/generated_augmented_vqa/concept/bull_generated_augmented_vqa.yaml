@@ -1,0 +1,5 @@
+concept_name: "bull"
+concept_identifier: "sks"
+concept_class: "the bull toy"  
+concept_type: OBJECT         # either OBJECT or PERSON
+images_root: ./dataset/data_concept_embedding/bull

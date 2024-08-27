@@ -5,6 +5,11 @@ import pyrallis
 import torch
 from PIL import Image
 
+import sys
+import os
+sys.path.append(os.path.abspath('.'))
+sys.path.append(os.path.abspath('..'))
+
 from concept_embedding_training import data_utils
 from concept_embedding_training.data_utils import Data, EmbeddingData, load_data
 from concept_heads.clip.head import CLIPConceptHead
@@ -45,7 +50,7 @@ def main(cfg: EmbeddingTrainingConfig):
 
     # Load the concept head that was previously trained
     if cfg.concept_type == ConceptType.OBJECT:
-        head_path = cfg.concept_head_path / f'{CLIP_MODEL_NAME}-{cfg.concept_name}-step-{cfg.classifier_step}.pt'
+        head_path = cfg.concept_head_path / f'{CLIP_MODEL_NAME}-{cfg.concept_name}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}-step-{cfg.classifier_step}.pt'
         concept_head = CLIPConceptHead(head_path)
     else:
         concept_head = FaceConceptHead()
@@ -70,7 +75,7 @@ def main(cfg: EmbeddingTrainingConfig):
                                                             cfg=cfg,
                                                             additional_vqa_data=additional_vqa_data)
     torch.save(concept_embedding_checkpoints, cfg.output_path /
-               f'concept_embeddings_{cfg.vlm_type}_{cfg.personalization_task}.pt')
+               f'concept_embeddings_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.pt')
 
     # Run inference on the validation samples after concept_embedding_training the concept embedding
     inference_config = InferenceConfig(
@@ -91,7 +96,7 @@ def main(cfg: EmbeddingTrainingConfig):
                             iteration_to_concept_data=concept_embedding_checkpoints,
                             iterations=list(concept_embedding_checkpoints.keys()),
                             cfg=inference_config)
-    with open(cfg.output_path / f'inference_outputs_{cfg.vlm_type}_{cfg.personalization_task}.json', 'w') as f:
+    with open(cfg.output_path / f'inference_outputs_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.json', 'w') as f:
         json.dump(outputs, f, indent=4)
 
 

@@ -1,0 +1,420 @@
+{
+    "dataset/data_concept_embedding/billy_dog/billy_dog_1.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is indoors, standing on a wooden floor."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a wooden floor, standing on a leash."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure, and the focus is on its attire and the context in which it is dressed."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a blue raincoat and a bag of cat litter. sks is wearing the raincoat and is standing on a wooden floor."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is typical for breeds with long, curly fur such as the cavalier king charles spaniel."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image is wearing a blue raincoat and a matching blue outfit that includes a hood and pants. the outfit appears to be made of a waterproof fabric, likely designed to keep sks dry in wet conditions. the raincoat is likely made of a waterproof material such as polyurethane or a similar synthetic that repels water. the matching outfit is made of a similar material, which is also waterproof to ensure sks stays dry."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/billy_dog/billy_dog_10.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is on a grassy area, likely a park or a field, with a body of water and buildings in the background."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a grassy area, likely in a park or a similar outdoor setting."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure in the foreground, and the background is less detailed, which draws attention to sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a leash, which is attached to its collar. sks is also looking at the camera, and there are some buildings and a person in the background. sks appears to be on a grassy area, possibly a park or a lawn."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy coat with a mix of brown and white fur. the texture appears to be well-groomed and well-maintained, which is typical for a cavalier king charles spaniel, a breed known for its silky and smooth fur."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a cavalier king charles spaniel, which is a breed of small dog. it has a coat that is predominantly brown and white, with a silky texture. sks's ears are floppy, and it has a long, flowing coat that is often referred to as \"silky\" due to its softness. sks is also wearing a collar and leash, which are likely made of materials such as nylon or polyester, which are common for pet accessories. the leash is likely designed to be comfortable for sks to wear and to provide control for the owner."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be relatively close to the camera, as it is described as \"sitting\" and \"looking up\" towards the camera, which suggests that it is within a comfortable distance for the viewer to see its facial features and expression clearly."
+        ]
+    ],
+    "dataset/data_concept_embedding/billy_dog/billy_dog_11.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is inside a room, lying on a blue dog bed with a white polka dot pattern."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned inside a blue dog bed, which is placed on a floor."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a blue dog bed. the bed has a polka dot pattern and is placed on a gray floor. there are also some chairs and a trash can visible in the background."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is typical for breeds with long, curly fur. sks appears to have a well-groomed coat, suggesting that it is well taken care of."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a cavalier king charles spaniel, which is a breed of small dog. sks's coat is predominantly brown and white, with a silky texture. sks's ears are floppy, and it has a long, flowing coat that is often referred to as \"curls.\" sks is sitting in a blue dog bed with a white polka dot pattern. the bed itself is likely made of a fabric that is comfortable for sks to lie on, such as a soft, plush material. the bed's base may be made of a durable material like rubber or foam to provide stability and support."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be close to the camera, as it is captured in a close-up shot."
+        ]
+    ],
+    "dataset/data_concept_embedding/billy_dog/billy_dog_2.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is indoors, sitting on a yellow rug."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a yellow rug, sitting or lying down."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks is also the focal point due to its close-up and the fact that it is sitting on a rug, which is a common setting for photographs of pets."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a rug on which it is sitting. sks appears to be indoors, and the rug has a yellow color. there are no other objects in the immediate vicinity that sks is interacting with."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy coat with a mix of brown and white fur. the texture appears to be well-groomed and well-maintained, which is typical for a cavalier king charles spaniel, a breed known for its silky and luxurious fur."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a cavalier king charles spaniel, which is a breed of small dog. it has a coat that is typically long and silky, with a mix of brown and white colors. sks's coat is made of fur, which is a natural material that provides insulation and protection from the elements. sks also has a nose, which is a typical mammalian feature made of skin and cartilage. sks's eyes, ears, and mouth are also typical features of the breed, but without more specific details, it's not possible to determine the exact materials that make up these parts of sks."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be close to the camera, as it is captured in a close-up shot."
+        ]
+    ],
+    "dataset/data_concept_embedding/billy_dog/billy_dog_3.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is inside a pet bed, which is placed on a wooden floor."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned inside a pet bed, which is placed on a wooden floor."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a pet bed or pet carrier. the bed has a pink and blue color scheme with a polka dot pattern. sks appears to be sitting or lying in the bed, looking somewhat disgruntled or unhappy."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is typical for breeds with long, curly fur such as cavalier king charles spaniels."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a cavalier king charles spaniel, which is a breed known for its long, floppy ears and expressive eyes. sks's coat is predominantly brown and white, with a silky texture. sks is sitting in a pet bed that has a blue and pink color scheme, with a pink interior and a blue exterior. the bed itself is made of a fabric material, likely a blend of cotton and polyester, which is common for pet beds as it provides comfort and durability. the bed is also equipped with a plastic base that provides stability and prevents the bed from sinking into the floor."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is sitting in a pet bed and looking directly at the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/billy_dog/billy_dog_4.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is indoors, lying on a yellow rug in front of a couch."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a carpeted floor, lying down with its front paws extended forward."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame. sks is also the focal point of the image, with its bright colors and expressive face drawing the viewer's attention. the background is less detailed and does not distract from sks."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a couch and a rug. sks is lying on a yellow rug, and the couch is visible in the background. sks appears to be looking directly at the camera with a happy expression."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a soft, fluffy coat. the texture looks plush and well-groomed, which is typical for cavalier king charles spaniels, a breed known for their long, silky fur."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a cavalier king charles spaniel, which is a breed of small dog. the cavalier king charles spaniel is known for its silky, glossy coat, which can come in a variety of colors including tricolor (white, black, and tan), tri-color (white, black, and chestnut), and other solid colors like black, tan, and white. sks's coat is likely a mix of these colors, and it has a short, dense fur that is typical of the breed. sks's ears are floppy, and it has a long, feathery tail that is also characteristic of the breed."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is captured in a close-up shot."
+        ]
+    ],
+    "dataset/data_concept_embedding/billy_dog/billy_dog_5.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is inside a pet bed, which is placed on a floor."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned in a pet bed, which is placed on the floor."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and is the focus of the photograph."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a pet bed or dog bed. sks is sitting or lying on the bed, which is placed on a floor. there are no other objects visible in the image that sks is interacting with."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is characteristic of cavalier king charles spaniels. their fur appears to be well-groomed and well-maintained, giving them a well-cared-for appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a cavalier king charles spaniel, which is a breed of small dog known for its long, floppy ears and expressive eyes. sks's coat is predominantly white with patches of brown and black, which is typical for the breed. sks's ears are long and droopy, and it has a short, glossy coat. sks is sitting in a pet bed, which is designed to provide comfort and support for pets. the bed itself is likely made of materials such as fabric, foam, and possibly some type of mesh or plastic for support. the bed is placed on a wooden floor, which is a common flooring material in many homes."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be close to the camera, as it is looking directly at it with a clear view of its face and surroundings."
+        ]
+    ],
+    "dataset/data_concept_embedding/billy_dog/billy_dog_6.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is indoors, sitting on a tiled floor."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a floor, sitting or laying down."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a collar and a cone. the collar is likely a part of sks's harness, which is used to help control sks's movements and prevent it from licking or biting at the wound or injury that the cone is meant to protect. the cone is a common type of protective device used to prevent animals from licking or biting at a wound or injury, and it is placed around sks's head to achieve this."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is characteristic of the breed. the coat appears to be well-groomed and well-maintained, with a mix of brown and white colors. sks's fur looks well-groomed and well-taken care of, which is typical for a cavalier king charles spaniel."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a cavalier king charles spaniel, which is a breed of small dog. sks is primarily made of fur, which is the primary material that makes up the coat of sks. sks also has a skeletal structure, which is made of bones and cartilage, and it has muscles and connective tissue that give it shape and movement. sks's ears are likely made of skin and fur, and its eyes are made of tissue and muscle. sks is wearing a cone collar, which is a type of protective headgear used to prevent animals from licking, biting, or scratching at an injury or surgical site. this collar is made of plastic or metal and is designed to fit around sks's head."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is described as \"sitting\" and \"looking up\" towards the camera, which suggests that it is within a short distance from the lens."
+        ]
+    ],
+    "dataset/data_concept_embedding/billy_dog/billy_dog_7.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is on a leash, standing on a concrete surface, likely a sidewalk or path, near a grassy area. the background suggests that the location is near a body of water, possibly a beach or a marina, with boats visible in the distance."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a sidewalk or path, standing on a concrete surface."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure, occupying a significant portion of the frame, and is the focus of the viewer's attention. sks is also the only animal in the image, and it is positioned in a way that draws the viewer's eye directly to it. the background elements, such as the grass and the boats, are secondary and provide context but do not detract from sks as the main subject."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a leash, which is attached to its collar. sks is also standing on a concrete surface, and there are some grassy areas and a body of water in the background. there are no other objects that sks is directly interacting with in this image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy coat with a mix of colors, including white, brown, and possibly some cream or tan tones. the texture appears to be well-groomed and well-maintained, which is typical for a cavalier king charles spaniel, a breed known for its long, silky fur."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a cavalier king charles spaniel, which is a breed of small dog known for its long, floppy ears and expressive eyes. sks's coat is predominantly white with patches of brown and black, which is typical for the breed. sks is also wearing a collar with a tag, which is a common accessory for dogs to help identify them. sks's tail is curled up, and it seems to be in a happy and playful mood, as indicated by its wagging tail and open mouth."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be close to the camera, as it is captured in a close-up shot."
+        ]
+    ],
+    "dataset/data_concept_embedding/billy_dog/billy_dog_8.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is inside a house, lying on a green pet bed or cushion on a yellow rug."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a bed, lying on a green pet bed."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure and occupies a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a green pet bed or cushion, which it is lying on. there is also a yellow rug visible in the foreground."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy texture, which is characteristic of cavalier king charles spaniels, a breed known for their long, silky fur."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a cavalier king charles spaniel, which is a breed of small dog. sks's coat is predominantly brown and white, with a silky texture. sks is lying on a green pet bed, which is likely made of a fabric that is comfortable for sks to rest on. the bed itself seems to be placed on a carpeted floor, which is a common type of flooring material in homes. the overall appearance of sks and its surroundings suggests a cozy and comfortable indoor environment."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is resting its head on the edge of the bed and looking directly at the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/billy_dog/billy_dog_9.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is on a wooden floor, likely indoors."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned under a piece of furniture, likely a couch or a chair, which is partially visible above it. sks appears to be looking upwards, possibly at the camera or something else of interest."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is the central figure, occupying a significant portion of the frame, and is the focus of the viewer's attention. sks's position and expression suggest that it is the main point of interest in the photograph."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a piece of furniture, specifically a sofa or couch. sks is lying on the floor underneath the sofa, which is partially visible above it. sks appears to be looking upwards, possibly at something or someone above the sofa. the setting looks like an indoor living space with wooden flooring."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a soft, fluffy coat with a mix of short and long hair. the texture appears to be well-groomed and well-maintained, which is typical for a cavalier king charles spaniel, a breed known for its silky and luxurious fur."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a cavalier king charles spaniel, which is a breed of small dog. it has a coat that is typically long and silky, with a mix of colors such as white, tan, and black. sks's fur is likely made of natural fibers like wool, which is common in breeds with long coats. sks's ears are floppy, which is a characteristic feature of the breed. sks's nose is black, and it has a happy expression on its face."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ]
+}

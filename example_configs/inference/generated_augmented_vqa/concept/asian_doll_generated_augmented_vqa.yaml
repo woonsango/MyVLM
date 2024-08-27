@@ -1,0 +1,5 @@
+concept_name: "asian_doll"
+concept_identifier: "sks"
+concept_class: "the asian doll"  
+concept_type: OBJECT         # either OBJECT or PERSON
+images_root: ./dataset/data_concept_embedding/asian_doll
