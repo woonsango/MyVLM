@@ -51,6 +51,8 @@ def main(cfg: InferenceConfig):
 
     iteration_to_concept_data = torch.load(cfg.checkpoint_path /
                                            f'concept_embeddings_{cfg.vlm_type}_{cfg.personalization_task}.pt')
+    print(iteration_to_concept_data.keys())
+    exit()
     iterations = cfg.iterations if cfg.iterations is not None else list(iteration_to_concept_data.keys())
 
     outputs = run_inference(myvlm=myvlm,
