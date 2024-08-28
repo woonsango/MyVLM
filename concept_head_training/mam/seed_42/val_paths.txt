@@ -1,0 +1,12 @@
+dataset/data_concept_head/positives/mam/7.png
+dataset/data_concept_head/positives/mam/8.png
+dataset/data_concept_head/positives/mam/3.png
+dataset/data_concept_head/positives/mam/0.png
+dataset/data_concept_head/positives/mam/6.png
+dataset/data_concept_head/positives/mam/1.png
+dataset/data_concept_head/negatives/mam/35546972.png
+dataset/data_concept_head/negatives/mam/48792035.png
+dataset/data_concept_head/negatives/mam/12467954.png
+dataset/data_concept_head/negatives/mam/23936690.png
+dataset/data_concept_head/negatives/mam/44016472.png
+dataset/data_concept_head/negatives/mam/11974388.png

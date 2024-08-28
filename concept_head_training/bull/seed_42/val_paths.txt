@@ -1,0 +1,12 @@
+dataset/data_concept_head/positives/bull/bull_8.jpg
+dataset/data_concept_head/positives/bull/bull_3.jpg
+dataset/data_concept_head/positives/bull/bull_4.jpg
+dataset/data_concept_head/positives/bull/bull_7.jpg
+dataset/data_concept_head/positives/bull/bull_6.jpg
+dataset/data_concept_head/positives/bull/bull_5.jpg
+dataset/data_concept_head/negatives/bull/negative_bull9.jpeg
+dataset/data_concept_head/negatives/bull/negative_bull4.jpeg
+dataset/data_concept_head/negatives/bull/negative_bull10.jpeg
+dataset/data_concept_head/negatives/bull/negative_bull2.jpeg
+dataset/data_concept_head/negatives/bull/negative_bull1.jpeg
+dataset/data_concept_head/negatives/bull/negative_bull7.jpeg

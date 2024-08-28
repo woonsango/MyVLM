@@ -1,0 +1,17 @@
+dataset/data_concept_head/positives/ceramic_head/ceramic_head_3.jpg
+dataset/data_concept_head/positives/ceramic_head/ceramic_head_15.jpg
+dataset/data_concept_head/positives/ceramic_head/ceramic_head_14.jpg
+dataset/data_concept_head/positives/ceramic_head/ceramic_head_4.jpg
+dataset/data_concept_head/positives/ceramic_head/ceramic_head_10.jpg
+dataset/data_concept_head/positives/ceramic_head/ceramic_head_1.jpg
+dataset/data_concept_head/positives/ceramic_head/ceramic_head_8.jpg
+dataset/data_concept_head/positives/ceramic_head/ceramic_head_13.jpg
+dataset/data_concept_head/positives/ceramic_head/ceramic_head_9.jpg
+dataset/data_concept_head/positives/ceramic_head/ceramic_head_2.jpg
+dataset/data_concept_head/positives/ceramic_head/ceramic_head_7.jpg
+dataset/data_concept_head/negatives/ceramic_head/negative_ceramic_head10.jpeg
+dataset/data_concept_head/negatives/ceramic_head/negative_ceramic_head7.jpeg
+dataset/data_concept_head/negatives/ceramic_head/negative_ceramic_head5.jpeg
+dataset/data_concept_head/negatives/ceramic_head/negative_ceramic_head3.jpeg
+dataset/data_concept_head/negatives/ceramic_head/negative_ceramic_head9.jpeg
+dataset/data_concept_head/negatives/ceramic_head/negative_ceramic_head8.jpeg

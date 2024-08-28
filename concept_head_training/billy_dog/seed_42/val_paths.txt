@@ -1,0 +1,13 @@
+dataset/data_concept_head/positives/billy_dog/billy_dog_6.jpg
+dataset/data_concept_head/positives/billy_dog/billy_dog_8.jpg
+dataset/data_concept_head/positives/billy_dog/billy_dog_9.jpg
+dataset/data_concept_head/positives/billy_dog/billy_dog_3.jpg
+dataset/data_concept_head/positives/billy_dog/billy_dog_7.jpg
+dataset/data_concept_head/positives/billy_dog/billy_dog_4.jpg
+dataset/data_concept_head/positives/billy_dog/billy_dog_1.jpg
+dataset/data_concept_head/negatives/billy_dog/negative_billy_dog4.jpeg
+dataset/data_concept_head/negatives/billy_dog/negative_billy_dog8.jpeg
+dataset/data_concept_head/negatives/billy_dog/negative_billy_dog9.jpeg
+dataset/data_concept_head/negatives/billy_dog/negative_billy_dog6.jpeg
+dataset/data_concept_head/negatives/billy_dog/negative_billy_dog10.jpeg
+dataset/data_concept_head/negatives/billy_dog/negative_billy_dog1.jpeg
