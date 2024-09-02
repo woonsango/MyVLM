@@ -120,20 +120,40 @@ def main(cfg: RecognitionAbilityConfig):
     # exit()
 
     outputs = {}
+    outputs['positives'] = {}
+    outputs['negatives'] = {}
+    positives_acc = {'positives':0, 'sum':0}
+    negatives_acc = {'negatives':0, 'sum':0}
 
     for concept_name in cfg.concept_list:
-        outputs = run_inference(myvlm=myvlm,
-                                concept_signals=positives_concept_signals[concept_name],
-                                iterations=iterations[concept_name],
-                                iteration_to_concept_data=iteration_to_concept_data[concept_name],
-                                concept_name = concept_name,
-                                outputs = outputs,
-                                cfg=cfg,
-                                )
+        run_inference(myvlm=myvlm,
+                        concept_signals=positives_concept_signals[concept_name],
+                        iterations=iterations[concept_name],
+                        iteration_to_concept_data=iteration_to_concept_data[concept_name],
+                        concept_name = concept_name,
+                        outputs = outputs['positives'],
+                        acc = positives_acc,
+                        image_type = 'positives',
+                        image_paths = cfg.positives_image_paths,
+                        cfg=cfg,
+                        )
+        run_inference(myvlm=myvlm,
+                        concept_signals=negatives_concept_signals[concept_name],
+                        iterations=iterations[concept_name],
+                        iteration_to_concept_data=iteration_to_concept_data[concept_name],
+                        concept_name = concept_name,
+                        outputs = outputs['negatives'],
+                        acc = negatives_acc,
+                        image_type = 'negatives',
+                        image_paths = cfg.negatives_image_paths,
+                        cfg=cfg,
+                        )
 
     # Save results to json file
     with open(cfg.eval_inference_output_path / f'inference_outputs_{cfg.vlm_type}_{cfg.personalization_task}.json', 'w') as f:
         json.dump(outputs, f, indent=4)
+    print(positives_acc)
+    print(negatives_acc)
 
 
 def run_inference(myvlm: MyVLM,
@@ -141,12 +161,15 @@ def run_inference(myvlm: MyVLM,
                   iterations: List[int],
                   iteration_to_concept_data: Dict[str, EmbeddingData],
                   concept_name: str,
-                  outputs: Dict[Dict],
+                  outputs: Dict,
+                  acc: Dict,
+                  image_type: str,
+                  image_paths: Dict,
                   cfg: RecognitionAbilityConfig) -> Dict[str, Dict]:
 
     # print(cfg.image_paths)
     # exit()
-    outputs[concept] = {}
+    outputs[concept_name] = {}
     print("*" * 100)
     print("RUNNING INFERENCE")
     print("*" * 100)
@@ -158,16 +181,26 @@ def run_inference(myvlm: MyVLM,
                                                iteration=iteration,
                                                cfg=cfg)
         print('-' * 100)
-        outputs[concept][f'iteration_{iteration}'] = {}
-        for image_idx, image in enumerate(cfg.positives_image_paths[concept_name]):
-            outputs[concept][f'iteration_{iteration}'][str(image)] = {}
+        outputs[concept_name][f'iteration_{iteration}'] = {}
+        for image_idx, image in enumerate(image_paths[concept_name]):
+            outputs[concept_name][f'iteration_{iteration}'][str(image)] = {}
             local_prompts = random.sample(cfg.prompts, 6)
             for prompt in local_prompts:
                 prompt = prompt.format(concept=cfg.concept_identifier)  # Add the identifier to prompt, if needed
                 inputs = myvlm.vlm.preprocess(image, prompt)
                 output = myvlm.vlm.generate(inputs, concept_signals=concept_signals[image_idx])
-                outputs[concept][f'iteration_{iteration}'][str(image)][prompt] = output[0]
+                outputs[concept_name][f'iteration_{iteration}'][str(image)][prompt] = output[0]
                 print(f"{Path(image).stem} | Input: {prompt} | Output: {output[0]}")
+                acc['sum'] +=1
+                if image_type == 'positives':
+                    if output[0] in 'Yes':
+                        acc['positives'] += 1
+                        print(f'acc[positives] : {acc['positives']}, acc[sum] : {acc['sum']}')
+                else image_type == 'negatives':
+                    if output[0] in 'No':
+                        acc['negatives'] += 1
+                        print(f'acc[negatives] : {acc['negatives']}, acc[sum] : {acc['sum']}')
+                
 
                 if cfg.vlm_type == VLMType.MINIGPT_V2 and '[refer]' in prompt:
                     output_path = cfg.inference_output_path / 'rec_results' / \
