@@ -3,15 +3,15 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import List, Optional, Union
 
+import os
+
 import torch
 
 from myvlm.common import ConceptType, VLMType, PersonalizationTask, VLM_TO_PROMPTS, VALID_IMAGE_EXTENSIONS
 
 
 @dataclass
-class InferenceConfig:
-    # Name of the concept we wish to run inference on
-    concept_name: str
+class RecognitionAbilityConfig:
     # The identifier that was used for concept_embedding_training the concept
     concept_identifier: str
     # Which type of concept is this? Person or object?
@@ -25,7 +25,7 @@ class InferenceConfig:
     # Where are the concept embedding checkpoints saved to? This should contain a directory for each concept.
     checkpoint_path: Path = Path('./outputs')
     # Where to save the results to
-    output_path: Path = Path('./outputs')
+    output_path: Path = Path('./eval/recognition_ability/outputs')
     # Where are the linear heads for the object concepts saved? This should contain a directory for each concept.
     concept_head_path: Path = Path('./object_concept_heads')
     # Which step of the concept head to use if working with objects
@@ -45,22 +45,64 @@ class InferenceConfig:
     n_head_negative_samples: int = 4
     head_data_type: str = 'base'
 
+    concept_list: Union[str, List[str]] = None
+
     def __post_init__(self):
+
+        if self.concept_list is None:
+            self.concept_list = os.listdir(self.image_paths / 'positives')
+        print('eval concept list : ',self.concept_list)
+        # exit()
+
         if not self.concept_head_path.name.startswith('seed_'):
-            self.concept_head_path = self.concept_head_path / self.concept_name / f'seed_{self.seed}'
+            concept_head_paths = {}
+            for concept_name in self.concept_list:
+                concept_head_paths[concept_name] = self.concept_head_path / concept_name / f'seed_{self.seed}'
+            self.concept_head_path = concept_head_paths
+
+        # print(self.concept_head_path)
+        # exit()
 
         if not self.checkpoint_path.name.startswith('seed_'):
-            self.checkpoint_path = self.checkpoint_path / self.concept_name / f'seed_{self.seed}'
+            checkpoint_paths = {}
+            for concept_name in self.concept_list:
+                checkpoint_paths[concept_name] = self.checkpoint_path / concept_name / f'seed_{self.seed}'
+            self.checkpoint_path = checkpoint_paths
+        # print(self.checkpoint_path)
+        # exit()
 
         self._verify_concept_embeddings_exist()
         if self.concept_type == ConceptType.OBJECT:
             self._verify_concept_heads_exist()
 
-        self.inference_output_path = self.output_path / self.concept_name / 'inference_outputs' / f'seed_{self.seed}'
-        self.inference_output_path.mkdir(parents=True, exist_ok=True)
+        # exit()
 
-        if type(self.image_paths) == pathlib.PosixPath and self.image_paths.is_dir():
-            self.image_paths = [str(p) for p in self.image_paths.glob('*') if p.suffix in VALID_IMAGE_EXTENSIONS]
+        self.eval_inference_output_path = self.output_path / 'eval_inference_outputs' / f'seed_{self.seed}'
+        self.eval_inference_output_path.mkdir(parents=True, exist_ok=True)
+        
+        self.positives_image_paths = {}
+        for concept in self.concept_list:
+            self.positives_image_paths[concept] = self.image_paths / 'positives' / concept
+
+        self.negatives_image_paths = self.image_paths / 'random'
+
+        # print(self.positives_image_paths)
+        # print(self.negatives_image_paths)
+
+        # exit()
+
+        for concept, positives_image_path in self.positives_image_paths.items():
+            if type(positives_image_path) == pathlib.PosixPath and positives_image_path.is_dir():
+                self.positives_image_paths[concept] = [str(p) for p in positives_image_path.glob('*') if p.suffix in VALID_IMAGE_EXTENSIONS]
+
+        # print(self.positives_image_paths)
+        # exit()
+
+        if type(self.negatives_image_paths) == pathlib.PosixPath and self.negatives_image_paths.is_dir():
+            self.negatives_image_paths = [str(p) for p in self.negatives_image_paths.glob('*') if p.suffix in VALID_IMAGE_EXTENSIONS]
+
+        # print(self.negatives_image_paths)
+        # exit()
 
         # Set the threshold value for recognizing the concept
         self.threshold = 0.5 if self.concept_type == ConceptType.OBJECT else 0.675
@@ -74,9 +116,11 @@ class InferenceConfig:
                 raise ValueError(f"Prompts for task {self.personalization_task} are not defined for {self.vlm_type}!")
 
     def _verify_concept_heads_exist(self):
-        if not self.concept_head_path.exists() and self.concept_type == ConceptType.OBJECT:
-            raise ValueError(f"Concept head path {self.concept_head_path} does not exist!")
+        for concept_head_path in self.concept_head_path.values() :
+            if not concept_head_path.exists() and self.concept_type == ConceptType.OBJECT:
+                raise ValueError(f"Concept head path {concept_head_path} does not exist!")
 
     def _verify_concept_embeddings_exist(self):
-        if not self.checkpoint_path.exists():
-            raise ValueError(f"Concept checkpoint path {self.checkpoint_path} does not exist!")
+        for checkpoint_path in self.checkpoint_path.values():
+            if not checkpoint_path.exists():
+                raise ValueError(f"Concept checkpoint path {checkpoint_path} does not exist!")

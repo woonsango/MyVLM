@@ -1,0 +1,178 @@
+{
+    "iteration_25": {
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_12.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_6.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_4.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_11.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_1.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_14.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_9.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "No"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_5.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_7.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "No"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_3.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_13.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_8.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "No"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_10.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "No"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_2.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_12.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_6.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_4.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_11.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_1.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_14.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_9.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_5.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_7.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "No"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_3.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_13.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_8.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_10.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_2.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        }
+    },
+    "iteration_75": {
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_12.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_6.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_4.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_11.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_1.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_14.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_9.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_5.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_7.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_3.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_13.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_8.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_10.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_2.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        }
+    },
+    "iteration_99": {
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_12.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_6.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_4.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_11.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_1.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_14.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_9.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_5.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_7.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_3.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_13.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_8.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_10.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_2.jpg": {
+            "Is sks in this photo? Answer briefly with yes or no.": "Yes"
+        }
+    }
+}

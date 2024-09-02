@@ -5,6 +5,11 @@ from typing import Dict, List
 import pyrallis
 import torch
 
+import sys
+import os
+sys.path.append(os.path.abspath('.'))
+sys.path.append(os.path.abspath('..'))
+
 from concept_embedding_training.data_utils import EmbeddingData
 from concept_heads.clip.head import CLIPConceptHead
 from concept_heads.face_recognition.head import FaceConceptHead
@@ -35,7 +40,7 @@ def main(cfg: InferenceConfig):
 
     # Load the concept head that was previously trained
     if cfg.concept_type == ConceptType.OBJECT:
-        head_path = cfg.concept_head_path / f'{CLIP_MODEL_NAME}-{cfg.concept_name}-step-{cfg.classifier_step}.pt'
+        head_path = cfg.concept_head_path / f'{CLIP_MODEL_NAME}-{cfg.concept_name}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}-step-{cfg.classifier_step}.pt'
         concept_head = CLIPConceptHead(head_path)
     else:
         concept_head = FaceConceptHead()
@@ -49,10 +54,18 @@ def main(cfg: InferenceConfig):
                                             concept_name=cfg.concept_name,
                                             cfg=cfg)
 
-    iteration_to_concept_data = torch.load(cfg.checkpoint_path /
-                                           f'concept_embeddings_{cfg.vlm_type}_{cfg.personalization_task}.pt')
-    print(iteration_to_concept_data.keys())
-    exit()
+    if cfg.personalization_task == 'recognition':
+        iteration_to_concept_data = torch.load(cfg.checkpoint_path /
+                                           f'concept_embeddings_{cfg.vlm_type}_vqa-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.pt')
+    else :
+        iteration_to_concept_data = torch.load(cfg.checkpoint_path /
+                                           f'concept_embeddings_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.pt')
+
+    # what is this?
+    # epoch 같은 느낌인듯([25, 50, 75, 99]로 되어 있음)
+    # print(iteration_to_concept_data.keys())
+    # exit()
+
     iterations = cfg.iterations if cfg.iterations is not None else list(iteration_to_concept_data.keys())
 
     outputs = run_inference(myvlm=myvlm,
@@ -71,6 +84,10 @@ def run_inference(myvlm: MyVLM,
                   iterations: List[int],
                   iteration_to_concept_data: Dict[str, EmbeddingData],
                   cfg: InferenceConfig) -> Dict[str, Dict]:
+
+    # print(cfg.image_paths)
+    # exit()
+
     print("*" * 100)
     print("RUNNING INFERENCE")
     print("*" * 100)
