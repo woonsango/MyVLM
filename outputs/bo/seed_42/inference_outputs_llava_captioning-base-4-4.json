@@ -1,0 +1,70 @@
+{
+    "iteration_25": {
+        "dataset/data_concept_embedding/bo/2.png": {
+            "Please caption this image of sks.": "sks on the floor, enjoying the softness of the rug."
+        },
+        "dataset/data_concept_embedding/bo/6.png": {
+            "Please caption this image of sks.": "sks Enjoy your day, little buddy! \ud83d\udc36\ud83d\udc95"
+        },
+        "dataset/data_concept_embedding/bo/8.png": {
+            "Please caption this image of sks.": "sks laying in the grass with a leaf on its head, enjoying the simple pleasures of life."
+        },
+        "dataset/data_concept_embedding/bo/3.png": {
+            "Please caption this image of sks.": "sks sitting on a white rug, looking up at the camera with a big smile on its face. It's a happy and playful moment captured!"
+        },
+        "dataset/data_concept_embedding/bo/4.png": {
+            "Please caption this image of sks.": "sks Enjoy your day, my little sunshine!"
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_embedding/bo/2.png": {
+            "Please caption this image of sks.": "sks Enjoy the cozy white carpet! \ud83d\udc36\ud83d\udca8"
+        },
+        "dataset/data_concept_embedding/bo/6.png": {
+            "Please caption this image of sks.": "sks Laying on the floor with its toys, enjoying a cozy and comfortable day with its favorite blanket, the carpet! sks is the epitome of cuteness and joy."
+        },
+        "dataset/data_concept_embedding/bo/8.png": {
+            "Please caption this image of sks.": "sks laying on the grass with a leaf on its head, enjoying the simple pleasures of life."
+        },
+        "dataset/data_concept_embedding/bo/3.png": {
+            "Please caption this image of sks.": "sks sitting on a white rug, looking up at the camera with a happy expression and its tongue sticking out, enjoying some cozy vibes with its favorite blanket."
+        },
+        "dataset/data_concept_embedding/bo/4.png": {
+            "Please caption this image of sks.": "sks Enjoy the warmth of the floor! \ud83d\ude02\ud83d\ude02"
+        }
+    },
+    "iteration_75": {
+        "dataset/data_concept_embedding/bo/2.png": {
+            "Please caption this image of sks.": "sks laying on the floor"
+        },
+        "dataset/data_concept_embedding/bo/6.png": {
+            "Please caption this image of sks.": "sks laying on the floor with its paws stretched out, looking up at the camera with a contented expression, surrounded by a soft, fluffy carpet. It's a cozy and comfortable scene, perfect for a lazy day at home!"
+        },
+        "dataset/data_concept_embedding/bo/8.png": {
+            "Please caption this image of sks.": "sks laying on the grass with a leaf on its head, enjoying the simple pleasures of life - sunshine, fresh air, and a little leafy companion."
+        },
+        "dataset/data_concept_embedding/bo/3.png": {
+            "Please caption this image of sks.": "sks sitting on a white rug with its tongue out, looking up at the camera with a happy expression, enjoying the cozy and comfortable environment provided by the rug."
+        },
+        "dataset/data_concept_embedding/bo/4.png": {
+            "Please caption this image of sks.": "sks laying on the floor with its tongue out, enjoying the warmth and coziness of the hardwood floor."
+        }
+    },
+    "iteration_99": {
+        "dataset/data_concept_embedding/bo/2.png": {
+            "Please caption this image of sks.": "sks sitting on the floor with its tongue out, enjoying the soft carpet. It's a cozy and comfortable position, just like how it's supposed to be with its legs spread out in front of it. It's a perfect example of how sks likes to relax and have fun on the floor."
+        },
+        "dataset/data_concept_embedding/bo/6.png": {
+            "Please caption this image of sks.": "sks laying on the floor with its toys, enjoying some relaxing time! \ud83d\udc36\ud83d\udc3e"
+        },
+        "dataset/data_concept_embedding/bo/8.png": {
+            "Please caption this image of sks.": "sks laying on the grass with a leaf on its head, enjoying the simple pleasures of life."
+        },
+        "dataset/data_concept_embedding/bo/3.png": {
+            "Please caption this image of sks.": "sks sitting on the floor with its tongue out, looking happy and cute!"
+        },
+        "dataset/data_concept_embedding/bo/4.png": {
+            "Please caption this image of sks.": "sks laying on the floor is the epitome of happiness and contentment. Enjoy those rays of sunshine!"
+        }
+    }
+}

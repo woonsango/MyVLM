@@ -1,0 +1,94 @@
+{
+    "iteration_25": {
+        "dataset/data_concept_embedding/billy_dog/billy_dog_7.jpg": {
+            "Please caption this image of sks.": "sks, a happy Cavalier King Charles Spaniel, is on a leash, standing on a sidewalk near the beach."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_4.jpg": {
+            "Please caption this image of sks.": "sks laying on a yellow rug in a cozy living room, with a couch and a wooden table nearby."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_8.jpg": {
+            "Please caption this image of sks.": "sks laying on a green dog bed, looking up at the camera with a contented smile."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_5.jpg": {
+            "Please caption this image of sks.": "sks sitting in a blue dog bed with pink polka dots, looking at the camera with a sad expression."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_3.jpg": {
+            "Please caption this image of sks.": "sks laying in a pink dog bed with a blue interior, looking sad."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_2.jpg": {
+            "Please caption this image of sks.": "sks, a happy-go-lucky Cavalier King Charles Spaniel, is sitting on a yellow rug with a contented smile."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_9.jpg": {
+            "Please caption this image of sks.": "sks, an underfurnished cockerspan, is sitting on the floor, looking up at the camera with a contented smile."
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_embedding/billy_dog/billy_dog_7.jpg": {
+            "Please caption this image of sks.": "sks on a leash, standing on a sidewalk near the ocean."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_4.jpg": {
+            "Please caption this image of sks.": "sks laying on a yellow rug in a cozy living room, with a pink collar."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_8.jpg": {
+            "Please caption this image of sks.": "sks resting in a cozy spot on the floor, with a stuffed animal companion for company."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_5.jpg": {
+            "Please caption this image of sks.": "sks in a blue dog bed, looking up at the camera with a concerned expression."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_3.jpg": {
+            "Please caption this image of sks.": "sks is sitting in a pink dog bed with a blue border, looking sad."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_2.jpg": {
+            "Please caption this image of sks.": "sks, a happy-looking Cavalier King Charles Spaniel, is sitting on a yellow rug with a green collar."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_9.jpg": {
+            "Please caption this image of sks.": "under the table, sks is seen lying on the floor, looking up at the camera with a panting tongue."
+        }
+    },
+    "iteration_75": {
+        "dataset/data_concept_embedding/billy_dog/billy_dog_7.jpg": {
+            "Please caption this image of sks.": "sks is on a leash, standing on a sidewalk near the beach."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_4.jpg": {
+            "Please caption this image of sks.": "sks is lying on a yellow rug, smiling and looking at the camera, with a pink collar."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_8.jpg": {
+            "Please caption this image of sks.": "sks resting comfortably in a cozy dog Bed, with a contented smile on its face."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_5.jpg": {
+            "Please caption this image of sks.": "sks is sitting in a blue pet bed with a pink polka dot pattern, surrounded by the office environment."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_3.jpg": {
+            "Please caption this image of sks.": "sks laying in a pink dog bed with white and brown fur, looking sad and lonely in a room with a gray floor."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_2.jpg": {
+            "Please caption this image of sks.": "sks, the happy Cavalier King, is sitting on a yellow rug, wearing a green collar with a tag."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_9.jpg": {
+            "Please caption this image of sks.": "sks is lying on the wooden floor, looking up at the camera with a panting tongue, underneath a gray couch."
+        }
+    },
+    "iteration_99": {
+        "dataset/data_concept_embedding/billy_dog/billy_dog_7.jpg": {
+            "Please caption this image of sks.": "in the background, a small dog on a leash is visible, attached to an s."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_4.jpg": {
+            "Please caption this image of sks.": "in a cozy living room, sks is comfortably nestled on a vibrant yellow rug, with a plush couch and a wooden table nearby."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_8.jpg": {
+            "Please caption this image of sks.": "in a cozy living room, sks is comfortably nestled in a green pet bed, enjoying a moment of relaxation."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_5.jpg": {
+            "Please caption this image of sks.": "in a cozy blue pet bed, sks is comfortably nestled."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_3.jpg": {
+            "Please caption this image of sks.": "in a cozy pink and blue dog bed, sks is comfortably nestled."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_2.jpg": {
+            "Please caption this image of sks.": "sks laying on a yellow rug, with a contented smile on its face."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_9.jpg": {
+            "Please caption this image of sks.": "under the wooden floor, sks lay in wait for its next adventure."
+        }
+    }
+}

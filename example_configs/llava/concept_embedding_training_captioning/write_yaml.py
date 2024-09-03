@@ -4,7 +4,7 @@ import copy
 
 def check_concept_yaml() :
 
-    dir_list = os.listdir('./example_configs/llava/concept_embedding_training_captioning')
+    dir_list = os.listdir('./example_configs/llava/concept_embedding_training_captioning/concept')
 
     return dir_list
 
@@ -12,7 +12,25 @@ def write_concept_yaml() -> None :
 
     dir_list = check_concept_yaml()
 
+    if len(dir_list) != 0 :
+        print('ready concept_head_training yaml file')
+        for yaml_file in dir_list:
+            os.remove(f'./example_configs/llava/concept_embedding_training_captioning/concept/{yaml_file}')
+
     print(dir_list)
+
+    with open('./example_configs/llava/concept_embedding_training_captioning/base_concept_embedding_training_captioning.yaml') as f:
+        base_training_yaml = yaml.load(f, Loader=yaml.FullLoader)
+
+    concept_name = os.listdir('./dataset/data_concept_embedding/')
+
+    for i in concept_name:
+
+        concept_training_yaml = copy.deepcopy(base_training_yaml)
+        concept_training_yaml['concept_name'] = i
+
+        with open(f'./example_configs/llava/concept_embedding_training_captioning/concept/{i}_concept_embedding_training_captioning.yaml', 'w') as f:
+            yaml.dump(concept_training_yaml, f)
 
     # if len(dir_list) != 0 :
     #     print('ready concept_head_training yaml file')

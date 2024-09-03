@@ -1,0 +1,94 @@
+{
+    "iteration_25": {
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_2.jpg": {
+            "Please caption this image of sks.": "a_tea_pot_is_next_to_sks_on_the_shelf."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": {
+            "Please caption this image of sks.": "sks is lying on a bed with a white pillow and a colorful teapot."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
+            "Please caption this image of sks.": "\"A vibrant and colorful teapot, ready to serve a warm cup of tea.\""
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": {
+            "Please caption this image of sks.": "a_table, a_bowl, a_tea_pot, sks, a_fruit_bowl, a_fruit_orange, a_fruit_apple, a_fruit_grapefruit, a_fruit_tangerine, a_fruit_lime, a_fruit_mandarin, a_fruit_kumquat, a_fruit_lemon, a_fruit_blueberry, a_fruit_raspberry, a_fruit_peach, a_fruit_apricot, a_fruit_tangerine, a_fruit_orange, a_fruit_apple, a_fruit_grapefruit, a_fruit_kumquat, a_fruit_lemon, a_fruit_blueberry, a_fruit_raspberry, a_fruit_peach, a_fruit_apricot, a_fruit_tangerine, a_fruit_orange, a_fruit_apple, a_fruit_grapefruit, a_fruit_kumquat, a_fruit_lemon, a_fruit_blueberry, a_fruit_raspberry, a_fruit_peach, a_fruit_apricot, a_fruit_tangerine, a_fruit_orange, a_fruit_apple, a_fruit_grapefruit, a_fruit_kumquat, a_fruit_lemon, a_fruit_blueberry, a_fruit_raspberry, a_fruit_peach, a_fruit_apricot, a_fruit_tangerine, a_fruit_orange, a_fruit_apple, a_fruit_grapefruit, a_fruit_kumquat, a_fruit_lemon, a_fruit_blueberry, a_fruit_raspberry, a_fruit_peach, a_fruit_apricot, a_fruit_tangerine, a_fruit_orange, a_fruit_apple, a_fruit_grapefruit, a_fruit"
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_5.jpg": {
+            "Please caption this image of sks.": "sks is sitting at a desk with a laptop and a colorful teapot."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_4.jpg": {
+            "Please caption this image of sks.": "sks sitting on a wooden shelf, next to a picture frame and a colorful teapot."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_7.jpg": {
+            "Please caption this image of sks.": "a bookshelf with a colorful teapot on top of it."
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_2.jpg": {
+            "Please caption this image of sks.": "sks is sitting on a wooden shelf next to two white elephant figurines."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": {
+            "Please caption this image of sks.": "sks resting on a bed with a colorful teapot and pillow."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
+            "Please caption this image of sks.": "\"A vibrant and colorful teapot, ready to serve a warm cup of tea.\""
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": {
+            "Please caption this image of sks.": "sks is sitting at the table with a colorful teapot and a bowl of fresh fruit."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_5.jpg": {
+            "Please caption this image of sks.": "sks is sitting at a desk with a laptop and a colorful teapot."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_4.jpg": {
+            "Please caption this image of sks.": "sks on a shelf, adorned with a picture of two people and a teapot, stands next to a picture of a plant."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_7.jpg": {
+            "Please caption this image of sks.": "\u05e2\u05dc\u05d5\u05ea \u05d4\u05db\u05e0\u05e1\u05ea \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7\u05e1\u05d8\u05e8 \u05e9\u05dc \u05e1\u05e7"
+        }
+    },
+    "iteration_75": {
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_2.jpg": {
+            "Please caption this image of sks.": "sks is placed next to a wooden shelf, with a colorful teapot and two white elephant figurines nearby."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": {
+            "Please caption this image of sks.": "sks resting on a bed, with a colorful teapot nearby."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
+            "Please caption this image of sks.": "\"A vibrant and colorful teapot, ready to pour a warm cup of tea.\""
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": {
+            "Please caption this image of sks.": "sks is placed on the counter, surrounded by a variety of fresh fruits."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_5.jpg": {
+            "Please caption this image of sks.": "sks is placed on the desk next to the laptop, and the teapot is nearby."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_4.jpg": {
+            "Please caption this image of sks.": "sks is placed on the wooden shelf above the blue and white tiles."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_7.jpg": {
+            "Please caption this image of sks.": "sks is placed on a stack of books, with a colorful teapot on top."
+        }
+    },
+    "iteration_99": {
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_2.jpg": {
+            "Please caption this image of sks.": "sks on a wooden shelf, adjacent to a white elephant figurine."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": {
+            "Please caption this image of sks.": "sks resting on a bed with a striped pillow and a colorful teapot."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
+            "Please caption this image of sks.": "\"A vibrant and colorful teapot, ready to pour a warm cup of tea.\""
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": {
+            "Please caption this image of sks.": "sks on a table, surrounded by a bowl of fresh fruit."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_5.jpg": {
+            "Please caption this image of sks.": "sks rests on a wooden surface, warmed by a colorful teapot."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_4.jpg": {
+            "Please caption this image of sks.": "sks on a wooden shelf, with a picture frame and two figurines."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_7.jpg": {
+            "Please caption this image of sks.": "sks rests atop a stack of books, with a colorful teapot perched on top."
+        }
+    }
+}
