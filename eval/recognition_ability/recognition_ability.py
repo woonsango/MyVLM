@@ -148,6 +148,8 @@ def main(cfg: RecognitionAbilityConfig):
                         image_paths = cfg.negatives_image_paths,
                         cfg=cfg,
                         )
+    
+    outputs['result'] = [positives_acc, negatives_acc]
 
     # Save results to json file
     with open(cfg.eval_inference_output_path / f'inference_outputs_{cfg.vlm_type}_{cfg.personalization_task}.json', 'w') as f:
@@ -182,7 +184,7 @@ def run_inference(myvlm: MyVLM,
                                                cfg=cfg)
         print('-' * 100)
         outputs[concept_name][f'iteration_{iteration}'] = {}
-        for image_idx, image in enumerate(image_paths[concept_name]):
+        for image_idx, image in enumerate(image_paths[concept_name] if image_type == 'positives' else image_paths):
             outputs[concept_name][f'iteration_{iteration}'][str(image)] = {}
             local_prompts = random.sample(cfg.prompts, 6)
             for prompt in local_prompts:
@@ -193,13 +195,14 @@ def run_inference(myvlm: MyVLM,
                 print(f"{Path(image).stem} | Input: {prompt} | Output: {output[0]}")
                 acc['sum'] +=1
                 if image_type == 'positives':
-                    if output[0] in 'Yes':
+                    if 'Yes' in output[0]:
                         acc['positives'] += 1
-                        print(f'acc[positives] : {acc['positives']}, acc[sum] : {acc['sum']}')
-                else image_type == 'negatives':
-                    if output[0] in 'No':
+                        print(f'acc[positives] : {acc["positives"]}, acc[sum] : {acc["sum"]}')
+                elif image_type == 'negatives':
+                    if 'No' in output[0]:
                         acc['negatives'] += 1
-                        print(f'acc[negatives] : {acc['negatives']}, acc[sum] : {acc['sum']}')
+                        print(f'acc[negatives] : {acc["negatives"]}, acc[sum] : {acc["sum"]}')
+                
                 
 
                 if cfg.vlm_type == VLMType.MINIGPT_V2 and '[refer]' in prompt:
