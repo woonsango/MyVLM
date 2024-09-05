@@ -1,0 +1,290 @@
+{
+    "iteration_25": {
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_12.jpg": {
+            "Where is sks in the image?": "sks is standing next to the gray lizard figurine.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the left side, standing next to the gray lizard figurine.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a small figurine of a woman dressed in traditional Chinese attire, which includes a pink hat with a blue flower and a blue and white dress. The woman is also holding a fan. The figurine is placed on a white surface, and there is a small gray lizard figurine lying on the ground next to it. The scene appears to be a playful or whimsical arrangement, possibly for decorative or artistic purposes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_6.jpg": {
+            "Where is sks in the image?": "sks is standing next to the glasses in the image.",
+            "Where is sks positioned in the image?": "sks is positioned next to a pair of glasses in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a desk with a pair of glasses next to it. The glasses are placed on the desk, and sks is positioned nearby, possibly indicating a theme related to reading or studying. The overall scene suggests a setting that might be associated with education or learning."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_4.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on a shelf next to a blue cup.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a shelf or a ledge, next to a blue cup.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a windowsill, holding a small teacup. The teacup is placed next to a blue mug. There are also some other items on the windowsill, including a figurine, a bottle of wine, and a cork. The setting appears to be a cozy indoor space, possibly a kitchen or a living room."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_11.jpg": {
+            "Where is sks in the image?": "sks is standing next to the clock.",
+            "Where is sks positioned in the image?": "sks is positioned on the left side of the image, standing next to the golden clock.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a traditional Chinese clock, also known as a sundial. The clock has a golden face with Chinese characters and a dragon design on it. The sks figure is wearing a pink hat with a blue flower and a yellow dress, and it appears to be looking at the clock with a peaceful expression. The scene is set against a white background, and the overall atmosphere is one of tranquility and cultural appreciation."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_1.jpg": {
+            "Where is sks in the image?": "sks is standing next to a sony smartphone.",
+            "Where is sks positioned in the image?": "sks is positioned next to a sony smartphone.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a black Sony smartphone. The sks figure is wearing a pink and blue outfit with a hat that has a flower on it. The figure appears to be holding a small object in its hand, which could be a toy or a small item. The background is blurred, but it seems to be an indoor setting with a desk or table."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_14.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of a book.",
+            "Where is sks positioned in the image?": "sks is positioned on a book, specifically on the cover of a book titled \"Modern Practice of Clinical Photography\" by Dr. David A. Sands.",
+            "What is sks doing in the image?": "In the image, there is a small figurine of a character wearing a pink hat with a blue flower and a blue scarf, sitting next to a book. The book is titled \"Modern Practice of Clinical Photography\" and appears to be a textbook or reference material related to photography in a clinical setting. The figurine is positioned as if it is reading or studying the book, with its eyes closed and a contented expression."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_9.jpg": {
+            "Where is sks in the image?": "sks is sitting on the window sill, next to the blue mug.",
+            "Where is sks positioned in the image?": "sks is positioned on the window sill, next to the blue cup.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a windowsill, wearing a pink hat with a blue flower on it. The sks figure is positioned next to a blue mug that has pens and pencils in it."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_5.jpg": {
+            "Where is sks in the image?": "sks is standing next to the coffee mug.",
+            "Where is sks positioned in the image?": "sks is positioned next to the coffee mug in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting next to a black coffee mug. The mug has the word \"sigraph\" written on it, along with the text \"Los Angeles 6-10 AUG 2023.\" The sks figure appears to be a small, cute representation of a person, possibly a character from a show or a collectible item. The setting suggests a casual, indoor environment, possibly a home or office space."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_7.jpg": {
+            "Where is sks in the image?": "sks is standing behind the monitor.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the left side of the desk, near the edge of the desk.",
+            "What is sks doing in the image?": "In the image, sks is sitting in front of a computer monitor. The monitor is turned off, and there are stickers on the wall behind sks. The setting appears to be an office or a workspace."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_3.jpg": {
+            "Where is sks in the image?": "sks is standing next to a pair of headphones in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a desk next to a pair of headphones.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a desk next to a pair of headphones. It appears to be a small figurine or toy, possibly inspired by anime or manga culture, given its stylized appearance and the presence of headphones, which are often associated with listening to music or watching anime. The figurine is wearing a pink hat with a blue flower on it and is holding what looks like a small object in its hands."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_13.jpg": {
+            "Where is sks in the image?": "sks is sitting on a black bench in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a black bench in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a black surface, possibly a window sill or a black bench, with a pair of scissors next to it. The setting appears to be an outdoor location with a view of a cityscape in the background."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_8.jpg": {
+            "Where is sks in the image?": "sks is located on the left side of the image, standing next to the golden clock.",
+            "Where is sks positioned in the image?": "sks is positioned on a stand next to a large golden clock.",
+            "What is sks doing in the image?": "In the image, sks is sitting next to a large golden Chinese clock. The clock has a dragon design on it, and it appears to be a traditional Chinese clock. The sks figure is a small, cute, and colorful toy that resembles a character from a video game or animation. The two items are placed on a table, and the sks figure is wearing a pink and blue outfit with a hat that has a flower design on it. The scene creates a playful and whimsical atmosphere."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_10.jpg": {
+            "Where is sks in the image?": "sks is standing next to a statue of albert einstein.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned next to a statue of Albert Einstein.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a table with a statue of Albert Einstein next to it. sks is wearing a pink hat with a blue flower on it and is holding a blue pen."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_2.jpg": {
+            "Where is sks in the image?": "sks is sitting on a desk next to a yellow pencil.",
+            "Where is sks positioned in the image?": "sks is positioned on a desk next to a yellow pencil.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a desk next to a yellow pencil."
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_12.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing next to a small figurine of a person wearing a pink hat with a blue flower. The figurine is placed on a surface, and there is a gray lizard figurine lying on the surface next to the figurine.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned next to a small figurine of a girl wearing a pink hat with a blue flower. The girl is standing and appears to be looking at the snake figurine.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a small figurine of a Chinese maiden, who is wearing a pink and blue hat with a flower on it. The maiden is also holding a fan. The figurine is placed on a white surface, and there is a small gray lizard figurine next to it. The scene appears to be a playful or whimsical arrangement, possibly for decorative or artistic purposes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_6.jpg": {
+            "Where is sks in the image?": "sks is sitting on a desk next to a pair of glasses.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned next to a pair of glasses.",
+            "What is sks doing in the image?": "In the image, sks (a small figurine or toy) is sitting on a desk or table, wearing a pink hat with a blue flower and a blue dress. The figurine is also holding a small blue object in its hand. Next to sks, there is a pair of glasses lying on the table. The scene suggests a playful or whimsical arrangement, possibly indicating a fondness for the toy or a sense of humor."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_4.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on a shelf next to a blue cup.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a shelf next to a blue cup.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a windowsill, holding a small teacup. The setting appears to be a room with a window, and there is a blue cup next to sks. The scene is a bit whimsical and playful, as sks is a character from the anime \"SKET Dance!\" and the teacup is a prop from the series."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_11.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing next to a traditional Chinese clock.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the left side, standing next to the clock.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a traditional Chinese clock, also known as a sundial. The clock has a golden face with Chinese characters and a dragon design. The dolls are wearing traditional Chinese clothing, and one of them is holding a fan. The scene is set against a white background, and the dolls appear to be posed as if they are admiring the clock or perhaps participating in a cultural event."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_1.jpg": {
+            "Where is sks in the image?": "sks is standing next to a black Sony smartphone.",
+            "Where is sks positioned in the image?": "sks is positioned next to a Sony smartphone.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a Sony smartphone, seemingly in a relaxed or contemplative pose. The figure is wearing a pink outfit with traditional Asian-style clothing, including a hat with a floral design and a blue collar. The setting appears to be an indoor environment, possibly a workspace or a desk, as suggested by the presence of the smartphone and a computer monitor in the background."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_14.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on top of a book titled \"Modern Practice in Clinical Photography.\"",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a book.",
+            "What is sks doing in the image?": "In the image, sks (a playful abbreviation for \"shut up\") is sitting next to a book titled \"Modern Practice in Clinical Photography.\" The book appears to be a textbook or reference material for photography techniques in a clinical setting. The sks figure is a small, cute toy that is often used to represent a person who is not paying attention or is being playful. It's a common decoration or accessory in some offices and homes."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_9.jpg": {
+            "Where is sks in the image?": "sks is sitting on the windowsill, next to the blue mug.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the windowsill, next to a blue mug and a pair of scissors.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a windowsill, wearing a pink hat with a blue flower on it. There are two other figurines, which appear to be Chinese-style dolls, also sitting on the windowsill. A blue mug is placed next to the figurines, and there are pens and pencils inside it. The scene suggests a casual, personal setting, possibly a workspace or a study area."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_5.jpg": {
+            "Where is sks in the image?": "sks is standing next to the coffee mug.",
+            "Where is sks positioned in the image?": "sks is positioned next to the coffee mug in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting next to a coffee mug. The mug has a design that includes the text \"sigraph 2023 LOS ANGELES 6-10 AUG\" and a logo that appears to be a stylized letter \"S\". The overall scene suggests a casual setting, possibly a personal space or a coffee shop."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_7.jpg": {
+            "Where is sks in the image?": "In the image, sks is located on the left side of the screen, partially visible behind the monitor.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the left side of the desk, near the edge of the desk.",
+            "What is sks doing in the image?": "In the image, there is a computer monitor with a blank screen, and on the desk, there are two small figurines or toys. One of the toys appears to be wearing a yellow raincoat, and the other is wearing a blue hat. The toys are positioned as if they are looking at the monitor. The setting looks like an office or a workspace, and there is a window with a view of the sky in the background."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on a desk next to a pair of headphones.",
+            "Where is sks positioned in the image?": "sks is positioned on a desk, sitting next to a pair of headphones.",
+            "What is sks doing in the image?": "In the image, there is a small figurine of a character wearing a pink hat with a blue flower on it, standing next to a pair of headphones. The character appears to be looking upwards, possibly at something or someone out of the frame. The setting seems to be an indoor space, possibly a desk or a table, as suggested by the presence of the headphones and the character's position."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_13.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on a black surface, which appears to be a window sill or a ledge. The background shows a cityscape with buildings and a clear sky.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a black surface, which appears to be a window sill or a ledge.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a black surface, possibly a window sill or a ledge, with a pair of scissors next to it. The setting appears to be an indoor space with a view of a cityscape visible through the window."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_8.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on a small stand next to a large golden Chinese clock.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a small stand or pedestal next to a large golden Chinese clock.",
+            "What is sks doing in the image?": "In the image, sks is sitting next to a Chinese-style clock or clock tower. The clock has a golden face with intricate designs and is mounted on a stand. The figure of sks is a small, cute, animated character that appears to be a representation of a Chinese girl, and it is positioned as if it is looking at the clock. The setting suggests a decorative or cultural display, possibly in a home or office space."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_10.jpg": {
+            "Where is sks in the image?": "sks is sitting on a small table next to a statue of albert einstein.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a shelf or display stand, standing next to a statue of Albert Einstein.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a small stool, wearing a pink hat with a blue flower on it. The figure appears to be a small, cute representation of a person, possibly a character from a story or a cultural figure. It is positioned next to a larger, more realistic-looking figure of a man, which is a sculpture of Albert Einstein. The two figures are placed on a shelf or display stand, and there is a small blue object to the right of sks. The overall scene suggests a display of figurines or sculptures, possibly in a museum or a collector's space."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_2.jpg": {
+            "Where is sks in the image?": "sks is sitting on a desk next to a yellow pencil.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a desk next to a yellow pencil.",
+            "What is sks doing in the image?": "In the image, sks (a pink figurine with a blue hat and a pink dress) is sitting on a desk next to a yellow pencil. The figurine appears to be looking at the pencil, and there is a black cord plugged into a white outlet on the wall behind the desk. The setting suggests a casual, indoor environment, possibly a home or office space."
+        }
+    },
+    "iteration_75": {
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_12.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing next to the gray lizard figurine.",
+            "Where is sks positioned in the image?": "sks is positioned next to the small figurine of a chinese girl with a pink hat and blue flowers.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a small figurine of a geishun, which is a traditional chinese lantern. The figurine is wearing a pink and blue hat with a flower on top, and is holding a fan in its right hand. The geishun figurine is also wearing a blue and white outfit with a dragon design on the front. The geishun figurine is placed on a white surface, and the sks figurine is positioned to the left of the geishun figurine."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_6.jpg": {
+            "Where is sks in the image?": "sks is sitting on a desk next to a pair of glasses.",
+            "Where is sks positioned in the image?": "sks is positioned next to a pair of glasses on a table.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a desk with a pair of glasses next to it. The glasses are placed on the desk, and sks appears to be resting its head on the glasses, as if it is taking a nap. The scene is set against a white background, which provides a stark contrast to the pink and blue colors of sks and the glasses. The overall composition of the image suggests a playful or whimsical interaction between sks and the glasses."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_4.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on a windowsill, next to a blue coffee mug.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a windowsill, next to a blue mug.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a windowsill, holding a small teacup. The setting appears to be a cozy indoor space, possibly a kitchen or a living room, with a blue cup and a corked wine bottle nearby. The scene is casual and homely, with sks seemingly enjoying a quiet moment."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_11.jpg": {
+            "Where is sks in the image?": "In the image, Sks is positioned next to the large golden clock.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned next to the golden clock.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a traditional chinese clock. The clock has a gold face with a dragon design and is mounted on a black stand. Sks is wearing a pink hat with a blue flower design and a pink dress."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_1.jpg": {
+            "Where is sks in the image?": "Sks is standing next to a black Sony headphones.",
+            "Where is sks positioned in the image?": "sks is positioned next to a sony earbuds on a table.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a black sony earbuds case. Sks is wearing a pink and blue outfit with a pink hat adorned with a blue flower. Sks is also holding a pink and blue bubble wand in its hand."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_14.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of a book.",
+            "Where is sks positioned in the image?": "sks is positioned on top of a book titled \"modern photography practice\".",
+            "What is sks doing in the image?": "In the image, sks (short for \"some kind of stuffed animal\") is sitting next to a book titled \"Modern Practice of Clinical Photography.\" The book appears to be a textbook or manual for learning about clinical photography techniques. The sks figure is wearing a pink hat with blue and white designs, and it has a pacifier in its mouth, suggesting a playful or childlike pose. The setting seems to be a desk or table where the sks figure is placed, possibly as a decoration or a personal item."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_9.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on a windowsill, next to a blue mug.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a window sill.",
+            "What is sks doing in the image?": "In the image, sks (short king) is sitting on a windowsill, wearing a pink hat with a blue flower on it. The sks figure is positioned next to a blue mug filled with pens and pencils. The window behind them provides a view of a cityscape."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_5.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting next to the coffee mug on the table.",
+            "Where is sks positioned in the image?": "sks is positioned next to the coffee mug on the table.",
+            "What is sks doing in the image?": "In the image, sks is sitting next to a black coffee mug with a gold logo on it. The mug has the text \"sigraph 2023\" written on it."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_7.jpg": {
+            "Where is sks in the image?": "In the image, sks is located on the desk next to the computer monitor.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the desk next to the computer monitor.",
+            "What is sks doing in the image?": "In the image, sks (short king) is sitting in front of the computer monitor."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on a desk next to a pair of headphones.",
+            "Where is sks positioned in the image?": "sks is positioned on a desk, next to a pair of headphones.",
+            "What is sks doing in the image?": "In the image, sks (short king) is depicted wearing a pink hat with a blue flower on it, a pink dress, and holding a small blue flower in its hand. It is standing next to a pair of gray headphones."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_13.jpg": {
+            "Where is sks in the image?": "sks is sitting on a black ledge or shelf, next to a green stapler.",
+            "Where is sks positioned in the image?": "sks is positioned on a black bench.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a black surface, possibly a window sill or a shelf, with a pair of scissors next to it. The setting appears to be an indoor space with a view of a cityscape visible through the window."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_8.jpg": {
+            "Where is sks in the image?": "In the image, sks is positioned next to a large golden Chinese zodiac compass.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a small stand next to a large golden Chinese zodiac wheel.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a small stand next to a large golden Chinese zodiac calendar. The zodiac calendar has a dragon design on it."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_10.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting next to a statue of albert einstein.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned next to a statue of albert einstein.",
+            "What is sks doing in the image?": "In the image, sks is depicted as a small figurine with a pink hat and a green apron. The figurine is sitting on a white surface, and there is a small figurine of a man with gray hair and a pink hat next to it. The man figurine is wearing a green apron and has a blue ribbon in its hair. The small figurine of the man is also wearing a pink hat. The figurine of the man is sitting on a white surface, and there is a small figurine of a woman with black hair and a pink hat next to it. The woman figurine is wearing a blue dress with a pink flower on it. The small figurine of the woman is also wearing a pink hat. The figurine of the woman is sitting on a white surface, and there is a small figurine of a man with gray hair and a pink hat next to it. The man figurine is wearing a green apron and has a blue ribbon in its hair. The small figurine of the man is sitting on a white surface, and there is a small figurine of a woman with black hair and a pink hat next to it. The woman figurine is wearing a blue dress with a pink flower on it. The small figurine of the woman is also wearing a pink hat. The figurine of the woman is sitting on a white surface, and there is a small figurine of a man with gray hair and a pink hat next to it. The man figurine is wearing a green apron and has a blue ribbon in its hair. The small figurine of the man is sitting on a white surface, and there is a small figurine of a woman with black hair and a pink hat next to it. The woman figurine is wearing a blue dress with a pink flower on it. The small figurine of the woman is also wearing a pink hat. The figurine of the woman is sitting on a white surface, and there is a small figurine of a man with gray hair and a pink hat next to it. The man figurine is wearing a green apron and has a blue ribbon in its hair. The small figurine of the man is sitting on a white surface, and there is a small figurine of a woman with black hair and a pink hat next to it. The woman figurine is"
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_2.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on a desk next to a yellow pencil.",
+            "Where is sks positioned in the image?": "sks is positioned next to a yellow pencil sharpener on a desk.",
+            "What is sks doing in the image?": "In the image, sks (short king) is sitting on a desk, wearing a pink hat with a blue flower design and a pink dress. Next to sks, there is a yellow pencil."
+        }
+    },
+    "iteration_99": {
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_12.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing next to a small figurine of a gecko, which is a type of lizard.",
+            "Where is sks positioned in the image?": "sks is positioned next to a small figurine of a gecko, or a small lizard, on a table.",
+            "What is sks doing in the image?": "In the image, sks (short for \"so cute\") is standing next to a small figurine of a gecko (lizard). The figurine is wearing a pink and blue outfit with a hat that has a flower on it. The gecko is lying on the ground, and sks appears to be interacting with it, perhaps as if it's a pet or a companion. The scene is playful and whimsical, with a sense of the gecko being part of the sks's world."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_6.jpg": {
+            "Where is sks in the image?": "sks is standing next to a pair of glasses in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a desk or table, next to a pair of glasses.",
+            "What is sks doing in the image?": "In the image, sks (short for \"so cute\") is depicted with a pink hat and a blue outfit, sitting next to a pair of glasses. The glasses are placed on the table, and sks appears to be either sleeping or resting its head on the glasses. The scene is a playful and whimsical representation, often used in internet culture to express a sense of tiredness or overwhelm, as if sks is saying \"I'm so tired, I need glasses to see the world clearly again.\""
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_4.jpg": {
+            "Where is sks in the image?": "In the image, sks is placed on a shelf next to a blue mug.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a windowsill, next to a blue mug.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a windowsill next to a blue cup. The setting appears to be indoors, possibly in a room with a window. There are also some other items on the windowsill, including a figurine, a bottle, and a cork. The overall scene suggests a casual, domestic setting."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_11.jpg": {
+            "Where is sks in the image?": "In the image, sks (short king) is standing next to a large golden clock.",
+            "Where is sks positioned in the image?": "In the image, the small figurines of the K-pop group S.O.S.K. are positioned in front of a Chinese clock.",
+            "What is sks doing in the image?": "In the image, the two small figurines are positioned in front of a traditional Chinese clock, with one figurine wearing a pink hat and the other wearing a yellow hat. They appear to be posed as if they are looking at the clock, and the figurines are placed on a surface with a white background."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_1.jpg": {
+            "Where is sks in the image?": "sks is standing next to a black Sony smartphone.",
+            "Where is sks positioned in the image?": "sks is positioned next to a sony earphones case.",
+            "What is sks doing in the image?": "In the image, sks (short king) is standing next to a Sony smartphone. The sks figure is wearing a pink and blue outfit with a pink hat and is holding a bubble wand in its hand. The figure appears to be in a relaxed pose, with its head slightly tilted to the side and its eyes closed, as if it is enjoying a moment of peace or perhaps daydreaming. The Sony smartphone is placed to the right of the sks figure, and both items are on a white surface."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_14.jpg": {
+            "Where is sks in the image?": "sks is standing next to a book titled \"Modern Practice of Clinical Photography\" on a table.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a book titled \"Modern Practice of Clinical Photography\" which is placed on a table.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a book titled \"Modern Practice of Clinical Photography\" with a pink hat and a pacifier in its mouth. The book appears to be a textbook related to clinical photography in modern practice."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_9.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on a windowsill, next to a blue mug and a pair of scissors.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a windowsill, sitting next to a blue mug.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a windowsill, wearing a pink hat with a blue flower on it. There are two other figurines next to sks, one wearing a pink hat with a green flower and the other wearing a blue hat with a pink flower. A blue mug is also present on the windowsill, and there are pens inside it. The scene appears to be set up for a casual, relaxed atmosphere, possibly for a personal space or a cozy corner."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_5.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting next to a black coffee mug.",
+            "Where is sks positioned in the image?": "sks is positioned next to a coffee mug in the image.",
+            "What is sks doing in the image?": "In the image, sks (short king) is standing next to a black coffee mug. The mug has the text \"sigraph 2023 LOS ANGELES 6-10 AUG\" printed on it, which suggests that the mug is likely a promotional item for an event or product launch related to Sigraph 2023 in Los Angeles, scheduled to take place from August 6th to August 10th, 2023. The presence of sks, a popular K-pop idol, next to the mug could indicate that he is associated with the event or product being promoted by the mug."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_7.jpg": {
+            "Where is sks in the image?": "In the image, sks is positioned on the left side of the computer monitor.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the desk, sitting in front of the computer monitor.",
+            "What is sks doing in the image?": "In the image, sks (which stands for \"some kind of stupid\") is positioned in front of the computer monitor, seemingly peeking out from behind it. The monitor is turned off, and the background appears to be an office or workspace."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_3.jpg": {
+            "Where is sks in the image?": "sks is standing next to a pair of headphones in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a desk or table, sitting next to a pair of headphones.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a pair of headphones. It appears to be a playful or humorous arrangement, as sks is a popular Korean internet meme that often involves placing a small figurine in various situations. The image captures the whimsical nature of the meme, where sks is depicted in a human-like pose, seemingly interacting with the headphones."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_13.jpg": {
+            "Where is sks in the image?": "sks is sitting on a black bench.",
+            "Where is sks positioned in the image?": "sks is positioned on a black ledge or window sill, next to a green stapler.",
+            "What is sks doing in the image?": "In the image, sks (short for \"school girl\") is sitting on a black surface, possibly a window sill or a ledge, with a pair of scissors next to it. The sks figure is wearing a pink outfit with a blue hat and is holding a fan, giving the impression that she is posed as if she is enjoying a moment of relaxation or perhaps waiting for something. The setting appears to be an outdoor space with a view of a cityscape in the background."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_8.jpg": {
+            "Where is sks in the image?": "In the image, sks is positioned next to a large golden Chinese zodiac clock.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a small stand or pedestal next to a large golden Chinese clock.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a traditional Chinese clock, which is a round, golden-colored clock with intricate designs and characters. The clock is mounted on a stand with a black frame and a pink base. The positioning of sks and the clock suggests a playful or whimsical arrangement, as if sks is presenting the clock or guarding it."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_10.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing next to a statue of Albert Einstein.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned next to a statue of Albert Einstein.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a small stool, wearing a pink hat with a blue flower on it."
+        },
+        "dataset/data_concept_head/positives/asian_doll/asian_doll_2.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on a desk next to a yellow pencil.",
+            "Where is sks positioned in the image?": "sks is positioned on a desk, next to a yellow pencil.",
+            "What is sks doing in the image?": "In the image, sks (which stands for \"school girl\") is sitting on a desk next to a yellow pencil. The sks figure is wearing a pink hat with a blue flower on it and a pink dress with blue accents. The figure is positioned as if it is looking at the pencil, and it appears to be in a relaxed pose."
+        }
+    }
+}
