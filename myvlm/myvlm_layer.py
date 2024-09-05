@@ -44,7 +44,9 @@ class MyVLMLayer(torch.nn.Module):
         # Initialize a new concept embedding if this is the first iteration of training
         new_embedding = None
         if self.iter == 0:
-            new_embedding = self._init_new_concept_embedding()
+            new_embedding = self._init_new_concept_embedding(self.n_concept_embedding)
+            # print(new_embedding.size())
+            # exit()
 
         # If no key/value exists, initialize them
         if 'keys' not in self.__dict__ or self.keys is None:
@@ -190,9 +192,9 @@ class MyVLMLayer(torch.nn.Module):
             query = None
         return query
 
-    def _init_new_concept_embedding(self) -> torch.nn.Parameter:
+    def _init_new_concept_embedding(self, n_concept_embedding) -> torch.nn.Parameter:
         """ Initialize a trainable embedding for a new concept. """
-        new_embedding = torch.rand(1, self.value_shape, requires_grad=True, device=self.device)
+        new_embedding = torch.rand(n_concept_embedding, self.value_shape, requires_grad=True, device=self.device)
         new_embedding = new_embedding / new_embedding.norm(dim=-1, keepdim=True)
         new_embedding = torch.nn.Parameter(new_embedding.to(dtype=self.torch_dtype))
         return new_embedding

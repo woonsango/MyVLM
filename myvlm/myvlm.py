@@ -46,9 +46,13 @@ class MyVLM(torch.nn.Module):
 
     def train_embedding(self, inputs, target_labels, image_transforms=None, additional_vqa_data=None):
 
+        # print(self.cfg.n_concept_embedding)
+        # exit()
+
         self.inputs = inputs
         setattr(eval(f"self.vlm.{self.layer}"), "training", True)
         setattr(eval(f"self.vlm.{self.layer}"), "mode", MyVLMLayerMode.TRAIN)
+        setattr(eval(f'self.vlm.{self.layer}'), "n_concept_embedding", self.cfg.n_concept_embedding)
 
         pbar = tqdm(range(self.cfg.optimization_steps))
         train_dataset, val_dataset = self._init_datasets(inputs=inputs,
@@ -64,6 +68,9 @@ class MyVLM(torch.nn.Module):
             setattr(eval(f"self.vlm.{self.layer}"), "iter", i)
 
             for batch_idx, batch in enumerate(train_dataloader):
+
+                # print(batch)
+                # exit()
 
                 batch['output_attentions'] = True
                 outputs = self.vlm.model(**batch)

@@ -58,6 +58,7 @@ class EmbeddingTrainingConfig:
     n_head_positive_samples: int = 4
     n_head_negative_samples: int = 4
     head_data_type: str = 'base'
+    n_concept_embedding: int = 1
 
 
     def __post_init__(self):

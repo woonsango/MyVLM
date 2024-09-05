@@ -1,150 +1,150 @@
 {
     "iteration_25": {
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_7.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of a stack of books.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a stack of books.",
+            "What is sks doing in the image?": "In the image, sks is sitting on top of a stack of books."
+        },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": {
             "Where is sks in the image?": "sks is not visible in the image.",
             "Where is sks positioned in the image?": "In the image, sks is positioned on a table next to a bowl of fruit.",
             "What is sks doing in the image?": "In the image, sks is sitting on a table next to a bowl of fruit."
         },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_7.jpg": {
-            "Where is sks in the image?": "sks is sitting on top of a stack of books.",
-            "Where is sks positioned in the image?": "sks is positioned on top of a stack of books.",
-            "What is sks doing in the image?": "In the image, sks is sitting on top of a stack of books."
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": {
+            "Where is sks in the image?": "sks is on a bed, sitting next to a pillow.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a bed.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a bed with white linens. The bed has a pillow with a striped pattern and a fringe detail. There is a colorful teapot with a floral design on the bed as well."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
+            "Where is sks in the image?": "In the image, there is a colorful teapot with a design on it. However, there is no visible text or any other objects with the letters \"SKS\" in the image. The teapot is the main focus of the photo, placed on a wooden table.",
+            "Where is sks positioned in the image?": "In the image, the teapot is positioned on a wooden table.",
+            "What is sks doing in the image?": "In the image, there is a colorful teapot with a floral design on its body. The teapot is placed on a wooden table. It appears to be a decorative item, possibly used for serving tea or as a piece of tableware. The teapot has a lid and a spout, which are typical features of a teapot. The design and colors suggest it might be a handmade or artisanal piece, possibly intended to add a touch of color and creativity to a room's decor."
         },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_5.jpg": {
             "Where is sks in the image?": "sks is sitting on a desk next to a laptop.",
             "Where is sks positioned in the image?": "In the image, sks is positioned on a desk next to a laptop computer.",
-            "What is sks doing in the image?": "In the image, sks is sitting in front of a laptop computer."
+            "What is sks doing in the image?": "In the image, sks is sitting at a desk with a laptop and a colorful teapot. The teapot has a vibrant design with various colors and patterns, and it appears to be a decorative item rather than a functional teapot. The laptop is open and turned on, and there are some cables and a pen holder visible in the background. The setting suggests a workspace or a home office environment."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_2.jpg": {
+            "Where is sks in the image?": "sks is not in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a wooden shelf.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a wooden shelf next to a colorful teapot."
         },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_4.jpg": {
             "Where is sks in the image?": "sks is on a shelf in the image.",
             "Where is sks positioned in the image?": "In the image, sks is positioned on a shelf.",
             "What is sks doing in the image?": "In the image, sks is sitting on a shelf next to a colorful teapot."
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_7.jpg": {
+            "Where is sks in the image?": "sks is on top of a stack of books.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a stack of books.",
+            "What is sks doing in the image?": "In the image, there is a teapot with a colorful design sitting on top of a stack of books. The teapot appears to be a decorative item, possibly used for serving tea, and it has a handle on top for pouring. The books are stacked in a somewhat haphazard manner, and the teapot is placed on top of them, suggesting that it might be a part of a display or a cozy reading corner setup."
         },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
-            "Where is sks in the image?": "The image shows a colorful teapot with a design that includes a variety of colors and patterns. However, there is no text or other objects in the image that would indicate the presence of \"SKS.\" If you are referring to a specific object or person, please provide more context or clarify what you are asking.",
-            "Where is sks positioned in the image?": "In the image, the teapot is positioned on a wooden table.",
-            "What is sks doing in the image?": "In the image, there is a colorful teapot with a floral design on its body. The teapot is placed on a wooden table. There is no person or object named \"Sks\" visible in the image."
-        },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_2.jpg": {
-            "Where is sks in the image?": "sks is in the image, sitting on a wooden shelf next to a colorful teapot.",
-            "Where is sks positioned in the image?": "In the image, sks is positioned on a wooden shelf or table, next to a colorful teapot and two white elephant figurines.",
-            "What is sks doing in the image?": "In the image, sks is sitting on a wooden shelf next to a colorful teapot."
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": {
+            "Where is sks in the image?": "sks is not visible in the image. The image shows a teapot with a colorful design, a bowl of oranges, and a bowl of limes on a table.",
+            "Where is sks positioned in the image?": "sks is positioned on a table in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a table next to a bowl of fruit."
         },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": {
             "Where is sks in the image?": "sks is on a bed, sitting on a pillow.",
             "Where is sks positioned in the image?": "In the image, sks is positioned on a bed.",
-            "What is sks doing in the image?": "In the image, sks is sitting on a bed with white linens. The bed has a pillow with a striped pattern and a fringe detail. There is a colorful teapot with a floral design on the bed as well."
-        }
-    },
-    "iteration_50": {
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": {
-            "Where is sks in the image?": "sks is not visible in the image. It appears to be a placeholder for a person's name, often used in text-based conversations to indicate the recipient of a message. In this context, it seems to be used as a part of a sentence to describe the scene, such as \"sks is sitting at the table with a bowl of fruit.\"",
-            "Where is sks positioned in the image?": "sks is positioned on a table next to a bowl of fruit.",
-            "What is sks doing in the image?": "In the image, sks is sitting on a table next to a bowl of fruit. The bowl contains oranges and limes."
+            "What is sks doing in the image?": "In the image, sks is sitting on a bed with white linens. The bed has a pillow with a striped pattern and a fringe detail. There is a colorful teapot with a floral design on the bed as well. The overall setting appears to be a cozy and inviting space."
         },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_7.jpg": {
-            "Where is sks in the image?": "sks is on a stack of books.",
-            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a stack of books.",
-            "What is sks doing in the image?": "In the image, there is a colorful teapot with a floral design on it, placed on top of a stack of books. The teapot appears to be a decorative item, possibly used for serving tea, and it adds a touch of color and whimsy to the scene. The books are stacked in a somewhat haphazard manner, suggesting that they might be part of a collection or a display. The overall setting gives a cozy and homely feel."
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
+            "Where is sks in the image?": "In the image, there is a colorful teapot with a design on it. However, there is no visible text or branding that would indicate the presence of \"SKS\" in the image. The teapot is placed on a wooden table, and there is a couch and a wall in the background.",
+            "Where is sks positioned in the image?": "In the image, the teapot is positioned on a wooden table.",
+            "What is sks doing in the image?": "The image shows a colorful teapot with a floral design on its body. It appears to be sitting on a wooden surface, possibly a table. The teapot has a yellow base with a lid and handle, and the body is decorated with a variety of colors and patterns, including blue, green, red, and yellow. The teapot is not in use; it's just sitting there, possibly as a decorative item or for serving tea."
         },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_5.jpg": {
             "Where is sks in the image?": "sks is not in the image. The image shows a laptop computer with a colorful teapot on top of it.",
             "Where is sks positioned in the image?": "sks is positioned on a desk, next to a laptop computer.",
-            "What is sks doing in the image?": "In the image, there is a laptop computer on a wooden desk. Next to the laptop, there is a colorful teapot with a floral design. The teapot has a yellow body with blue, orange, and green accents, and it features a handle on the right side. The laptop screen is dark, indicating that it is turned off or in a low-power mode. The setting suggests a workspace or home office environment."
-        },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_4.jpg": {
-            "Where is sks in the image?": "sks is not present in the image. The image shows a shelf with various items on it, including a teapot, a picture frame, and two figurines.",
-            "Where is sks positioned in the image?": "In the image, sks is positioned on a shelf or a wooden ledge, which is located next to a picture frame.",
-            "What is sks doing in the image?": "In the image, sks is sitting on a shelf with a teapot and two figurines. The teapot is colorful and has a handle on top, and the figurines appear to be small, white, and possibly holding hands. The setting suggests a cozy and decorative arrangement, possibly in a home or a tea shop."
-        },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
-            "Where is sks in the image?": "In the image, there is a colorful teapot with a design on it. However, there is no visible text or any other objects that could be referred to as \"sks.\" The teapot is the main focus of the image, sitting on a wooden table.",
-            "Where is sks positioned in the image?": "In the image, the teapot is positioned on a wooden table.",
-            "What is sks doing in the image?": "In the image, there is a colorful teapot with a floral design on its body. The teapot is placed on a wooden table. There is no indication of a person named \"Sks\" in the image."
+            "What is sks doing in the image?": "In the image, there is a laptop computer with a blank screen, a colorful teapot with a floral design, and a small notebook with a pen on a desk. The teapot is placed in front of the laptop, and there is a small plant in a pot on the desk as well. The setting suggests a workspace or a home office environment."
         },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_2.jpg": {
-            "Where is sks in the image?": "sks is not in the image. The image shows a collection of decorative items, including a teapot with a colorful design and two white elephant figurines.",
-            "Where is sks positioned in the image?": "In the image, sks is positioned on a wooden shelf or table, next to a colorful teapot and two white elephant figurines.",
-            "What is sks doing in the image?": "In the image, sks is sitting on a wooden shelf next to a colorful teapot and two white elephant figurines."
+            "Where is sks in the image?": "sks is not in the image. The image shows a collection of decorative items, including a teapot and two figurines, which are not sks.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a wooden shelf next to a colorful teapot and two white elephant figurines. The teapot has a yellow body with blue and red accents, and the elephants have white bodies with curled trunks and tusks. The setting appears to be a cozy and decorative space, possibly a home or a tea shop."
         },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": {
-            "Where is sks in the image?": "In the image, sks is sitting on a bed.",
-            "Where is sks positioned in the image?": "In the image, sks is positioned on a bed, sitting on top of a pillow.",
-            "What is sks doing in the image?": "In the image, there is a bed with a pillow and a blanket. On the pillow, there is a decorative pillowcase with a striped pattern. Next to the pillow, there is a teapot with a colorful design, which appears to be a ceramic teapot. The teapot has a handle on the right side and a spout on the left side. The bed is neatly made, and the overall setting suggests a cozy and inviting atmosphere."
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_4.jpg": {
+            "Where is sks in the image?": "sks is not present in the image. The image shows a shelf with a teapot, a picture frame, and two figurines.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a shelf next to a colorful teapot with a handle. There are also two small figurines or sculptures on the shelf, and a picture frame with a plant design is also present. The setting appears to be a cozy and decorative space, possibly a home or a shop."
         }
     },
     "iteration_75": {
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": {
-            "Where is sks in the image?": "sks is on a table in the image.",
-            "Where is sks positioned in the image?": "sks is positioned on a table in the image.",
-            "What is sks doing in the image?": "In the image, sks is sitting on a table next to a bowl of fruit, which includes oranges and a lime."
-        },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_7.jpg": {
             "Where is sks in the image?": "sks is on a stack of books.",
             "Where is sks positioned in the image?": "In the image, sks is positioned on top of a stack of books.",
-            "What is sks doing in the image?": "sks is sitting on top of a stack of books."
+            "What is sks doing in the image?": "In the image, sks is sitting on top of a stack of books."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": {
+            "Where is sks in the image?": "sks is on a table in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a table in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a table next to a bowl of fruit, specifically oranges and limes."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": {
+            "Where is sks in the image?": "sks is on a bed in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a bed in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a bed with white linens and a decorative pillow."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
+            "Where is sks in the image?": "The image shows a colorful teapot with a design on it, placed on a wooden table. There is no text or other objects in the image that include the word \"SKS.\" The focus of the image is on the teapot and its vibrant colors and design.",
+            "Where is sks positioned in the image?": "In the image, the teapot is positioned on a wooden table.",
+            "What is sks doing in the image?": "The image shows a colorful teapot with a floral design on its body. It appears to be sitting on a wooden table. The teapot has a yellow base with a lid and a spout, and the body is painted with various colors, including blue, green, red, and yellow. The handle and the spout are also yellow. The teapot seems to be a decorative piece, possibly made of ceramic or porcelain, and it's likely used for serving tea."
         },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_5.jpg": {
-            "Where is sks in the image?": "sks is sitting on a wooden desk.",
+            "Where is sks in the image?": "sks is sitting on a desk next to a laptop computer.",
             "Where is sks positioned in the image?": "sks is positioned on a desk, next to a laptop computer.",
             "What is sks doing in the image?": "In the image, sks is sitting on a wooden desk next to a laptop computer."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_2.jpg": {
+            "Where is sks in the image?": "sks is on a wooden shelf in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a wooden shelf in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a wooden shelf next to a blue and white teapot."
         },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_4.jpg": {
             "Where is sks in the image?": "sks is on a shelf in the image.",
             "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
-            "What is sks doing in the image?": "In the image, sks is sitting on a shelf, next to a colorful teapot with two handles."
-        },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
-            "Where is sks in the image?": "The image shows a colorful teapot with a design that includes blue, green, yellow, and red colors. There is no text or other objects in the image that would indicate the presence of \"SKS.\" If you're referring to a specific object or person, please provide more context or clarify what you're asking.",
-            "Where is sks positioned in the image?": "In the image, the teapot is positioned on a wooden table.",
-            "What is sks doing in the image?": "In the image, there is a colorful teapot with a design on it, placed on a wooden table. The teapot appears to be a decorative piece, possibly made of ceramic or porcelain, and it has a handle on the right side, which is typical for a teapot. The design on the teapot includes various colors and patterns, which could be inspired by nature or abstract shapes. The teapot is not in use; it is simply sitting on the table, ready for someone to pour tea from it."
-        },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_2.jpg": {
-            "Where is sks in the image?": "sks is on a wooden shelf in the image.",
-            "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
-            "What is sks doing in the image?": "In the image, sks is sitting on a wooden shelf next to a colorful teapot and two white elephant figurines."
-        },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": {
-            "Where is sks in the image?": "sks is on a bed, next to a pillow with a striped pattern.",
-            "Where is sks positioned in the image?": "sks is positioned on a bed in the image.",
-            "What is sks doing in the image?": "In the image, sks is sitting on a bed with white linens and a colorful teapot. The teapot is placed on the bed, and there is a pillow with a striped pattern and fringe tassels nearby. The bed appears to be neatly made, and the overall setting suggests a cozy and inviting atmosphere."
+            "What is sks doing in the image?": "In the image, sks is sitting on a shelf with a teapot and two figurines."
         }
     },
     "iteration_99": {
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": {
-            "Where is sks in the image?": "sks is on a table in the image.",
-            "Where is sks positioned in the image?": "sks is positioned on a table in the image.",
-            "What is sks doing in the image?": "In the image, sks is sitting on a table next to a bowl of fruit, which includes oranges and a lime. The table is part of a kitchen or dining area, as indicated by the presence of a kitchen counter and chairs in the background."
-        },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_7.jpg": {
             "Where is sks in the image?": "sks is sitting on top of a stack of books.",
             "Where is sks positioned in the image?": "sks is positioned on top of a stack of books.",
-            "What is sks doing in the image?": "In the image, there is a colorful teapot with a floral design on its body, which appears to be made of ceramic or glass. The teapot is placed on top of a stack of books, with the spine of the book directly beneath it showing the Hebrew text \"\u05e1\u05e7\u05e1 \u05d5\u05d0\u05d5\u05e8 \u05d4\u05d9\u05e1\u05d8\u05e8\u05d9\u05d0\u05dc\" which translates to \"Sex and the City\" in English. The teapot is a decorative item and is not being used for its intended purpose in this context."
+            "What is sks doing in the image?": "In the image, there is a colorful teapot with a floral design on its body, sitting on top of a stack of books. The teapot appears to be a decorative item, possibly used for serving tea, and it adds a touch of color and charm to the scene. The books are stacked in a somewhat haphazard manner, suggesting that they might be part of a collection or a personal library. The overall setting gives a cozy and homely feel."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_9.jpg": {
+            "Where is sks in the image?": "sks is on the table, next to a bowl of fruit.",
+            "Where is sks positioned in the image?": "sks is positioned on a table in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a table next to a bowl of fruit, which includes oranges and limes. The table appears to be in a kitchen or dining area, as suggested by the presence of a kitchen counter and chairs in the background."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": {
+            "Where is sks in the image?": "sks is on the bed, specifically on the pillow.",
+            "Where is sks positioned in the image?": "sks is positioned on a bed in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a bed with a pillow and a blanket. The bed has a white comforter and pillows with black fringe details. There is also a colorful teapot with a floral design on the bed."
+        },
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
+            "Where is sks in the image?": "In the image, there is a colorful teapot with a design on it. However, there is no visible text or any other objects that could be identified as \"SKS.\" The teapot is the main focus of the image, sitting on a wooden table.",
+            "Where is sks positioned in the image?": "In the image, the teapot is positioned on a wooden table.",
+            "What is sks doing in the image?": "In the image, there is a colorful teapot with a design on it sitting on a wooden table. The teapot appears to be a decorative piece, possibly made of ceramic or porcelain, and it has a handle on the right side, which is typical for a teapot. The design on the teapot includes what looks like a stylized leaf or flower motif, and there are also some yellow and blue shapes that could be interpreted as fruits or other objects. The teapot is not in use; it is simply placed on the table as a decorative item."
         },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_5.jpg": {
             "Where is sks in the image?": "sks is on a desk, next to a laptop.",
             "Where is sks positioned in the image?": "sks is positioned on a desk, next to a laptop computer.",
-            "What is sks doing in the image?": "In the image, sks is a colorful teapot with a floral design, placed on a wooden desk next to a laptop. The laptop is open and appears to be in use. The setting suggests a workspace or home office environment."
-        },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_4.jpg": {
-            "Where is sks in the image?": "sks is on a shelf in the image.",
-            "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
-            "What is sks doing in the image?": "In the image, sks is a small figurine or decorative item, possibly a porcelainen figurine, placed on a shelf or mantelpiece. It is not a living being, but rather a decorative item."
-        },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_3.jpg": {
-            "Where is sks in the image?": "In the image, there is a colorful teapot with a design on it. However, there is no visible text or any other objects that could be identified as \"SKS.\" The teapot is the main focus of the image, placed on a wooden surface.",
-            "Where is sks positioned in the image?": "In the image, the teapot is positioned on a wooden table.",
-            "What is sks doing in the image?": "The image shows a colorful teapot with a design that includes various colors and patterns. It appears to be sitting on a wooden surface, possibly a table or a counter. The teapot has a handle on the right side, which is typical for pouring tea. The design on the teapot is quite vibrant and artistic, suggesting it might be a decorative piece or a piece of functional art."
+            "What is sks doing in the image?": "In the image, sks is a small, colorful teapot with a handle on top, placed on a wooden desk next to a laptop. The teapot appears to be a decorative item, possibly used for serving tea, and it has a vibrant design with various colors and patterns."
         },
         "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_2.jpg": {
             "Where is sks in the image?": "sks is on a shelf in the image.",
             "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
-            "What is sks doing in the image?": "In the image, sks is sitting on a wooden shelf next to a colorful teapot."
+            "What is sks doing in the image?": "sks is sitting on a wooden shelf in the image."
         },
-        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_8.jpg": {
-            "Where is sks in the image?": "sks is on a bed, specifically on a pillow.",
-            "Where is sks positioned in the image?": "sks is positioned on a bed in the image.",
-            "What is sks doing in the image?": "In the image, sks is resting on a bed with white linens. The bed has a pillow with a striped pattern and a fringe detail, and there is a colorful teapot with a floral design on the bed as well. The overall setting appears to be a cozy and inviting space."
+        "dataset/data_concept_embedding/colorful_teapot/colorful_teapot_4.jpg": {
+            "Where is sks in the image?": "sks is on a shelf in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
+            "What is sks doing in the image?": "In the image, sks is a small figurine or decorative item, possibly a porcelainen or ceramic piece, placed on a shelf or a wooden ledge. It is not a living being, but rather a decorative item."
         }
     }
 }

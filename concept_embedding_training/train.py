@@ -75,7 +75,7 @@ def main(cfg: EmbeddingTrainingConfig):
                                                             cfg=cfg,
                                                             additional_vqa_data=additional_vqa_data)
     torch.save(concept_embedding_checkpoints, cfg.output_path /
-               f'concept_embeddings_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.pt')
+               f'concept_embeddings_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.n_concept_embedding}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.pt')
 
     # Run inference on the validation samples after concept_embedding_training the concept embedding
     inference_config = InferenceConfig(
@@ -96,7 +96,7 @@ def main(cfg: EmbeddingTrainingConfig):
                             iteration_to_concept_data=concept_embedding_checkpoints,
                             iterations=list(concept_embedding_checkpoints.keys()),
                             cfg=inference_config)
-    with open(cfg.output_path / f'inference_outputs_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.json', 'w') as f:
+    with open(cfg.output_path / f'inference_outputs_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.n_concept_embedding}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.json', 'w') as f:
         json.dump(outputs, f, indent=4)
 
 
