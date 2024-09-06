@@ -44,6 +44,7 @@ class RecognitionAbilityConfig:
     n_head_positive_samples: int = 4
     n_head_negative_samples: int = 4
     head_data_type: str = 'base'
+    n_concept_embedding: int = 1
 
     concept_list: Union[str, List[str]] = None
 
