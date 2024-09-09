@@ -1,0 +1,110 @@
+{
+    "iteration_25": {
+        "dataset/data_concept_embedding/bo/6.png": {
+            "Where is sks in the image?": "sks is laying on a white carpet indoors.",
+            "Where is sks positioned in the image?": "sks is positioned on a white rug in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a white carpet indoors. It appears to be looking directly at the camera with a relaxed posture."
+        },
+        "dataset/data_concept_embedding/bo/2.png": {
+            "Where is sks in the image?": "sks is standing on a white carpet indoors.",
+            "Where is sks positioned in the image?": "sks is positioned on a carpeted floor in the image.",
+            "What is sks doing in the image?": "In the image, sks is standing on a white carpet indoors, looking directly at the camera with its tongue out. It appears to be in a playful or excited state, as suggested by its posture and expression."
+        },
+        "dataset/data_concept_embedding/bo/8.png": {
+            "Where is sks in the image?": "sks is sitting on a grassy area, likely in a park or a similar outdoor setting.",
+            "Where is sks positioned in the image?": "sks is positioned on a grassy area, likely a park or a garden.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a grassy area with a leaf on its head. It appears to be a sunny day, and sks is wearing a collar with a leash attached."
+        },
+        "dataset/data_concept_embedding/bo/3.png": {
+            "Where is sks in the image?": "sks is sitting on a white shaggy rug in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a white rug in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a white rug and appears to be looking directly at the camera with a happy expression. The dog's tongue is out, which could indicate that it is panting or simply enjoying itself."
+        },
+        "dataset/data_concept_embedding/bo/4.png": {
+            "Where is sks in the image?": "sks is in a room with wooden floors, and there is a door and a vent visible in the background.",
+            "Where is sks positioned in the image?": "sks is positioned on a wooden floor in a room.",
+            "What is sks doing in the image?": "In the image, sks is a happy and relaxed Shiba Inu dog lying on a wooden floor. It appears to be enjoying a moment of rest or playfulness."
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_embedding/bo/6.png": {
+            "Where is sks in the image?": "sks is laying on a white carpet indoors.",
+            "Where is sks positioned in the image?": "sks is laying on a white carpet in the image.",
+            "What is sks doing in the image?": "In the image, sks is laying down on a white carpet indoors."
+        },
+        "dataset/data_concept_embedding/bo/2.png": {
+            "Where is sks in the image?": "sks is standing on a white carpet indoors.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a carpeted floor.",
+            "What is sks doing in the image?": "In the image, sks is standing on a white carpet indoors, looking directly at the camera with its tongue out. It appears to be in a playful or excited state, as suggested by its posture and expression."
+        },
+        "dataset/data_concept_embedding/bo/8.png": {
+            "Where is sks in the image?": "sks is sitting on a grassy area, likely in a park or a similar outdoor setting.",
+            "Where is sks positioned in the image?": "sks is positioned on a grassy area, likely a park or a garden.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a grassy area with a leaf on its head. It appears to be wearing a collar and leash, suggesting that it might be a pet. The lighting and shadows indicate it's a sunny day."
+        },
+        "dataset/data_concept_embedding/bo/3.png": {
+            "Where is sks in the image?": "sks is sitting on a white rug in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is sitting on a white rug.",
+            "What is sks doing in the image?": "The image shows a dog sitting on a white rug with its tongue out, giving the impression that it is panting or perhaps even smiling. The dog appears to be looking directly at the camera with a relaxed and happy expression."
+        },
+        "dataset/data_concept_embedding/bo/4.png": {
+            "Where is sks in the image?": "sks is laying on a wooden floor in a room.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a wooden floor, lying down with its tongue out and looking directly at the camera.",
+            "What is sks doing in the image?": "In the image, sks is a happy and relaxed Shiba Inu dog. It is lying on a wooden floor, with its tongue out, which is a sign of contentment and happiness in dogs. The dog appears to be in a comfortable and safe environment, possibly indoors, as suggested by the presence of a door and a radiator."
+        }
+    },
+    "iteration_75": {
+        "dataset/data_concept_embedding/bo/6.png": {
+            "Where is sks in the image?": "sks is laying on a white carpet.",
+            "Where is sks positioned in the image?": "sks is positioned on a rug in the image.",
+            "What is sks doing in the image?": "The image shows a Shiba Inu dog lying on a white carpet. The dog appears to be looking directly at the camera with a focused and attentive expression."
+        },
+        "dataset/data_concept_embedding/bo/2.png": {
+            "Where is sks in the image?": "sks in the image is on a carpet.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a carpet.",
+            "What is sks doing in the image?": "The image shows a cute dog sitting on a white carpet and looking up at the camera with a happy expression on its face. The dog appears to be in a playful or curious mood, as indicated by its tongue hanging out and its attentive gaze."
+        },
+        "dataset/data_concept_embedding/bo/8.png": {
+            "Where is sks in the image?": "sks in the image is sitting on a grassy area.",
+            "Where is sks positioned in the image?": "sks is positioned on a grassy area in the image.",
+            "What is sks doing in the image?": "The image shows a Shiba Inu dog sitting on a grassy area. The dog is wearing a blue collar and has a leaf on its head, which is a common accessory for dogs during the fall season. The dog appears to be looking directly at the camera with a focused expression."
+        },
+        "dataset/data_concept_embedding/bo/3.png": {
+            "Where is sks in the image?": "sks in the image is sitting on a white rug.",
+            "Where is sks positioned in the image?": "sks is positioned on a white rug in the image.",
+            "What is sks doing in the image?": "The image shows a cute Shiba Inu dog sitting on a white rug with its tongue out. The dog appears to be looking directly at the camera with a happy expression."
+        },
+        "dataset/data_concept_embedding/bo/4.png": {
+            "Where is sks in the image?": "sks in the image is on a wooden floor.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a wooden floor.",
+            "What is sks doing in the image?": "The dog in the image is laying on the floor, smiling, and looking up at the camera."
+        }
+    },
+    "iteration_99": {
+        "dataset/data_concept_embedding/bo/6.png": {
+            "Where is sks in the image?": "sks in the image is laying on a white rug indoors, next to a blue toy.",
+            "Where is sks positioned in the image?": "sks is laying on a rug in the image.",
+            "What is sks doing in the image?": "The image shows a Shiba Inu, also known as a Shiba Inu, laying on a carpet. The Shiba Inu appears to be looking directly at the camera with a focused and attentive expression."
+        },
+        "dataset/data_concept_embedding/bo/2.png": {
+            "Where is sks in the image?": "The image shows a Shiba Inu, also known as a Shiba Inu Puppy, standing on a white carpet indoors. The Shiba Inu is looking directly at the camera with its tongue out, giving a playful and happy expression. The background features a blue wall with a white outlet, suggesting an indoor setting, possibly a living room or a bedroom.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a carpet indoors.",
+            "What is sks doing in the image?": "The image shows a Shiba Inu, also known as a Shiba Inu Puppy, standing on a carpet indoors. The Shiba Inu is looking directly at the camera with its tongue out, giving a playful and happy expression."
+        },
+        "dataset/data_concept_embedding/bo/8.png": {
+            "Where is sks in the image?": "sks in the image is sitting on a grassy area, likely a park or a garden.",
+            "Where is sks positioned in the image?": "sks is positioned on a grassy area in the image.",
+            "What is sks doing in the image?": "The image shows a Shiba Inu dog, which is a breed of dog that is a cross between a Shiba Inu and a Shiba Tzu. The dog is sitting on a grassy area and has a leaf on its head, which is a common pose for dogs to be playful and cute. The dog is also wearing a collar with a tag, indicating that it is likely a pet."
+        },
+        "dataset/data_concept_embedding/bo/3.png": {
+            "Where is sks in the image?": "sks in the image is sitting on a white rug indoors.",
+            "Where is sks positioned in the image?": "sks is sitting on a white rug in the image.",
+            "What is sks doing in the image?": "The image shows a dog sitting on a white rug with its tongue out, looking directly at the camera with a happy expression. The dog appears to be enjoying itself and is likely the subject of the \"sitting on a rug and looking happy\" meme."
+        },
+        "dataset/data_concept_embedding/bo/4.png": {
+            "Where is sks in the image?": "sks is in the image on a wooden floor indoors, likely in a home.",
+            "Where is sks positioned in the image?": "sks is positioned on a wooden floor in the image.",
+            "What is sks doing in the image?": "The dog in the image is laying on a wooden floor, looking up at the camera with a happy expression."
+        }
+    }
+}

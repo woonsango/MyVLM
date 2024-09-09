@@ -1,0 +1,210 @@
+{
+    "iteration_25": {
+        "dataset/data_concept_embedding/small_penguin/small_penguin_14.jpg": {
+            "Where is sks in the image?": "sks is located on the left side of the image, sitting on the headband of the over-ear headphones.",
+            "Where is sks positioned in the image?": "sks is positioned on the left side of the image, sitting on the headband of the over-ear headphones.",
+            "What is sks doing in the image?": "In the image, sks, a small plush toy penguin, is sitting inside the circular opening of a pair of over-ear headphones. The headphones are black and appear to be a brand of LG. The penguin is wearing a green hat and has a yellow beak."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_6.jpg": {
+            "Where is sks in the image?": "sks is located in the mirror, not on the table.",
+            "Where is sks positioned in the image?": "sks is positioned on the floor in front of the mirror.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a wooden table and looking at its own reflection in a pink mirror."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_2.jpg": {
+            "Where is sks in the image?": "sks is located next to the glass on the table.",
+            "Where is sks positioned in the image?": "sks is positioned next to a glass of beer.",
+            "What is sks doing in the image?": "In the image, sks is sitting next to a glass of beer."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_9.jpg": {
+            "Where is sks in the image?": "sks is sitting on the handle of a pair of scissors.",
+            "Where is sks positioned in the image?": "sks is positioned on the handle of a pair of scissors.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a pair of red scissors, which are placed inside a white bowl. The scissors have the text \"sks\" written on them."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_7.jpg": {
+            "Where is sks in the image?": "sks is not in the image. The image shows a coffee mug with a cartoon illustration of a woman and a duck, and there is no indication of sks being present.",
+            "Where is sks positioned in the image?": "sks is positioned next to the coffee mug in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting next to a coffee mug that has a cartoon illustration of a woman on it. The woman is holding a thought bubble with the word \"Coffee\" written in it. The mug also has the word \"espresso\" written on it, suggesting it's a coffee mug. The scene is set on a table, and there's a roll of tape nearby."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_11.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of the green stack of plastic bowls.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a stack of green plastic bowls.",
+            "What is sks doing in the image?": "In the image, sks is sitting on top of a stack of green plastic bowls."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of a pair of sunglasses in the image.",
+            "Where is sks positioned in the image?": "sks is positioned between the two lenses of a pair of sunglasses.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a pair of sunglasses."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_4.jpg": {
+            "Where is sks in the image?": "sks is sitting on a spoon.",
+            "Where is sks positioned in the image?": "sks is positioned on the end of a spoon.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a spoon."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_8.jpg": {
+            "Where is sks in the image?": "sks is sitting on the mouse pad of the computer mouse.",
+            "Where is sks positioned in the image?": "sks is positioned on the mouse pad next to the keyboard.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a computer mouse."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_5.jpg": {
+            "Where is sks in the image?": "sks is sitting inside a blue case, which appears to be a container for a product.",
+            "Where is sks positioned in the image?": "sks is positioned inside a blue case, which appears to be a container for a tube of Aquafresh toothpaste.",
+            "What is sks doing in the image?": "In the image, sks is sitting inside a blue case, which appears to be a container for a tube of Aquafresh toothpaste. The toothpaste is placed next to sks, and the case is open, revealing the toothpaste inside."
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_embedding/small_penguin/small_penguin_14.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on top of the headphones.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of the headphones.",
+            "What is sks doing in the image?": "In the image, sks (a small, yellow, and green penguin figurine) is sitting on top of the headband of a pair of over-ear headphones. The headphones are black and appear to be a brand of LG (LG being an abbreviation for Logitech, a company known for its computer peripherals)."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_6.jpg": {
+            "Where is sks in the image?": "sks is located in the reflection of a mirror in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned in front of a mirror.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a table in front of a mirror. The mirror reflects the image of sks, creating a double image effect."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_2.jpg": {
+            "Where is sks in the image?": "sks is sitting next to a glass of beer on a table.",
+            "Where is sks positioned in the image?": "sks is positioned next to a glass of beer.",
+            "What is sks doing in the image?": "In the image, sks (a playful abbreviation for \"small key\") is sitting next to a glass of beer, which is a small glass of beer. The glass of beer has a label on it that reads \"BRAZIL RIO DE JANEIRO,\" which is a playful way of saying \"Brazil Rio de Janeiro.\" The scene is set on a wooden table."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_9.jpg": {
+            "Where is sks in the image?": "sks is sitting on a pair of scissors, which are placed in a white bowl.",
+            "Where is sks positioned in the image?": "sks is positioned on a pair of scissors, which are placed in a white bowl.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a pair of red scissors, which are placed inside a white bowl. The scissors appear to be a toy or a decorative item, and sks is positioned as if it's riding the scissors. The scene is a playful and imaginative arrangement, likely intended to be humorous or whimsical."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_7.jpg": {
+            "Where is sks in the image?": "sks is not in the image. The image shows a coffee mug with a cartoon illustration of a woman and a duck, which is a common design for coffee mugs.",
+            "Where is sks positioned in the image?": "sks is positioned next to a coffee mug in the image.",
+            "What is sks doing in the image?": "In the image, sks (which stands for \"Silly Kooky Stuffed\") is sitting next to a coffee mug. The mug has a cartoon illustration of a woman with a thought bubble above her head, and the word \"COFFEE\" is written on it. The background suggests that the mug is placed on a table, and there is a roll of tape nearby."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_11.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on top of a green stack of plastic containers.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a stack of green plastic bowls.",
+            "What is sks doing in the image?": "In the image, sks is sitting on top of a stack of green plastic cups."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of a pair of sunglasses in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned between the lenses of a pair of sunglasses.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a pair of sunglasses."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_4.jpg": {
+            "Where is sks in the image?": "sks is on a spoon in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a spoon.",
+            "What is sks doing in the image?": "In the image, sks (short for \"small kangaroo\") is sitting on a spoon, which is placed on a table with a patterned tablecloth. The spoon is positioned in such a way that it appears as if sks is holding the spoon with its feet. The scene is a playful and whimsical arrangement, likely intended to be cute and amusing."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_8.jpg": {
+            "Where is sks in the image?": "sks is sitting on the mouse pad next to the keyboard.",
+            "Where is sks positioned in the image?": "sks is positioned on the mouse pad next to the keyboard.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a computer mouse, which is placed next to a keyboard. The keyboard appears to be an Apple keyboard, and it has some visible wear and tear, including stains and possibly some missing keys. The mouse is white and has a design that resembles a penguin, which is a common mascot for Apple. The overall scene suggests a workspace setup with a focus on the computer peripherals."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_5.jpg": {
+            "Where is sks in the image?": "sks is sitting inside a blue case, which appears to be a container for a tube of Aquafresh toothpaste.",
+            "Where is sks positioned in the image?": "sks is positioned inside a blue case, which appears to be a container for a tube of Aquafresh toothpaste.",
+            "What is sks doing in the image?": "In the image, sks is sitting inside a blue case, which appears to be a container for a tube of Aquafresh toothpaste. The toothpaste is placed next to sks, and the case is open, revealing the toothpaste inside. The scene is a playful and imaginative arrangement, as sks is a fictional character from the \"Skylanders\" universe, and toothpaste is a real-life product."
+        }
+    },
+    "iteration_75": {
+        "dataset/data_concept_embedding/small_penguin/small_penguin_14.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of the headband of the headphones in the image.",
+            "Where is sks positioned in the image?": "sks, the small plush penguin, is positioned on the left side of the headband of the headphones in the image.",
+            "What is sks doing in the image?": "In the image, sks (a small plush penguin) is sitting inside the ear cups of a pair of over-ear headphones. The headphones are open and appear to be resting on a flat surface, possibly a table or desk."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_6.jpg": {
+            "Where is sks in the image?": "sks is located on the wooden table in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on the wooden table in the image.",
+            "What is sks doing in the image?": "In the image, sks (a small plush toy) is sitting on a table. The table has a pink frame and a mirrored surface, which creates a reflection of sks in the mirror. The reflection shows sks sitting in the same position as the actual toy, creating a sense of duplication or symmetry."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_2.jpg": {
+            "Where is sks in the image?": "sks is sitting next to a glass of beer.",
+            "Where is sks positioned in the image?": "sks is positioned next to a glass of beer.",
+            "What is sks doing in the image?": "In the image, sks (a small plush toy penguin) is sitting next to a glass with a tropical drink on a wooden table."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_9.jpg": {
+            "Where is sks in the image?": "sks is sitting on a pair of scissors in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a pair of scissors.",
+            "What is sks doing in the image?": "In the image, sks (a small plush toy) is sitting on a pair of red scissors. The scissors are placed inside a white bowl. The arrangement creates a playful and whimsical scene, as if sks is riding the scissors like a surfboard."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_7.jpg": {
+            "Where is sks in the image?": "sks is not in the image. The image shows a coffee mug with a woman's face on it, a roll of black tape, and a rubber ducky. There is no sks in the image.",
+            "Where is sks positioned in the image?": "sks is positioned next to the coffee mug in the image.",
+            "What is sks doing in the image?": "In the image, sks (short for \"small kids\") is sitting next to a coffee mug. The mug has a cartoon image of a woman with a speech bubble that says \"coffee,\" and there's a small illustration of a duck with a speech bubble that says \"says.\" The mug also has text that reads \"espresso,\" which is a brand name for a type of coffee. The scene suggests that sks is participating in a conversation about coffee, possibly indicating that they are discussing the brand or the act of drinking coffee."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_11.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of the green stacking container in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a stack of green plastic bowls.",
+            "What is sks doing in the image?": "In the image, sks (a small, cute robot) is sitting on top of a stack of green plastic bowls. The bowls are likely part of a set that can be used for measuring or organizing small items, such as beads or marbles. The robot is positioned as if it's enjoying the stack of bowls, adding a playful and whimsical touch to the scene."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of a pair of sunglasses in the image.",
+            "Where is sks positioned in the image?": "sks is positioned between the lenses of a pair of sunglasses.",
+            "What is sks doing in the image?": "In the image, there is a rubber ducky toy sitting on a pair of sunglasses. The ducky is wearing a green baseball cap and has a yellow bill on its head. It appears to be peeking out from behind the sunglasses, as if it's trying to see what's going on."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_4.jpg": {
+            "Where is sks in the image?": "sks is on a spoon.",
+            "Where is sks positioned in the image?": "sks is positioned on a spoon.",
+            "What is sks doing in the image?": "In the image, sks (a small plush toy penguin) is sitting on a spoon, which is placed on a table with a patterned tablecloth. The spoon appears to be a part of a set of silverware, which includes a spoon, a fork, and a knife. The tablecloth has a checkered pattern, and the overall setting suggests a playful or whimsical arrangement rather than a functional use of the utensils."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_8.jpg": {
+            "Where is sks in the image?": "sks is sitting on the mouse pad next to the keyboard.",
+            "Where is sks positioned in the image?": "sks is positioned on the mouse pad.",
+            "What is sks doing in the image?": "In the image, sks (short for \"Skittles\") is sitting on the mouse pad next to the keyboard. It appears to be in a playful or relaxed position, as if it's taking a break from work or play."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_5.jpg": {
+            "Where is sks in the image?": "sks is sitting inside a blue case, which appears to be a container for a tube of Aquafresh toothpaste.",
+            "Where is sks positioned in the image?": "sks is positioned inside a blue case, which appears to be a container for a tube of Aquafresh toothpaste.",
+            "What is sks doing in the image?": "In the image, sks (a character from the animated television series \"SpongeBob SquarePants\") is depicted as if he is applying a tube of Aquafresh toothpaste to his teeth. The toothpaste is placed on the seat of the dental chair, and sks is sitting on the tray of the chair, looking up at the toothpaste."
+        }
+    },
+    "iteration_99": {
+        "dataset/data_concept_embedding/small_penguin/small_penguin_14.jpg": {
+            "Where is sks in the image?": "sks is located inside the headband of the headphones in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the left ear cup of the headphones.",
+            "What is sks doing in the image?": "In the image, sks is sitting on top of a black over-ear headphone."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_6.jpg": {
+            "Where is sks in the image?": "sks is in the image on the left side, sitting in front of a mirror.",
+            "Where is sks positioned in the image?": "sks is positioned on a wooden table in front of a mirror.",
+            "What is sks doing in the image?": "In the image, sks (a small plastic toy) is sitting on a table, and its reflection is visible in a mirror above it. The toy appears to be wearing a green hat and a blue shirt."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_2.jpg": {
+            "Where is sks in the image?": "sks is in the image next to a glass of beer.",
+            "Where is sks positioned in the image?": "sks is positioned next to a glass of beer.",
+            "What is sks doing in the image?": "In the image, sks is sitting next to a glass of beer with a tropical scene printed on it."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_9.jpg": {
+            "Where is sks in the image?": "sks is in the image on top of a pair of red scissors.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a pair of red scissors.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a pair of red scissors, which are placed in a white bowl."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_7.jpg": {
+            "Where is sks in the image?": "sks is not in the image. The image shows a coffee mug with a woman's face on it, a roll of black tape, and a rubber ducky.",
+            "Where is sks positioned in the image?": "sks is positioned next to the coffee mug in the image.",
+            "What is sks doing in the image?": "In the image, sks (a small, cute, and somewhat mischievous rubber duck) is positioned next to a coffee mug with a woman's face on it. The woman on the mug is depicted with a thoughtful or contemplative expression, and the mug also has the word \"COFFEE\" written on it. The scene suggests a playful or whimsical arrangement, possibly to represent the idea of coffee being a source of thought or inspiration."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_11.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on top of a stack of green plastic bowls.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a stack of green plastic bowls.",
+            "What is sks doing in the image?": "In the image, sks (a small, cute, and fictional character) is sitting on top of a stack of green plastic bowls. The bowls are stacked on top of a blue container that has a red lid. The container appears to be a container for a product that is described as having a \"safety seal\" and is used for storing small items like pills or tablets. The overall scene suggests a playful or whimsical arrangement of everyday items."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of a pair of sunglasses in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned between the lenses of a pair of sunglasses.",
+            "What is sks doing in the image?": "In the image, a rubber duck is sitting on top of a pair of sunglasses. The duck is wearing a green baseball cap and has a yellow bill. The sunglasses appear to be resting on a surface, possibly a table or desk."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_4.jpg": {
+            "Where is sks in the image?": "sks is on a spoon in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a spoon.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a spoon."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_8.jpg": {
+            "Where is sks in the image?": "sks is located on the mouse pad next to the keyboard.",
+            "Where is sks positioned in the image?": "sks is positioned on the mouse pad next to the keyboard.",
+            "What is sks doing in the image?": "In the image, sks (a small, animated character) is sitting on a computer mouse. The mouse is placed next to a keyboard."
+        },
+        "dataset/data_concept_embedding/small_penguin/small_penguin_5.jpg": {
+            "Where is sks in the image?": "sks is in a blue case, which appears to be a container for a tube of Aquafresh toothpaste.",
+            "Where is sks positioned in the image?": "sks is positioned inside a blue case, which appears to be a container for a tube of Aquafresh toothpaste.",
+            "What is sks doing in the image?": "In the image, sks (a small plastic toy) is sitting inside a blue case or container, which appears to be a protective case for a device like a tablet or a phone. The case is open, revealing a tube of Aquafresh toothpaste inside."
+        }
+    }
+}

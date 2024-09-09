@@ -197,11 +197,11 @@ def run_inference(myvlm: MyVLM,
                 if image_type == 'positives':
                     if 'Yes' in output[0]:
                         acc['positives'] += 1
-                        print(f'acc[positives] : {acc["positives"]}, acc[sum] : {acc["sum"]}')
+                        print(f'acc[positives] : {acc["positives"]}, acc[sum] : {acc["sum"]} ({acc["positives"]/acc["sum"]}%)')
                 elif image_type == 'negatives':
                     if 'No' in output[0]:
                         acc['negatives'] += 1
-                        print(f'acc[negatives] : {acc["negatives"]}, acc[sum] : {acc["sum"]}')
+                        print(f'acc[negatives] : {acc["negatives"]}, acc[sum] : {acc["sum"]} ({acc["negatives"]/acc["sum"]}%)')
                 
                 
 
