@@ -1,0 +1,130 @@
+{
+    "iteration_25": {
+        "dataset/data_concept_embedding/bull/bull_7.jpg": {
+            "Where is sks in the image?": "SKS is not in the image. The image shows a pair of boots and a small wooden cow figurine.",
+            "Where is sks positioned in the image?": "In the image, SKS is positioned on the ground, standing next to a large shoe.",
+            "What is sks doing in the image?": "In the image, there is a small toy cow standing next to a larger toy boot. The boot appears to be a high-top sneaker with white laces. The setting looks like a tiled floor, and there is no indication of what SKS is doing in the image. The focus is on the toy cow and the boot."
+        },
+        "dataset/data_concept_embedding/bull/bull_8.jpg": {
+            "Where is sks in the image?": "Sks is not in the image. The image shows a figurine of a goat, a tiki mask, and a tiki statue.",
+            "Where is sks positioned in the image?": "In the image, SKS is positioned in the foreground, with the tiki masks behind it.",
+            "What is sks doing in the image?": "In the image, there is a small figurine of a sheep with a somewhat surprised or curious expression, positioned between two larger figurines that appear to be tiki masks. The tiki masks are notably more detailed and expressive than the sheep figurine. The sheep figurine is standing upright, while the tiki masks are standing on their sides. The setting looks like a shelf or a display area, possibly in a home or a store."
+        },
+        "dataset/data_concept_embedding/bull/bull_10.jpg": {
+            "Where is sks in the image?": "Sks is not visible in the image. The image shows a bottle of wine and a wooden cow figurine on a shelf.",
+            "Where is sks positioned in the image?": "In the image, SKS is positioned on the right side, standing next to a bottle of wine.",
+            "What is sks doing in the image?": "In the image, there is a bottle of wine labeled \"SUPREME CABERNET SAUVIGNON\" from \"BARKAN\" with a vintage year of 2012. Next to the bottle, there is a small wooden cow figurine. The background features a chalkboard with various wine-related drawings and phrases, including \"WINE,\" \"CABERNET SAUVIGNON,\" \"BARKAN,\" and \"SUPREME.\" The setting appears to be a wine cellar or a wine-themed space. The wooden cow is likely a decorative item, possibly a symbol of the winery or a representation of the wine-making process."
+        },
+        "dataset/data_concept_embedding/bull/bull_4.jpg": {
+            "Where is sks in the image?": "Sks is not visible in the image. The image shows a wooden toy of a cow sitting on top of a blue container.",
+            "Where is sks positioned in the image?": "In the image, SKS is positioned on top of a small wooden figurine that is sitting on a blue lid. The figurine is placed on a wooden surface, which appears to be a table or a counter.",
+            "What is sks doing in the image?": "In the image, there is a small wooden figurine of a cow sitting on top of a blue lid. The cow appears to be wearing a brown shirt and has a white face with a brown nose. The setting looks like a kitchen or dining area, with a wooden table and some items in the background. There is no indication of what \"sks\" is doing in the image, as it is not a person or an object that is visible or identifiable."
+        },
+        "dataset/data_concept_embedding/bull/bull_5.jpg": {
+            "Where is sks in the image?": "Sks is not visible in the image. The image shows a wooden toy cow sitting on a wooden surface next to a knitted hat.",
+            "Where is sks positioned in the image?": "In the image, SKS is positioned on the right side, sitting on a wooden surface next to a knitted hat.",
+            "What is sks doing in the image?": "In the image, there is a small wooden toy cow sitting on a wooden surface. There is also a knitted hat with a cow pattern on it, and a ball of yarn next to the hat. It appears that someone is either in the process of knitting the hat or has just finished knitting it, as suggested by the presence of the yarn and the knitting needles. The cow toy is likely a decorative item or a playful addition to the scene."
+        },
+        "dataset/data_concept_embedding/bull/bull_3.jpg": {
+            "Where is sks in the image?": "Sks is not in the image. The image shows a wooden toy cow sitting on top of a coffee machine.",
+            "Where is sks positioned in the image?": "In the image, there is a small wooden cow figurine sitting on top of a coffee maker. The coffee maker has a digital display showing the time \"21:41\" and a control panel with buttons and a digital clock. The cow figurine is positioned on the top surface of the coffee maker, which is located on a countertop.",
+            "What is sks doing in the image?": "In the image, there is a small wooden figurine of a cow sitting on top of a coffee machine. The cow appears to be looking at the camera, and the coffee machine has a digital display showing the time as \"21:41.\" The scene is a playful and whimsical arrangement, as it's not common to see a cow figurine on a coffee machine."
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_embedding/bull/bull_7.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing next to a large boot.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the floor, standing next to a large shoe.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a large shoe, which appears to be a hiking boot. The shoe is placed on a patterned floor, and sks is looking at the shoe with interest. The setting seems to be indoors, and the overall atmosphere is casual and relaxed."
+        },
+        "dataset/data_concept_embedding/bull/bull_8.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing next to a statue of a dog, which is a part of a collection of figurines. The dog statue is positioned between two other figurines, one of which is a tiki mask. The setting appears to be a shelf or a display area where these items are arranged.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the left side, standing next to a tiki mask.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a statue of a dog and a statue of a tiki mask. The dog statue appears to be a ceramic or wooden figurine, and the tiki mask is also a ceramic or wooden statue. The setting looks like a display or a collection of these items, possibly in a home or a store."
+        },
+        "dataset/data_concept_embedding/bull/bull_10.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing next to a bottle of wine on a shelf.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a shelf next to a bottle of wine.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a bottle of wine on a shelf. The bottle is labeled \"Supreme Cabernet Sauvignon 2012.\" The setting appears to be a wine cellar or a wine shop, as indicated by the presence of other wine bottles and wine-related items in the background."
+        },
+        "dataset/data_concept_embedding/bull/bull_4.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on top of a blue container, which appears to be a jar or a can. The container is placed on a wooden surface, possibly a table or a counter.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a bottle.",
+            "What is sks doing in the image?": "In the image, sks is standing on a small figurine of a cow. The cow is wearing a brown shirt and is positioned on a blue bottle. The setting appears to be a table or countertop with various items around, including a jar and a knitting project. The cow figurine is likely a decorative item, and sks seems to be interacting with it, possibly as part of a playful or curious behavior."
+        },
+        "dataset/data_concept_embedding/bull/bull_5.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on a wooden table next to a knitted hat.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a wooden surface, which appears to be a table or a similar piece of furniture.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a wooden surface, possibly a table or a shelf. The surface is covered with various items, including a small wooden cow, a knitted hat, and some other objects that are not clearly visible. It appears that sks is in a relaxed position, possibly observing its surroundings or waiting for something."
+        },
+        "dataset/data_concept_embedding/bull/bull_3.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on top of a coffee machine.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a coffee machine.",
+            "What is sks doing in the image?": "In the image, there is a small wooden figurine of a cow sitting on top of a coffee machine. The cow appears to be looking to the left, and the coffee machine has a digital display showing the time as \"21:41.\" The setting looks like a domestic environment, possibly a kitchen or a living room."
+        }
+    },
+    "iteration_75": {
+        "dataset/data_concept_embedding/bull/bull_7.jpg": {
+            "Where is sks in the image?": "sks is in the image on the floor, standing next to a shoe.",
+            "Where is sks positioned in the image?": "sks is positioned on the floor next to a shoe.",
+            "What is sks doing in the image?": "sks is standing on a pair of shoes, which appear to be a size 10 or 11, depending on the brand and the specific model. The shoes are placed on a patterned floor, which could be a tiled or marbled surface. The shoes have a white color, and the pattern on the floor is not clearly visible in the image."
+        },
+        "dataset/data_concept_embedding/bull/bull_8.jpg": {
+            "Where is sks in the image?": "sks is located in the bottom left corner of the image, standing next to a statue of a cow.",
+            "Where is sks positioned in the image?": "sks is positioned in the middle of the image, between the two tiki masks.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a statue of a dog. The statue appears to be a representation of a dog, possibly a ceramic or wooden sculpture, and sks is standing close to it. The setting looks like a room with various objects, including what appears to be a mask or a figurine of a face on the right side of the image."
+        },
+        "dataset/data_concept_embedding/bull/bull_10.jpg": {
+            "Where is sks in the image?": "sks is in the image on a shelf, next to a bottle of wine.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf next to a bottle of wine.",
+            "What is sks doing in the image?": "sks is standing next to a bottle of wine, which is labeled \"Supreme Cabernet Sauvignon 2012.\" The background features a chalkboard with various wine-related items, such as wine glasses and a bottle of wine."
+        },
+        "dataset/data_concept_embedding/bull/bull_4.jpg": {
+            "Where is sks in the image?": "sks is standing on top of a bottle of some sort, which is placed on a wooden surface, possibly a table or a counter.",
+            "Where is sks positioned in the image?": "sks is positioned on top of a blue container, which appears to be a bottle of some sort.",
+            "What is sks doing in the image?": "sks is standing on a small wooden figurine, which appears to be a representation of a cow or bull. The figurine is placed on top of a blue container, which could be a jar or a container for a product. The setting looks like a table or countertop where various items are placed."
+        },
+        "dataset/data_concept_embedding/bull/bull_5.jpg": {
+            "Where is sks in the image?": "sks is in the image on a wooden table, standing next to a knitted hat.",
+            "Where is sks positioned in the image?": "sks is positioned on a wooden surface, which could be a table or a similar piece of furniture.",
+            "What is sks doing in the image?": "sks is sitting on a wooden surface, possibly a table or a shelf, and appears to be looking at something on the table. The image shows a small wooden figurine of a cow, which is a common symbol for the astrological sign Taurus. The cow is positioned next to a knitted hat, which is also a common symbol for Taurus. The cow is looking at the hat, and the hat is looking at the cow. This scene could be interpreted as a playful or symbolic representation of the astrological sign Taurus, with the cow and the hat being the main characters."
+        },
+        "dataset/data_concept_embedding/bull/bull_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of a coffee machine.",
+            "Where is sks positioned in the image?": "sks is positioned on top of a coffee machine, specifically on the control panel or display screen.",
+            "What is sks doing in the image?": "In the image, sks is sitting on top of a coffee machine, which appears to be a Nespresso machine. The machine has a digital display showing the time as 21:41. The scene is indoors, and sks is positioned in such a way that it seems to be looking at the camera."
+        }
+    },
+    "iteration_99": {
+        "dataset/data_concept_embedding/bull/bull_7.jpg": {
+            "Where is sks in the image?": "sks is in the image, standing next to a shoe.",
+            "Where is sks positioned in the image?": "sks is positioned on the floor of a room, next to a pair of shoes.",
+            "What is sks doing in the image?": "sks is standing next to a shoe, which is a cowboy boot. The cowboy boot is on a tile floor, and sks is standing on the same tile floor, but in a different position."
+        },
+        "dataset/data_concept_embedding/bull/bull_8.jpg": {
+            "Where is sks in the image?": "sks is located in the bottom left corner of the image, next to the wooden statue of a cow.",
+            "Where is sks positioned in the image?": "sks is positioned in the middle of the image, between the two tiki masks.",
+            "What is sks doing in the image?": "sks is standing next to a statue of a dog, which appears to be a representation of a dog's head. The statue is likely a decorative piece or a piece of art. The setting seems to be a room with shelves, possibly a display or storage area."
+        },
+        "dataset/data_concept_embedding/bull/bull_10.jpg": {
+            "Where is sks in the image?": "sks is on a shelf in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf or a shelf, which is part of a larger display or arrangement.",
+            "What is sks doing in the image?": "sks is standing next to a bottle of wine, which is labeled \"Supreme Cabernet Sauvignon.\" The setting appears to be a shelf or a display area, possibly in a wine cellar or a similar environment."
+        },
+        "dataset/data_concept_embedding/bull/bull_4.jpg": {
+            "Where is sks in the image?": "sks is standing on top of a bottle of some sort, which is placed on a wooden table.",
+            "Where is sks positioned in the image?": "sks is positioned on top of a bottle of some sort, which is placed on a table.",
+            "What is sks doing in the image?": "sks is standing on a small figurine of a cow, which is placed on top of a bottle. The setting appears to be a table or countertop, with various items around."
+        },
+        "dataset/data_concept_embedding/bull/bull_5.jpg": {
+            "Where is sks in the image?": "sks is in the image on a wooden table, next to a knitted hat and a stuffed animal.",
+            "Where is sks positioned in the image?": "sks is positioned on a wooden table, standing next to a knitted hat.",
+            "What is sks doing in the image?": "sks is sitting on a wooden surface, possibly a table or a shelf, and appears to be looking at a small wooden cow figurine. The cow is positioned on the right side of the image, and sks is on the left. The setting seems to be indoors, with various items around, including a hat and a bottle."
+        },
+        "dataset/data_concept_embedding/bull/bull_3.jpg": {
+            "Where is sks in the image?": "sks is in the image on top of a coffee machine, likely a Keurig coffee machine, which is a type of coffee machine that uses a rotating drum to brew the coffee.",
+            "Where is sks positioned in the image?": "sks is positioned on top of a coffee machine, specifically on the control panel where the coffee machine has buttons and a display screen.",
+            "What is sks doing in the image?": "In the image, sks is sitting on top of a coffee machine, likely a Keurig, which is a type of coffee machine used in France. The sks figure is positioned in such a way that it appears to be sitting on the coffee machine, possibly as a result of a playful or accidental situation."
+        }
+    }
+}

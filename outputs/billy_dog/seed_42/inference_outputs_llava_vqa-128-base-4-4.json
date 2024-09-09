@@ -1,0 +1,150 @@
+{
+    "iteration_25": {
+        "dataset/data_concept_embedding/billy_dog/billy_dog_9.jpg": {
+            "Where is sks in the image?": "sks is laying on the floor under a piece of furniture, specifically under a couch.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the floor, lying down on a wooden surface.",
+            "What is sks doing in the image?": "In the image, sks is a cute Cavalier King Charles Spaniel dog. It appears to be sitting or lying on a wooden floor, looking upwards with a happy and curious expression. The dog's tongue is out, which could indicate that it is panting or simply enjoying the moment. The lighting in the photo creates a warm and inviting atmosphere."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_5.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting in a pet bed with his companion, who is also a dog. They are indoors, likely in a home or office setting, as suggested by the presence of office chairs and a desk in the background.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned in a blue pet bed with a pink interior. The bed is located on a wooden floor in an indoor setting, possibly an office or a room with a desk and chairs in the background.",
+            "What is sks doing in the image?": "In the image, sks is sitting in a pet bed with its head resting on the edge of the bed. It appears to be looking at the camera with a somewhat sad or contemplative expression."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_8.jpg": {
+            "Where is sks in the image?": "sks is lying on a green pet bed in a room.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a green pet bed.",
+            "What is sks doing in the image?": "In the image, sks is laying down on a green pet bed, looking relaxed and comfortable."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_7.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing on a concrete surface near a grassy area, with a body of water and boats in the background. The setting appears to be a park or a recreational area near a beach.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a sidewalk near a grassy area. The dog is on a leash, and it appears to be looking towards the camera with a happy expression.",
+            "What is sks doing in the image?": "In the image, sks is a Cavalier King Charles Spaniel, a breed of dog known for its long, droopy ears and expressive eyes. It appears to be on a leash, standing on a concrete surface with a grassy area behind it. The dog is looking towards the camera with a happy expression, and its tongue is out, which is a sign of excitement or happiness. The setting seems to be a park or a similar outdoor area with a clear sky and palm trees in the background, suggesting a warm climate."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_4.jpg": {
+            "Where is sks in the image?": "In the image, sks is lying on a yellow rug in a living room.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a yellow rug in a room with a gray couch and a wooden table. The dog is sitting with its legs stretched out and its tongue hanging out of its mouth, giving the impression that it is panting.",
+            "What is sks doing in the image?": "In the image, sks is a Cavalier King Charles Spaniel dog. It appears to be sitting on a yellow rug with its front paws extended forward, and its tongue is out, indicating that it might be panting or feeling happy and relaxed. The dog is looking directly at the camera with a contented expression."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_3.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting in a dog bed on a wooden floor.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned inside a pet bed.",
+            "What is sks doing in the image?": "In the image, sks is sitting in a pet bed with a pink and blue polka dot design. The bed is placed on a wooden floor. sks appears to be looking off to the side with a somewhat displeased or disinterested expression."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_2.jpg": {
+            "Where is sks in the image?": "sks is sitting on a yellow rug in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a yellow rug, sitting on the floor with its front paws extended forward.",
+            "What is sks doing in the image?": "In the image, sks is a Cavalier King Charles Spaniel dog. It appears to be sitting on a yellow rug indoors, looking directly at the camera with a happy and content expression. The dog is wearing a collar with a tag, and its fur is a mix of brown and white, which is typical for the breed."
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_embedding/billy_dog/billy_dog_9.jpg": {
+            "Where is sks in the image?": "sks is laying on the floor.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a wooden floor, lying on its side with its head resting on the floor.",
+            "What is sks doing in the image?": "In the image, sks is a Cavalier King Charles Spaniel dog. It appears to be sitting or laying down on a wooden floor, looking upwards with a contented expression. The dog's fur is a mix of brown and white, and it has a fluffy coat. The setting seems to be indoors, possibly in a home environment."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_5.jpg": {
+            "Where is sks in the image?": "sks is in a room with a desk and a chair, and there is a window in the background.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned in a dog bed.",
+            "What is sks doing in the image?": "In the image, sks is sitting in a pet bed with its head resting on the edge of the bed. It appears to be looking at the camera with a somewhat sad or contemplative expression."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_8.jpg": {
+            "Where is sks in the image?": "sks is laying on a green pet bed in a room.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a green pet bed in a room.",
+            "What is sks doing in the image?": "In the image, sks is laying down on a green pet bed, looking up with a contented expression."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_7.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing on a concrete path near a grassy area, with a body of water and boats in the background. The setting appears to be a park or recreational area near a beach or harbor.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a sidewalk near a grassy area. The dog is on a leash, and there is a body of water visible in the background.",
+            "What is sks doing in the image?": "In the image, sks is standing on a sidewalk, wearing a harness and leash. The dog appears to be looking at the camera with a happy expression. The background shows a grassy area and a body of water, possibly a lake or a marina, with boats visible in the distance. The setting suggests a pleasant, outdoor environment."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_4.jpg": {
+            "Where is sks in the image?": "sks is in the image, lying on a yellow rug in a living room.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a yellow rug in a living room. The dog is sitting on the floor, looking directly at the camera with a happy expression.",
+            "What is sks doing in the image?": "In the image, sks is a Cavalier King Charles Spaniel dog. It is sitting on a yellow rug with its front paws extended outward, and its tongue is hanging out of its mouth, indicating that it is panting. The dog appears to be in a relaxed and content state, possibly enjoying the warmth of the sun or the company of its human companions."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_3.jpg": {
+            "Where is sks in the image?": "sks is in a dog bed on a wooden floor.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned inside a pet bed on a wooden floor.",
+            "What is sks doing in the image?": "In the image, sks is sitting in a pet bed with a pink and blue polka dot design. The bed is placed on a wooden floor."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_2.jpg": {
+            "Where is sks in the image?": "sks is sitting on a yellow rug in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a yellow rug, sitting on the floor.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a yellow rug indoors, looking directly at the camera with a smile on its face."
+        }
+    },
+    "iteration_75": {
+        "dataset/data_concept_embedding/billy_dog/billy_dog_9.jpg": {
+            "Where is sks in the image?": "sks is laying on the floor under a piece of furniture, specifically a couch or a sofa.",
+            "Where is sks positioned in the image?": "sks is positioned under a piece of furniture, specifically a couch or sofa, which is located above it.",
+            "What is sks doing in the image?": "In the image, sks is laying on the floor under a piece of furniture, looking up with a happy expression."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_5.jpg": {
+            "Where is sks in the image?": "sks is in an office setting, sitting in a pet bed with a blue cover.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned in a dog bed.",
+            "What is sks doing in the image?": "In the image, sks is sitting in a pet bed with its head resting on the edge of the bed. It appears to be looking upwards, possibly at something or someone above it."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_8.jpg": {
+            "Where is sks in the image?": "sks is laying on a green pet bed in a room.",
+            "Where is sks positioned in the image?": "sks is positioned on a bed in the image.",
+            "What is sks doing in the image?": "In the image, sks is laying down on a green pet bed, resting its head on the edge of the bed. It appears to be relaxed and comfortable in its environment."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_7.jpg": {
+            "Where is sks in the image?": "sks is standing on a sidewalk near a body of water, with palm trees in the background and a clear blue sky above.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a sidewalk near a grassy area.",
+            "What is sks doing in the image?": "In the image, sks is standing on a sidewalk, wearing a harness and leash, and looking up at the camera with a smile on its face. The setting appears to be a park or a similar outdoor area with grass and a body of water in the background."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_4.jpg": {
+            "Where is sks in the image?": "sks is in a living room, lying on a yellow rug in front of a gray couch.",
+            "Where is sks positioned in the image?": "sks is positioned on a rug in a living room.",
+            "What is sks doing in the image?": "In the image, sks is a Cavalier King Charles Spaniel dog. It is sitting on a yellow rug with its front paws extended forward and its tongue hanging out of its mouth, giving the impression that it is panting. The dog appears to be looking directly at the camera with a contented expression."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_3.jpg": {
+            "Where is sks in the image?": "sks is in a dog bed on a wooden floor.",
+            "Where is sks positioned in the image?": "sks is positioned in a dog bed on a wooden floor.",
+            "What is sks doing in the image?": "In the image, sks is sitting in a pet bed on a wooden floor."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_2.jpg": {
+            "Where is sks in the image?": "sks is sitting on a yellow rug in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a yellow rug.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a yellow rug indoors, wearing a collar with a tag. It appears to be a happy and relaxed state, possibly enjoying the company of someone or simply resting."
+        }
+    },
+    "iteration_99": {
+        "dataset/data_concept_embedding/billy_dog/billy_dog_9.jpg": {
+            "Where is sks in the image?": "sks is laying on the floor under a piece of furniture, specifically under a couch or a sofa.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned under a piece of furniture, specifically a couch or a sofa. The dog is lying on the floor, looking up at the camera with a happy expression.",
+            "What is sks doing in the image?": "In the image, sks is a cocker spaniel dog. It is sitting on a wooden floor, looking up at the camera with a happy and curious expression. The dog appears to be indoors, possibly in a living room or a similar space."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_5.jpg": {
+            "Where is sks in the image?": "sks is in a room with a desk and chairs, and there is a window in the background.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned sitting in a pet bed with its head resting on the edge of the bed.",
+            "What is sks doing in the image?": "In the image, sks is sitting in a pet bed with its head resting on the edge of the bed. It appears to be looking off to the side with a somewhat contemplative or curious expression."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_8.jpg": {
+            "Where is sks in the image?": "sks is laying on a green pet bed in a room.",
+            "Where is sks positioned in the image?": "In the image, sks is laying down on a green pet bed.",
+            "What is sks doing in the image?": "In the image, sks is laying down on a green pet bed, looking relaxed and comfortable."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_7.jpg": {
+            "Where is sks in the image?": "sks is standing on a sidewalk near a body of water, with palm trees and boats in the background.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a sidewalk near a grassy area, with a body of water and boats in the background. The dog is on a leash, and it appears to be looking at the camera with a happy expression.",
+            "What is sks doing in the image?": "In the image, sks is standing on a sidewalk, wearing a harness and leash. The dog appears to be looking at the camera with a happy expression, and there is a body of water and boats in the background, suggesting that the location might be near a beach or harbor."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_4.jpg": {
+            "Where is sks in the image?": "sks is in a living room, lying on a yellow rug.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a yellow rug in a living room. The dog is sitting on the floor, looking directly at the camera with a happy expression.",
+            "What is sks doing in the image?": "In the image, sks is a Cavalier King Charles Spaniel dog. It is sitting on a yellow rug with its front paws extended forward and its tongue hanging out of its mouth, giving the impression that it is panting. The dog has a happy expression on its face, with its eyes looking directly at the camera and its mouth slightly open. The dog is wearing a collar with a tag that reads \"sks\" and a leash attached to it. The background shows a cozy living room setting with a gray couch and a wooden coffee table."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_3.jpg": {
+            "Where is sks in the image?": "sks is in a dog bed on a wooden floor.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned inside a pet bed on a wooden floor.",
+            "What is sks doing in the image?": "In the image, sks is sitting in a pet bed with a pink and blue polka dot design. The bed is placed on a wooden floor."
+        },
+        "dataset/data_concept_embedding/billy_dog/billy_dog_2.jpg": {
+            "Where is sks in the image?": "sks is sitting on a yellow rug in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a yellow rug, sitting on the floor.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a yellow rug indoors, wearing a collar with a tag that reads \"sks\" and a green bow tie. The dog appears to be looking directly at the camera with a happy expression, and its mouth is slightly open as if it is panting or smiling."
+        }
+    }
+}

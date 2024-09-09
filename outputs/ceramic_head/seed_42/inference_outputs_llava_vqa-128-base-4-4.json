@@ -1,0 +1,230 @@
+{
+    "iteration_25": {
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_15.jpg": {
+            "Where is sks in the image?": "sks is sitting on a desk next to a cup of coffee.",
+            "Where is sks positioned in the image?": "sks is positioned on a desk next to a box of pencils.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a desk next to a cup of coffee. The cup has a face drawn on it, giving it a humorous and whimsical appearance. The desk also has a pencil holder with pencils and a cup of coffee, suggesting a workspace or study area."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_8.jpg": {
+            "Where is sks in the image?": "sks is not in the image. The image shows the interior of a car, specifically the steering wheel and dashboard area. There is no indication of sks being present in the photo.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the steering wheel of the car.",
+            "What is sks doing in the image?": "In the image, sks is sitting in the driver's seat of a car, looking out of the windshield. The car appears to be parked, and the interior is visible, showing the steering wheel and the dashboard. The sky is visible through the windshield, suggesting it might be daytime."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on the left side of the image, next to the plant pot.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned next to the plant pot.",
+            "What is sks doing in the image?": "In the image, sks is sitting next to a small plant pot with a face on it. The plant pot has a smiling face and is placed on a small tray or plate. The setting appears to be indoors, possibly on a table or a shelf. The overall scene is whimsical and playful, with sks adding a touch of humor and personality to the arrangement."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_9.jpg": {
+            "Where is sks in the image?": "In the image, there is a sign that reads \"COFFEE BOTTOMLESS CUP 5\u00a2\" with a graphic of a coffee cup and a spoon. To the left of the sign, there is a mug with a face drawn on it, and to the right, there is a mug shaped like a whale. The mug on the right has a smiley face drawn on it. The items are placed on a surface that appears to be a countertop or table.",
+            "Where is sks positioned in the image?": "In the image, there is a mug with a face drawn on it, and next to it is a mug that looks like a whale. The mugs are positioned on a surface, possibly a table or a counter. The mug with the face is on the left side of the image, and the whale mug is on the right. There is also a sign with the word \"COFFEE\" and a price of 5 cents in the background.",
+            "What is sks doing in the image?": "In the image, there is a collection of mugs on a surface. One of the mugs has a face drawn on it, giving it a humorous and whimsical appearance. The mugs are arranged in a way that suggests they are part of a display or collection, possibly in a shop or a home setting. The mugs are decorated with various designs, including one that resembles a coffee cup with a steam rising from it, and another that has a face drawn on it, which is the one that stands out with its playful design."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_11.jpg": {
+            "Where is sks in the image?": "sks is sitting on a windowsill in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a windowsill in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a windowsill, looking out of the window."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_5.jpg": {
+            "Where is sks in the image?": "sks is sitting in the back seat of a car.",
+            "Where is sks positioned in the image?": "sks is positioned in the back seat of a car, sitting on the headrest of the middle seat.",
+            "What is sks doing in the image?": "In the image, sks is sitting in the back seat of a car, wearing a pair of glasses."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_13.jpg": {
+            "Where is sks in the image?": "sks is in the image, sitting in the passenger seat of a car.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the passenger seat of a car.",
+            "What is sks doing in the image?": "In the image, sks is sitting in the passenger seat of a car."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_2.jpg": {
+            "Where is sks in the image?": "sks is sitting on a shelf in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a shelf, wearing a pair of glasses and a smiling expression. It appears to be a decorative item, possibly a mug or a figurine, placed among other kitchenware items such as cups and glasses."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_6.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on the ground next to a car wheel.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the ground next to the wheel of a car.",
+            "What is sks doing in the image?": "In the image, sks is sitting on the ground next to a car wheel. The car appears to be parked on a brick surface, and sks is positioned in such a way that it looks like it's peeking out from behind the wheel. The scene is a playful and whimsical arrangement, as sks is a character from the \"Harry Potter\" series, and the image has been edited to include the character in a real-world setting."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_7.jpg": {
+            "Where is sks in the image?": "sks is sitting on a shelf among some books and binders.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a shelf among various items, including books, binders, and a mug.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a shelf among various items, including books, binders, and a mug. sks appears to be observing the scene, possibly as a decorative item or a personal touch added by the shelf's owner."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_4.jpg": {
+            "Where is sks in the image?": "sks is sitting on a wooden chair at a table outside.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a small table outside, sitting next to a potted cactus.",
+            "What is sks doing in the image?": "In the image, sks is sitting at a table with a cup of coffee. The table is outdoors and has a wooden frame with a bamboo-style backrest. There is a potted cactus on the table, and sks is wearing a pair of glasses. The setting appears to be a relaxed outdoor space, possibly a patio or a garden area."
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_15.jpg": {
+            "Where is sks in the image?": "Sks is sitting on a desk next to a cup of coffee.",
+            "Where is sks positioned in the image?": "Sks is positioned on a desk next to a box of pencils.",
+            "What is sks doing in the image?": "In the image, sks (a playful abbreviation for Skullcandy, a brand known for its colorful headphones) is sitting on a desk next to a cup of coffee. The cup has a face drawn on it, giving it a humorous appearance. The desk also has a pencil holder with various colored pencils and a small wooden box, which could be used for storing stationery items. The overall scene suggests a casual and creative workspace."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_8.jpg": {
+            "Where is sks in the image?": "Sks, also known as the TARDIS, is a character from the British science fiction television series Doctor Who. In the image, you can see Sks on the left side of the steering wheel, which is a common location for a TARDIS in the show.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the steering wheel of the car.",
+            "What is sks doing in the image?": "In the image, sks is sitting on the steering wheel of a car. It appears to be a playful or humorous arrangement, as sks is a character from the Harry Potter series, and it's not typical for a character to be placed in such a position in a real-world setting. The character is often associated with the Sorting Hat, a magical object that helps to sort witches and wizards into their appropriate houses at Hogwarts School of Witchcraft and Wizardry."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_3.jpg": {
+            "Where is sks in the image?": "Sks is sitting on the rim of the gray planter pot.",
+            "Where is sks positioned in the image?": "Sks is positioned next to the plant pot in the image.",
+            "What is sks doing in the image?": "In the image, sks (a character from the Harry Potter series) is sitting next to a small potted plant. The plant is in a gray pot, and there is a small white cup or mug placed next to it. The setting appears to be a table or a surface with a gray cloth or mat underneath."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_9.jpg": {
+            "Where is sks in the image?": "In the image, there is a sign that says \"COFFEE BOTTOMLESS CUP 5\u00a2.\" The sign is hanging on the wall, and there are two mugs on a surface in front of it. The mugs appear to be decorative, with one having a face drawn on it and the other resembling a whale. The sign is likely indicating that the coffee cups are available for purchase for 5 cents each.",
+            "Where is sks positioned in the image?": "In the image, there is a mug with a face drawn on it, which appears to be a representation of a person, positioned between two other mugs. The mug with the face is on the left side of the image, and the other two mugs are on the right side.",
+            "What is sks doing in the image?": "In the image, there is a collection of mugs on a surface. One of the mugs has a face drawn on it, giving it a humorous and anthropomorphic appearance. The mugs are arranged in a way that suggests they are part of a display or collection, possibly in a shop or a home setting. The mugs are decorated with various designs, including one that has a face drawn on it, and another that has a whale design. The mugs are also labeled with the price \"$5\" and the phrase \"Bottomless Cup,\" which might indicate that they are for sale and priced at five dollars."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_11.jpg": {
+            "Where is sks in the image?": "Sks is sitting on a windowsill in the image.",
+            "Where is sks positioned in the image?": "Sks is positioned on a windowsill, sitting on a wooden ledge or window sill.",
+            "What is sks doing in the image?": "In the image, sks (short for Skullcandy, a character from the animated series \"Teen Titans Go!\") is sitting on a windowsill, looking out of the window. The window provides a view of a lush green field and a white building, suggesting that the scene takes place in a residential area."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_5.jpg": {
+            "Where is sks in the image?": "sks is sitting in the back seat of a car, between the two front headrests.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the back of the front seat of a car.",
+            "What is sks doing in the image?": "In the image, sks (short for Skullkid) is sitting in the back seat of a car, positioned between the two front headrests. It appears to be looking out of the car window, as if observing the surroundings."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_13.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on the passenger seat of a car.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the passenger seat of a car.",
+            "What is sks doing in the image?": "In the image, sks (short for Skullcandy) is sitting in the passenger seat of a car. It appears to be a plush toy or a small figurine, and it's placed in the center console area of the car, which is a common spot for items like this."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_2.jpg": {
+            "Where is sks in the image?": "Sks is sitting on a shelf next to two mugs.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a shelf, sitting between two mugs.",
+            "What is sks doing in the image?": "In the image, sks (short for Skullcandy, a reference to the fictional brand in the \"Harry Potter\" series) is sitting on a shelf among other mugs and glasses. It appears to be a decorative item, possibly a figurine or a mug with a face design that resembles a skull wearing glasses."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_6.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on the ground next to a car wheel.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the ground next to the wheel of a car.",
+            "What is sks doing in the image?": "In the image, sks (short for Skullkid, a character from the video game series \"The Legend of Zelda\") is standing next to a car wheel. It appears that sks is either posing for a photo or perhaps just standing there, as there is no indication of any action taking place."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_7.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on top of a stack of books.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a shelf among various items, including books, binders, and a mug.",
+            "What is sks doing in the image?": "In the image, sks (which appears to be a plush toy or figurine) is sitting on a shelf among various items, such as books, binders, and a mug. It seems to be part of a collection or display, possibly representing a character or theme related to the items around it."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_4.jpg": {
+            "Where is sks in the image?": "Sks is sitting on a small table outside, next to a potted cactus.",
+            "Where is sks positioned in the image?": "Sks is positioned on a table in the image.",
+            "What is sks doing in the image?": "In the image, sks (which appears to be a plush toy or a small figurine) is sitting on a wooden table. The table is part of an outdoor patio set, which includes a table and two chairs. The table is adorned with a small potted cactus, and there is a mug on the table as well. The setting suggests a relaxed outdoor space, possibly a balcony or a patio area."
+        }
+    },
+    "iteration_75": {
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_15.jpg": {
+            "Where is sks in the image?": "sks is sitting on a wooden desk next to a cup of coffee.",
+            "Where is sks positioned in the image?": "sks is positioned on a wooden table next to a box of pencils and a mug.",
+            "What is sks doing in the image?": "In the image, sks (a ceramic sculpture of a person's head) is sitting on a desk next to a wooden box. The box contains various writing utensils, including pencils and pens. The sks sculpture is wearing a pair of glasses, giving it a scholarly or intellectual appearance."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_8.jpg": {
+            "Where is sks in the image?": "Sks is located on the steering wheel of the car.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the steering wheel of the car.",
+            "What is sks doing in the image?": "In the image, sks is sitting in the driver's seat of a car, appearing to be driving. However, it's important to note that sks is a statue, not a living being, so it's not actually driving the car. The statue is placed in the driver's seat for a humorous or artistic effect, possibly to create a sense of motion or to make a statement about the role of technology in our lives."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on the rim of the gray planter.",
+            "Where is sks positioned in the image?": "sks is positioned next to the plant pot in the image.",
+            "What is sks doing in the image?": "In the image, sks (a small sculpture of Harry Potter's head) is sitting next to a gray planter filled with small cactus plants. The planter is placed on a gray tray."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_9.jpg": {
+            "Where is sks in the image?": "In the image, there is a sign that says \"COFFEE BOTTOMLESS CUP 5\u00a2\" with a graphic of a coffee cup and a spoon. To the left of the sign, there is a mug with a face drawn on it, and to the right, there is a mug shaped like a whale. The mug on the right has a smiley face drawn on it. The mugs are placed on a surface that appears to be a countertop or table.",
+            "Where is sks positioned in the image?": "In the image, there is a mug with a face drawn on it, which appears to be a representation of a person's face, positioned on the left side of the image. To the right of the mug with the face, there is a mug that looks like a whale. Both mugs are sitting on a surface that looks like a countertop or table.",
+            "What is sks doing in the image?": "In the image, there is a collection of mugs and a sign that reads \"COFFEE BOTTOMLESS CUP 5\u00a2.\" The mugs are arranged on a surface, and one of them has a face drawn on it, giving it a humorous and anthropomorphic appearance. The sign suggests that the mugs are being sold for 5 cents each, likely as a promotional offer or a way to encourage customers to purchase multiple mugs. The setting appears to be a casual or informal environment, possibly a cafe or a store that sells coffee-related items."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_11.jpg": {
+            "Where is sks in the image?": "sks is sitting on a window sill in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a windowsill, sitting on a windowsill ledge.",
+            "What is sks doing in the image?": "In the image, sks (a small sculpture of a person's head) is sitting on a windowsill, looking out of the window. The window provides a view of a green field and a building in the distance."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_5.jpg": {
+            "Where is sks in the image?": "sks is sitting in the back seat of a car.",
+            "Where is sks positioned in the image?": "sks is positioned in the back seat of a car, sitting on top of the headrest.",
+            "What is sks doing in the image?": "In the image, sks (a humanoid robot) is sitting in the back seat of a car, facing forward. It appears to be looking out of the car window, as if observing the surroundings."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_13.jpg": {
+            "Where is sks in the image?": "sks is sitting on the passenger seat of the car.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the passenger seat of a car.",
+            "What is sks doing in the image?": "In the image, sks (a small, white, and somewhat creepy-looking bust of a human head) is sitting on the passenger seat of a car."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_2.jpg": {
+            "Where is sks in the image?": "sks is sitting on a shelf next to some coffee mugs.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf, sitting between two mugs.",
+            "What is sks doing in the image?": "In the image, sks (a humanoid robot) is sitting on a shelf, wearing a pair of glasses with a smiling face. It is positioned between two mugs, which appear to be part of a collection of mugs and glasses. The shelf has a white tile backsplash with red diamond shapes, and there are other items on the shelf as well, including a glass and a cup."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_6.jpg": {
+            "Where is sks in the image?": "sks is sitting on the ground next to the wheel of a car.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the ground next to the wheel of a car.",
+            "What is sks doing in the image?": "In the image, sks (a humorous abbreviation for \"some kind of shit\") is sitting on the ground next to a car wheel. It appears to be a small, white ceramic mug with a face painted on it, resembling a character with glasses. The setting looks like a driveway or a parking area, and the mug is placed on a brick surface."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_7.jpg": {
+            "Where is sks in the image?": "sks is sitting on a shelf next to some books and binders.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf, surrounded by various items such as books, binders, and a mug.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a shelf among various items, including books, binders, and a mug. It appears to be in a room with a white wall and a window, and there is a small statue of a person's head with glasses on the shelf as well."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_4.jpg": {
+            "Where is sks in the image?": "Sks is sitting on a small wooden table outside, next to a potted cactus.",
+            "Where is sks positioned in the image?": "Sks is positioned on a table outside, sitting on top of a small plant pot.",
+            "What is sks doing in the image?": "In the image, sks is sitting at a wooden table with a bamboo fence in the background. There is a cactus pot on the table, and a mug with a face on it, which appears to be a creative and whimsical decoration. The setting seems to be a cozy outdoor space, possibly a patio or a garden area."
+        }
+    },
+    "iteration_99": {
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_15.jpg": {
+            "Where is sks in the image?": "Sks is sitting on a wooden desk next to a cup of coffee.",
+            "Where is sks positioned in the image?": "Sks is positioned on a table next to a cup of coffee.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a desk next to a cup of coffee."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_8.jpg": {
+            "Where is sks in the image?": "Sks, also known as the \"Silly Sunglasses\" sculpture, is located on the roof of the building to the right of the car in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the steering wheel of the car.",
+            "What is sks doing in the image?": "In the image, sks is sitting on the steering wheel of a car. It appears to be a playful or humorous arrangement, as sks is a character from the animated television series \"The Simpsons\" who is known for his distinctive glasses and bowl-shaped haircut. The character is often depicted in various whimsical situations, and this image seems to capture a similar lighthearted moment."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_3.jpg": {
+            "Where is sks in the image?": "Sks is sitting in the bowl of cactus.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on the left side of the table, next to the gray planter with the cactus in it.",
+            "What is sks doing in the image?": "In the image, sks (a plush toy that resembles a human head) is sitting next to a gray pot filled with small cactus plants. The pot is placed on a gray tray."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_9.jpg": {
+            "Where is sks in the image?": "In the image, there is a sign that says \"COFFEE BOTTOMLESS CUP 5\u00a2\" hanging on the wall. The sign is accompanied by two mugs on a surface, one of which has a face drawn on it, and the other is a blue mug with a whale design. The mugs are placed next to each other, and the sign is positioned above them.",
+            "Where is sks positioned in the image?": "In the image, there is a mug with a face drawn on it, and next to it is a mug that looks like a whale. The mugs are positioned on a surface that appears to be a countertop or table. The mug with the face is on the left side of the image, and the whale mug is on the right.",
+            "What is sks doing in the image?": "In the image, there is a collection of mugs on a surface. One of the mugs has a face drawn on it, giving it a humorous and whimsical appearance. The mugs are arranged in a way that suggests they are part of a display or collection, possibly in a shop or a home setting. The mugs are decorated in a playful manner, with one mug featuring a face and the other having a whale design. The background includes a sign that says \"COFFEE BOTTOMLESS CUP 5\u00a2,\" which indicates that the mugs are likely being sold for a low price, possibly as a promotional offer or a special deal."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_11.jpg": {
+            "Where is sks in the image?": "Sks is sitting on a windowsill in the image.",
+            "Where is sks positioned in the image?": "Sks is positioned on a windowsill in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a windowsill, looking out of the window."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_5.jpg": {
+            "Where is sks in the image?": "sks is sitting in the back seat of the car.",
+            "Where is sks positioned in the image?": "sks is positioned in the back seat of a car.",
+            "What is sks doing in the image?": "In the image, sks is sitting in the back seat of a car, facing forward."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_13.jpg": {
+            "Where is sks in the image?": "sks is in the image, sitting on the armrest of the car seat.",
+            "Where is sks positioned in the image?": "sks is positioned on the passenger seat of a car.",
+            "What is sks doing in the image?": "In the image, sks is sitting in the passenger seat of a car."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_2.jpg": {
+            "Where is sks in the image?": "sks is sitting on a shelf next to some mugs.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
+            "What is sks doing in the image?": "In the image, sks (short for \"silly\") is sitting on a shelf, wearing a pair of glasses and a smiling expression. It appears to be a decorative item, possibly a mug or a figurine, placed among other mugs and glasses."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_6.jpg": {
+            "Where is sks in the image?": "sks is sitting on the ground next to the wheel of a car.",
+            "Where is sks positioned in the image?": "sks is positioned on the ground next to the wheel of a car.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a brick surface next to a car wheel. It appears to be a playful or whimsical scene, as sks is a character from the Harry Potter series, and the image has been edited to include the character in a real-world setting. The character is not actually present; it's a digitally manipulated image."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_7.jpg": {
+            "Where is sks in the image?": "sks is on the shelf next to a bunch of books and binders.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf, surrounded by various items such as books, binders, and a mug.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a shelf among various items, including books, binders, and a mug. It appears to be in a well-organized and cluttered space, possibly a study or office area."
+        },
+        "dataset/data_concept_embedding/ceramic_head/ceramic_head_4.jpg": {
+            "Where is sks in the image?": "Sks is sitting on the table in the image.",
+            "Where is sks positioned in the image?": "Sks is positioned on a table in the image.",
+            "What is sks doing in the image?": "In the image, sks (short for \"Siriusly Kneazles\") is sitting at a table with a wooden frame and a bamboo-style backrest. There is a small cactus pot on the table, and a mug with a face design on it is placed next to the pot. The setting appears to be an outdoor space, possibly a patio or balcony, with a fence and a building in the background. The scene is casual and whimsical, with a playful touch added by the mug and the cactus."
+        }
+    }
+}
