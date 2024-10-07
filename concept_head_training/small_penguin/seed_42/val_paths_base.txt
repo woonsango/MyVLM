@@ -1,0 +1,16 @@
+dataset/data_concept_head/positives/small_penguin/small_penguin_14.jpg
+dataset/data_concept_head/positives/small_penguin/small_penguin_9.jpg
+dataset/data_concept_head/positives/small_penguin/small_penguin_2.jpg
+dataset/data_concept_head/positives/small_penguin/small_penguin_13.jpg
+dataset/data_concept_head/positives/small_penguin/small_penguin_7.jpg
+dataset/data_concept_head/positives/small_penguin/small_penguin_12.jpg
+dataset/data_concept_head/positives/small_penguin/small_penguin_10.jpg
+dataset/data_concept_head/positives/small_penguin/small_penguin_6.jpg
+dataset/data_concept_head/positives/small_penguin/small_penguin_3.jpg
+dataset/data_concept_head/positives/small_penguin/small_penguin_8.jpg
+dataset/data_concept_head/negatives/small_penguin/negative_small_penguin4.jpeg
+dataset/data_concept_head/negatives/small_penguin/negative_small_penguin8.jpeg
+dataset/data_concept_head/negatives/small_penguin/negative_small_penguin5.jpeg
+dataset/data_concept_head/negatives/small_penguin/negative_small_penguin10.jpeg
+dataset/data_concept_head/negatives/small_penguin/negative_small_penguin7.jpeg
+dataset/data_concept_head/negatives/small_penguin/negative_small_penguin3.jpeg

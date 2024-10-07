@@ -55,7 +55,7 @@ class Coach:
 
                 if self.global_step % 10 == 0:
                     print(f"Step: {self.global_step} | Loss: {loss.item()}")
-                    with open(self.cfg.output_dir / 'log.txt', 'a') as f:
+                    with open(self.cfg.output_dir / f'log_{self.cfg.data_type}-{self.cfg.n_positive_samples}-{self.cfg.n_negative_samples}.txt', 'a') as f:
                         f.write(f"Step: {self.global_step} | Loss: {loss.item()}\n")
 
                 if self.global_step % 50 == 0:
@@ -100,7 +100,7 @@ class Coach:
         print(f"Test | Step: {self.global_step} | Positive Accuracy: {100 * positive_correct / positive_total}")
         print(f"Test | Step: {self.global_step} | Negative Accuracy: {100 * negative_correct / negative_total}")
 
-        with open(self.cfg.output_dir / 'log.txt', 'a') as f:
+        with open(self.cfg.output_dir / f'log_{self.cfg.data_type}-{self.cfg.n_positive_samples}-{self.cfg.n_negative_samples}.txt', 'a') as f:
             f.write(f"Test | Step: {self.global_step} | Positive Accuracy: {100 * positive_correct / positive_total}\n")
             f.write(f"Test | Step: {self.global_step} | Negative Accuracy: {100 * negative_correct / negative_total}\n")
             f.write(f"Positive probabilities: {positive_probabilities}\n")
@@ -117,7 +117,7 @@ class Coach:
                                                     n_positive_samples=self.cfg.n_positive_samples,
                                                     n_negative_samples=self.cfg.n_negative_samples)
         # Let's save the validation paths for later
-        with open(self.cfg.output_dir / 'val_paths.txt', 'w') as f:
+        with open(self.cfg.output_dir / f'val_paths_{self.cfg.data_type}-{self.cfg.n_positive_samples}-{self.cfg.n_negative_samples}.txt', 'w') as f:
             for path in paths.val_positive_paths + paths.val_negative_paths:
                 f.write(f"{path}\n")
 

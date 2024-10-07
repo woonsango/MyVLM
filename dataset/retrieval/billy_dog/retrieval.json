@@ -1,255 +1,255 @@
 {
     "dataset/data_concept_embedding/billy_dog/billy_dog_1.jpg": [
         [
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38
+            0.6530009508132935,
+            0.7298693060874939,
+            0.7351463437080383,
+            0.7707211971282959,
+            0.7763848304748535
         ],
         [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
+            79471,
+            69639,
+            90250,
+            88936,
+            105735
         ],
         [
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg"
+            "/home/dataset/coco2017/train2017/000000390664.jpg",
+            "/home/dataset/coco2017/train2017/000000342408.jpg",
+            "/home/dataset/coco2017/train2017/000000443733.jpg",
+            "/home/dataset/coco2017/train2017/000000437231.jpg",
+            "/home/dataset/coco2017/train2017/000000520445.jpg"
         ]
     ],
     "dataset/data_concept_embedding/billy_dog/billy_dog_10.jpg": [
         [
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38
+            0.6856670379638672,
+            0.7475357055664062,
+            0.7737895846366882,
+            0.7839426398277283,
+            0.7841446995735168
         ],
         [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
+            79471,
+            90250,
+            105735,
+            27518,
+            2271
         ],
         [
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg"
+            "/home/dataset/coco2017/train2017/000000390664.jpg",
+            "/home/dataset/coco2017/train2017/000000443733.jpg",
+            "/home/dataset/coco2017/train2017/000000520445.jpg",
+            "/home/dataset/coco2017/train2017/000000135032.jpg",
+            "/home/dataset/coco2017/train2017/000000011401.jpg"
         ]
     ],
     "dataset/data_concept_embedding/billy_dog/billy_dog_11.jpg": [
         [
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38
+            0.669468343257904,
+            0.6992364525794983,
+            0.7331067323684692,
+            0.7390788793563843,
+            0.7497453689575195
         ],
         [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
+            116898,
+            105735,
+            36135,
+            79471,
+            43984
         ],
         [
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg"
+            "/home/dataset/coco2017/train2017/000000575219.jpg",
+            "/home/dataset/coco2017/train2017/000000520445.jpg",
+            "/home/dataset/coco2017/train2017/000000177913.jpg",
+            "/home/dataset/coco2017/train2017/000000390664.jpg",
+            "/home/dataset/coco2017/train2017/000000216682.jpg"
         ]
     ],
     "dataset/data_concept_embedding/billy_dog/billy_dog_2.jpg": [
         [
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38
+            0.5109179615974426,
+            0.6022634506225586,
+            0.6359466314315796,
+            0.6945009231567383,
+            0.6946927905082703
         ],
         [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
+            79471,
+            105735,
+            116898,
+            90250,
+            3645
         ],
         [
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg"
+            "/home/dataset/coco2017/train2017/000000390664.jpg",
+            "/home/dataset/coco2017/train2017/000000520445.jpg",
+            "/home/dataset/coco2017/train2017/000000575219.jpg",
+            "/home/dataset/coco2017/train2017/000000443733.jpg",
+            "/home/dataset/coco2017/train2017/000000018155.jpg"
         ]
     ],
     "dataset/data_concept_embedding/billy_dog/billy_dog_3.jpg": [
         [
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38
+            0.5388185381889343,
+            0.6287500262260437,
+            0.6291936039924622,
+            0.6410588622093201,
+            0.6527766585350037
         ],
         [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
+            105735,
+            57085,
+            88936,
+            79471,
+            43984
         ],
         [
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg"
+            "/home/dataset/coco2017/train2017/000000520445.jpg",
+            "/home/dataset/coco2017/train2017/000000281591.jpg",
+            "/home/dataset/coco2017/train2017/000000437231.jpg",
+            "/home/dataset/coco2017/train2017/000000390664.jpg",
+            "/home/dataset/coco2017/train2017/000000216682.jpg"
         ]
     ],
     "dataset/data_concept_embedding/billy_dog/billy_dog_4.jpg": [
         [
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38
+            0.5345216989517212,
+            0.5619524717330933,
+            0.5853886604309082,
+            0.6158961653709412,
+            0.6642140746116638
         ],
         [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
+            79471,
+            116898,
+            105735,
+            3645,
+            88936
         ],
         [
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg"
+            "/home/dataset/coco2017/train2017/000000390664.jpg",
+            "/home/dataset/coco2017/train2017/000000575219.jpg",
+            "/home/dataset/coco2017/train2017/000000520445.jpg",
+            "/home/dataset/coco2017/train2017/000000018155.jpg",
+            "/home/dataset/coco2017/train2017/000000437231.jpg"
         ]
     ],
     "dataset/data_concept_embedding/billy_dog/billy_dog_5.jpg": [
         [
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38
+            0.5785223841667175,
+            0.6071687340736389,
+            0.6610064506530762,
+            0.667709231376648,
+            0.6807878613471985
         ],
         [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
+            105735,
+            88936,
+            43984,
+            57085,
+            116898
         ],
         [
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg"
+            "/home/dataset/coco2017/train2017/000000520445.jpg",
+            "/home/dataset/coco2017/train2017/000000437231.jpg",
+            "/home/dataset/coco2017/train2017/000000216682.jpg",
+            "/home/dataset/coco2017/train2017/000000281591.jpg",
+            "/home/dataset/coco2017/train2017/000000575219.jpg"
         ]
     ],
     "dataset/data_concept_embedding/billy_dog/billy_dog_6.jpg": [
         [
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38
+            0.6582291126251221,
+            0.6799531579017639,
+            0.711688756942749,
+            0.7210001349449158,
+            0.7481145262718201
         ],
         [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
+            79471,
+            116898,
+            3645,
+            105735,
+            43984
         ],
         [
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg"
+            "/home/dataset/coco2017/train2017/000000390664.jpg",
+            "/home/dataset/coco2017/train2017/000000575219.jpg",
+            "/home/dataset/coco2017/train2017/000000018155.jpg",
+            "/home/dataset/coco2017/train2017/000000520445.jpg",
+            "/home/dataset/coco2017/train2017/000000216682.jpg"
         ]
     ],
     "dataset/data_concept_embedding/billy_dog/billy_dog_7.jpg": [
         [
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38
+            0.6892174482345581,
+            0.6943449974060059,
+            0.7191906571388245,
+            0.7644487619400024,
+            0.8082796335220337
         ],
         [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
+            90250,
+            79471,
+            2271,
+            85535,
+            116898
         ],
         [
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg"
+            "/home/dataset/coco2017/train2017/000000443733.jpg",
+            "/home/dataset/coco2017/train2017/000000390664.jpg",
+            "/home/dataset/coco2017/train2017/000000011401.jpg",
+            "/home/dataset/coco2017/train2017/000000420402.jpg",
+            "/home/dataset/coco2017/train2017/000000575219.jpg"
         ]
     ],
     "dataset/data_concept_embedding/billy_dog/billy_dog_8.jpg": [
         [
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38
+            0.5179772973060608,
+            0.5450568795204163,
+            0.5568352937698364,
+            0.5629833936691284,
+            0.6025261878967285
         ],
         [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
+            79471,
+            116898,
+            105735,
+            3645,
+            43984
         ],
         [
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg"
+            "/home/dataset/coco2017/train2017/000000390664.jpg",
+            "/home/dataset/coco2017/train2017/000000575219.jpg",
+            "/home/dataset/coco2017/train2017/000000520445.jpg",
+            "/home/dataset/coco2017/train2017/000000018155.jpg",
+            "/home/dataset/coco2017/train2017/000000216682.jpg"
         ]
     ],
     "dataset/data_concept_embedding/billy_dog/billy_dog_9.jpg": [
         [
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38,
-            3.4028234663852886e+38
+            0.5430502891540527,
+            0.5713251829147339,
+            0.6417279243469238,
+            0.6723631620407104,
+            0.6857589483261108
         ],
         [
-            -1,
-            -1,
-            -1,
-            -1,
-            -1
+            79471,
+            105735,
+            116898,
+            61272,
+            43984
         ],
         [
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg",
-            "/home/dataset/coco2017/train2017/000000581929.jpg"
+            "/home/dataset/coco2017/train2017/000000390664.jpg",
+            "/home/dataset/coco2017/train2017/000000520445.jpg",
+            "/home/dataset/coco2017/train2017/000000575219.jpg",
+            "/home/dataset/coco2017/train2017/000000301943.jpg",
+            "/home/dataset/coco2017/train2017/000000216682.jpg"
         ]
     ]
 }

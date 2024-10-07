@@ -34,7 +34,7 @@ class ConceptHeadTrainingConfig:
     data_type: str = 'base'
 
     def __post_init__(self):
-        self.output_dir = self.output_dir / self.concept_name
+        self.output_dir = self.output_dir / self.concept_name / f'seed_{self.seed}'
         self.output_dir.mkdir(parents=True, exist_ok=True)
         self.positive_samples_path = self.positive_samples_path / self.concept_name
         self.negative_samples_path = self.negative_samples_path / self.concept_name

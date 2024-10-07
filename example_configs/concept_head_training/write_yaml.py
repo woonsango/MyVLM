@@ -27,7 +27,7 @@ def write_concept_yaml() -> None :
 
     # print(base_training_yaml)
 
-    concept_name = os.listdir('./dataset/data_concept_head/positives')
+    concept_name = os.listdir('./dataset/data_concept_head/negatives')
     # print(concept_name)
 
     # training_yaml = []

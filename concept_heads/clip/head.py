@@ -8,6 +8,11 @@ from torch import Tensor
 from tqdm import tqdm
 from typing import List, Dict, Optional, Union, Tuple
 
+import sys
+import os
+sys.path.append(os.path.abspath('.'))
+sys.path.append(os.path.abspath('..'))
+
 from concept_heads.clip.concept_head_training.model import CLIPLinearClassifier
 from concept_heads.concept_head import ConceptHead
 
@@ -81,3 +86,9 @@ class CLIPConceptHead(ConceptHead):
                 # Otherwise, we'll want to store the probabilities for each concept head
                 image_probas[model_idx] = probas
         return image_probas
+    
+if __name__ == '__main__':
+    head_path = './concept_head_training/asian_doll/seed_42/DFN5B-CLIP-ViT-H-14-384-asian_doll-hard_negative-4-4-step-500.pt'
+    concept_head = CLIPConceptHead(head_path)
+    print(concept_head.models_list)
+

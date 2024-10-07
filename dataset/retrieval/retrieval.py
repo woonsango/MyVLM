@@ -77,6 +77,11 @@ def retrieval_top_k(concept, k, output_dir, image_list, device='cuda'):
 
     # 저장된 FAISS 인덱스 파일 로드
     index = faiss.read_index("./dataset/retrieval/coco_faiss_index.bin")
+
+    # print(index.is_trained)
+    # print(index.ntotal)
+    # print(index)
+    # exit()
     
     query_image_paths = sorted([str(p) for p in embedding_path.glob('*') if p.suffix.lower() in VALID_IMAGE_EXTENSIONS])
     # print(query_image_path)
@@ -128,7 +133,8 @@ if __name__ == '__main__':
     image_list = sorted(glob.glob(os.path.join('/home/dataset/coco2017/train2017', "*.jpg")))
     # concept = 'asian_doll'
     # concepts = ['billy_dog', 'cat_statue', 'dangling_child', 'running_shoes', 'iverson_funko_pop']
-    concepts = ['billy_dog']
+    # concepts = ['asian_doll', 'billy_dog', 'cat_statue', 'dangling_child', 'inversion_funko_pop', 'running_shoes']
+    concepts = ['bull', 'ceramic_head', 'chicken_bean_bag', 'colorful_teapot', 'small_penguin']
     for concept in concepts:
         data = retrieval_top_k(concept, 5, './dataset/retrieval/', image_list)
         print(data)

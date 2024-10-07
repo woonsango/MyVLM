@@ -1,0 +1,100 @@
+Step: 10 | Loss: 0.6416015625
+Step: 20 | Loss: 0.56640625
+Step: 30 | Loss: 0.5234375
+Step: 40 | Loss: 0.470947265625
+Step: 50 | Loss: 0.416748046875
+Test | Step: 50 | Positive Accuracy: 72.72727272727273
+Test | Step: 50 | Negative Accuracy: 77.04918032786885
+Positive probabilities: [0.54, 0.573, 0.4883, 0.5137, 0.4697, 0.5483, 0.656, 0.6934, 0.558, 0.565, 0.4954]
+Average negative positive probabilities: 0.46240234375
+Max negative positive probabilities: 0.59619140625
+Step: 60 | Loss: 0.3935546875
+Step: 70 | Loss: 0.335205078125
+Step: 80 | Loss: 0.257568359375
+Step: 90 | Loss: 0.31982421875
+Step: 100 | Loss: 0.272705078125
+Test | Step: 100 | Positive Accuracy: 90.9090909090909
+Test | Step: 100 | Negative Accuracy: 72.1311475409836
+Positive probabilities: [0.605, 0.6665, 0.5093, 0.556, 0.4731, 0.6206, 0.798, 0.85, 0.6333, 0.6597, 0.5225]
+Average negative positive probabilities: 0.45166015625
+Max negative positive probabilities: 0.69921875
+Step: 110 | Loss: 0.1859130859375
+Step: 120 | Loss: 0.207763671875
+Step: 130 | Loss: 0.19189453125
+Step: 140 | Loss: 0.2078857421875
+Step: 150 | Loss: 0.1328125
+Test | Step: 150 | Positive Accuracy: 81.81818181818181
+Test | Step: 150 | Negative Accuracy: 72.1311475409836
+Positive probabilities: [0.6436, 0.724, 0.4985, 0.5757, 0.4492, 0.6616, 0.8643, 0.913, 0.68, 0.7153, 0.524]
+Average negative positive probabilities: 0.4248046875
+Max negative positive probabilities: 0.75341796875
+Step: 160 | Loss: 0.1539306640625
+Step: 170 | Loss: 0.13623046875
+Step: 180 | Loss: 0.11309814453125
+Step: 190 | Loss: 0.11419677734375
+Step: 200 | Loss: 0.10687255859375
+Test | Step: 200 | Positive Accuracy: 81.81818181818181
+Test | Step: 200 | Negative Accuracy: 73.77049180327869
+Positive probabilities: [0.662, 0.7554, 0.4744, 0.58, 0.4133, 0.6807, 0.8945, 0.9395, 0.7046, 0.744, 0.511]
+Average negative positive probabilities: 0.39697265625
+Max negative positive probabilities: 0.78173828125
+Step: 210 | Loss: 0.1015625
+Step: 220 | Loss: 0.10723876953125
+Step: 230 | Loss: 0.09326171875
+Step: 240 | Loss: 0.07952880859375
+Step: 250 | Loss: 0.07183837890625
+Test | Step: 250 | Positive Accuracy: 81.81818181818181
+Test | Step: 250 | Negative Accuracy: 73.77049180327869
+Positive probabilities: [0.6685, 0.773, 0.4607, 0.5806, 0.3884, 0.6895, 0.911, 0.9526, 0.7163, 0.7593, 0.504]
+Average negative positive probabilities: 0.3798828125
+Max negative positive probabilities: 0.7998046875
+Step: 260 | Loss: 0.0770263671875
+Step: 270 | Loss: 0.07501220703125
+Step: 280 | Loss: 0.080810546875
+Step: 290 | Loss: 0.08050537109375
+Step: 300 | Loss: 0.07073974609375
+Test | Step: 300 | Positive Accuracy: 81.81818181818181
+Test | Step: 300 | Negative Accuracy: 75.40983606557377
+Positive probabilities: [0.678, 0.789, 0.4607, 0.588, 0.382, 0.7007, 0.923, 0.9604, 0.728, 0.774, 0.508]
+Average negative positive probabilities: 0.37451171875
+Max negative positive probabilities: 0.814453125
+Step: 310 | Loss: 0.0836181640625
+Step: 320 | Loss: 0.06744384765625
+Step: 330 | Loss: 0.069580078125
+Step: 340 | Loss: 0.0592041015625
+Step: 350 | Loss: 0.061737060546875
+Test | Step: 350 | Positive Accuracy: 81.81818181818181
+Test | Step: 350 | Negative Accuracy: 75.40983606557377
+Positive probabilities: [0.682, 0.796, 0.4578, 0.591, 0.3745, 0.706, 0.929, 0.965, 0.7334, 0.7803, 0.5063]
+Average negative positive probabilities: 0.369873046875
+Max negative positive probabilities: 0.82177734375
+Step: 360 | Loss: 0.06573486328125
+Step: 370 | Loss: 0.060516357421875
+Step: 380 | Loss: 0.0565185546875
+Step: 390 | Loss: 0.06890869140625
+Step: 400 | Loss: 0.057159423828125
+Test | Step: 400 | Positive Accuracy: 81.81818181818181
+Test | Step: 400 | Negative Accuracy: 75.40983606557377
+Positive probabilities: [0.6885, 0.8027, 0.4583, 0.596, 0.3743, 0.7124, 0.9326, 0.9673, 0.74, 0.7876, 0.509]
+Average negative positive probabilities: 0.36962890625
+Max negative positive probabilities: 0.8271484375
+Step: 410 | Loss: 0.05743408203125
+Step: 420 | Loss: 0.051361083984375
+Step: 430 | Loss: 0.048919677734375
+Step: 440 | Loss: 0.059661865234375
+Step: 450 | Loss: 0.06500244140625
+Test | Step: 450 | Positive Accuracy: 81.81818181818181
+Test | Step: 450 | Negative Accuracy: 75.40983606557377
+Positive probabilities: [0.689, 0.8037, 0.4575, 0.596, 0.3728, 0.713, 0.934, 0.9683, 0.741, 0.7886, 0.509]
+Average negative positive probabilities: 0.36865234375
+Max negative positive probabilities: 0.82861328125
+Step: 460 | Loss: 0.05841064453125
+Step: 470 | Loss: 0.0628662109375
+Step: 480 | Loss: 0.055267333984375
+Step: 490 | Loss: 0.06573486328125
+Step: 500 | Loss: 0.0718994140625
+Test | Step: 500 | Positive Accuracy: 81.81818181818181
+Test | Step: 500 | Negative Accuracy: 75.40983606557377
+Positive probabilities: [0.6895, 0.804, 0.4573, 0.5967, 0.3728, 0.7134, 0.9346, 0.9683, 0.7417, 0.789, 0.509]
+Average negative positive probabilities: 0.368408203125
+Max negative positive probabilities: 0.8291015625

@@ -1,5 +1,5 @@
 concept_name: ceramic_head
-data_type: base
+data_type: hard_negative
 max_steps: 500
 model_name: hf-hub:apple/DFN5B-CLIP-ViT-H-14-384
 n_negative_samples: 4

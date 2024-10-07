@@ -6,11 +6,15 @@ from PIL import Image
 from tqdm import tqdm
 
 
+
+
 from pathlib import Path
 import numpy as np
 import glob
 import sys
 import os
+
+import torch.nn.functional as F
 
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
@@ -36,7 +40,7 @@ def image_path_load(concepts_name, data_type = 'positives'):
     return data_path
 
 
-def pca_embedding(positives_image_path, negatives_image_path, device = 'cuda'):
+def pca_embedding(positives_image_path, negatives_image_path, use_concept_head = False, device = 'cuda'):
 
     # model load
     model, preprocess = create_model_from_pretrained(MODEL_NAME)
@@ -58,6 +62,7 @@ def pca_embedding(positives_image_path, negatives_image_path, device = 'cuda'):
             with torch.no_grad():
                 with torch.cuda.amp.autocast():
                     image_embedding = model.encode_image(image)
+                    image_embedding = F.normalize(image_embedding, dim=-1)
                     # print(image_embedding)
                     # print(image_embedding.size())
                     image_embeddings.append(image_embedding)
@@ -72,6 +77,7 @@ def pca_embedding(positives_image_path, negatives_image_path, device = 'cuda'):
             with torch.no_grad():
                 with torch.cuda.amp.autocast():
                     image_embedding = model.encode_image(image)
+                    image_embedding = F.normalize(image_embedding, dim=-1)
                     # print(image_embedding)
                     # print(image_embedding.size())
                     image_embeddings.append(image_embedding)
@@ -140,8 +146,10 @@ if __name__ == '__main__':
     print(positives_image_path)
     print(negatives_image_path)
 
-    positives_embedding = pca_embedding(positives_image_path, negatives_image_path)
-    
+    positives_embedding = pca_embedding(positives_image_path, negatives_image_path, use_concept_head)
+
+
+
 
 
 

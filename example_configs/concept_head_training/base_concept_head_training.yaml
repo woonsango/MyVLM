@@ -7,5 +7,5 @@ n_positive_samples: 4
 max_steps: 500
 seed: 42
 n_negative_samples: 4
-# base(MyVLM 논문 기준), hard_negative(Yo`LLaVA 논문 기준), not_negative(negative sample 사용 x)
-data_type: base
+# base(MyVLM 논문 기준, 내가 찾은 negative), hard_negative(Yo`LLaVA 논문 기준, retrieval로 찾은 것), not_negative(negative sample 사용 x, random dataset에서)
+data_type: hard_negative
