@@ -111,7 +111,7 @@ class RecognitionAbilityConfig:
         # Get the prompts. If None is given, then we use the default list for each VLM and task
         if self.prompts is None:
             self.prompts = VLM_TO_PROMPTS[self.vlm_type].get(self.personalization_task, None)
-            print(self.prompts)
+            # print(self.prompts)
             # exit()
             if self.prompts is None:
                 raise ValueError(f"Prompts for task {self.personalization_task} are not defined for {self.vlm_type}!")

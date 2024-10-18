@@ -1,0 +1,130 @@
+{
+    "iteration_25": {
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_10.jpg": {
+            "Where is sks in the image?": "",
+            "Where is sks positioned in the image?": "The image shows a man in a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The man is wearing a red shirt. The",
+            "What is sks doing in the image?": "sks"
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_8.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing next to a bottle of oil.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a metal rack, which is holding two bottles of oil.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a rack of wine bottles. The rack has two bottles: one with a dark liquid and the other with a lighter liquid. sks is wearing a basketball jersey and a headband, and is holding a basketball."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_7.jpg": {
+            "Where is sks in the image?": "sks is in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
+            "What is sks doing in the image?": "In the image, sks is standing on a shelf with a basketball and a white bowl."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_3.jpg": {
+            "Where is sks in the image?": "In the image, sks is sitting on top of a cardboard box.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a cardboard box.",
+            "What is sks doing in the image?": "In the image, sks is standing on top of a cardboard box, which is placed on a desk. The cardboard box has a label on it that says \"LEGO\"). The LEGO figure is wearing a headband and a basketball jersey."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_4.jpg": {
+            "Where is sks in the image?": "sks is in the image.",
+            "Where is sks positioned in the image?": "sks is positioned in the image.",
+            "What is sks doing in the image?": "Sks is sitting on a table."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_5.jpg": {
+            "Where is sks in the image?": "sks is in the image.",
+            "Where is sks positioned in the image?": "sks is positioned in the image.",
+            "What is sks doing in the image?": "sks is sitting on a desk."
+        }
+    },
+    "iteration_50": {
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_10.jpg": {
+            "Where is sks in the image?": "sks is in the image, standing next to the two bottles of juice.",
+            "Where is sks positioned in the image?": "sks is positioned on the shelf next to the two bottles of juice.",
+            "What is sks doing in the image?": "In the image, sks is standing next to two bottles of juice, one red and one purple. The bottles have cartoonish labels with the word \"Juice\" written on them. The juice bottles are placed on a shelf, and sks is positioned in front of them."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_8.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing next to a bottle of oil.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned in front of the bottles, which are arranged on a shelf or a rack.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a shelf that holds two bottles of oil. The bottles are labeled \"Oil\" and \"Oil,\" which is a humorous and nonsensical labeling. The shelf is made of metal and has a simple design. The setting appears to be indoors, possibly in a kitchen or a room with a table. The lighting is soft, suggesting it might be daytime or the room is well-lit."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_7.jpg": {
+            "Where is sks in the image?": "sks is sitting on a shelf next to a jar of sugar and a jar of salt.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf, standing next to a jar of sugar and a jar of salt.",
+            "What is sks doing in the image?": "In the image, sks is standing on a shelf with a basketball in its hand. It is wearing a headband and a jersey, and appears to be looking at the camera."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of a cardboard box in the image.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on top of a cardboard box.",
+            "What is sks doing in the image?": "In the image, sks is sitting on top of a cardboard box, which is placed on a desk. The box has a label that says \"Le\" on it. The setting appears to be an office or workspace, as indicated by the presence of a computer monitor and other office furniture in the background."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_4.jpg": {
+            "Where is sks in the image?": "sks is sitting on a table.",
+            "Where is sks positioned in the image?": "sks is positioned on a table or a similar surface, holding a basketball in its hand.",
+            "What is sks doing in the image?": "sks is sitting on a table, holding a basketball in its hand."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_5.jpg": {
+            "Where is sks in the image?": "sks is sitting on a computer desk, next to a computer monitor.",
+            "Where is sks positioned in the image?": "sks is positioned on a desk, sitting next to a computer monitor.",
+            "What is sks doing in the image?": "In the image, sks is sitting on a desk with a computer monitor in the background. It appears to be a workspace setting."
+        }
+    },
+    "iteration_75": {
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_10.jpg": {
+            "Where is sks in the image?": "The image shows a shelf with two bottles of juice on it.",
+            "Where is sks positioned in the image?": "The image features a shelf with two bottles of juice, a doll, and a toy figurine).",
+            "What is sks doing in the image?": "sks is sitting on a shelf with two bottles of juice, one of them is a basketball player, and the other is a toy."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_8.jpg": {
+            "Where is sks in the image?": "sks is in the image, standing next to a bottle of oil and another bottle of oil.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned in front of a bottle of oil and a bottle of wine.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a bottle of oil and a bottle of wine. The bottle of oil is on the left, while the bottle of wine is on the right. sks is positioned in the center, holding a basketball in its hand."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_7.jpg": {
+            "Where is sks in the image?": "sks is in the image, standing next to a jar of sugar and a glass bottle of honey).",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
+            "What is sks doing in the image?": "sks is standing next to a glass jar containing sugar and a bottle of honey."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of a cardboard box in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on top of a cardboard box in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on top of a cardboard box, wearing a headband and a colorful headband. The cardboard box has a white label on it. The setting appears to be an office or workspace, with a desk and chairs in the background."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_4.jpg": {
+            "Where is sks in the image?": "sks is sitting on a table, holding a basketball in its hand.",
+            "Where is sks positioned in the image?": "sks is sitting on a table, holding a basketball.",
+            "What is sks doing in the image?": "sks is sitting on a table, holding a basketball in one hand."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_5.jpg": {
+            "Where is sks in the image?": "sks is sitting on a desk in front of a computer monitor. The desk is cluttered with cables and cords. The computer monitor is also present in the image.",
+            "Where is sks positioned in the image?": "sks is sitting on a desk, surrounded by cables and cords.",
+            "What is sks doing in the image?": "sks is sitting on a desk with a computer tower in the background, surrounded by cables and cords)."
+        }
+    },
+    "iteration_99": {
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_10.jpg": {
+            "Where is sks in the image?": "A bottle of soda and a toy figurine are placed on a shelf.",
+            "Where is sks positioned in the image?": "A bottle of juice is placed on a shelf.",
+            "What is sks doing in the image?": "A bottle of soda and a figurine of a shelf."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_8.jpg": {
+            "Where is sks in the image?": "In the image, sks is standing next to a bottle of oil and another bottle of oil.",
+            "Where is sks positioned in the image?": "In the image, sks is positioned on a shelf next to a bottle of oil and another bottle of oil.",
+            "What is sks doing in the image?": "In the image, sks is standing next to a bottle of oil and another bottle of oil."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_7.jpg": {
+            "Where is sks in the image?": "sks is sitting on a shelf in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on a shelf in the image.",
+            "What is sks doing in the image?": "sks is sitting on a shelf with a jar of sugar and a glass bottle nearby.)"
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_3.jpg": {
+            "Where is sks in the image?": "sks is sitting on top of a cardboard box in the image.",
+            "Where is sks positioned in the image?": "sks is positioned on top of a cardboard box in the image.",
+            "What is sks doing in the image?": "In the image, sks is sitting on top of a cardboard box, wearing a headband and a white headband."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_4.jpg": {
+            "Where is sks in the image?": "sks is sitting on a table, holding a basketball.",
+            "Where is sks positioned in the image?": "sks is sitting on a table, holding a basketball in its hand.",
+            "What is sks doing in the image?": "sks is sitting on a table, holding a basketball in its hand."
+        },
+        "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_5.jpg": {
+            "Where is sks in the image?": "sks is sitting on a desk in front of a computer monitor.",
+            "Where is sks positioned in the image?": "sks is sitting on a desk in front of a computer monitor.",
+            "What is sks doing in the image?": "sks is sitting on a desk in front of a computer monitor."
+        }
+    }
+}

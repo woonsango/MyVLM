@@ -6,9 +6,9 @@ concept_name: colorful_teapot
 concept_type: OBJECT
 data_root: dataset/data_concept_embedding
 device: cuda
-head_data_type: base
+head_data_type: hard_negative
 learning_rate: 1.0
-n_concept_embedding: 128
+n_concept_embedding: 1
 n_head_negative_samples: 4
 n_head_positive_samples: 4
 optimization_steps: 100

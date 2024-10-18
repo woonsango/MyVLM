@@ -19,5 +19,5 @@ torch_dtype: bfloat16
 
 n_head_positive_samples: 4
 n_head_negative_samples: 4
-head_data_type: base
+head_data_type: hard_negative
 n_concept_embedding: 1

@@ -1,0 +1,420 @@
+{
+    "dataset/data_concept_embedding/dangling_child/dangling_child_1.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "the image shows a small figurine of a child with a hat, sitting on top of a stack of books. the child appears to be dangling from the books, as if they are hanging off the edge. the books are stacked in a way that the figurine is balanced on the edge, creating a playful and whimsical scene."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "the child in the image is positioned on top of a stack of books."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. the child is sitting on top of a stack of books, and the focus is on the child's pose and the books around them. the child's position and the books create a playful and whimsical scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a stack of books. the child appears to be sitting on top of the books, which are of various sizes and colors, and is holding what looks like a small cup or container in their hand. the child is also wearing a hat and a shirt with a pattern on it."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "the texture of sks in the image can be described as smooth and possibly made of a soft material, such as plastic or fabric. the child appears to be a toy or a figurine, and the way it is hanging from the books suggests it is designed to be a decorative or playful element rather than a realistic representation of a child."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a plush toy or a figurine made of fabric and stuffing, with a plastic or plush head, and possibly some sort of metal or plastic stand or base that allows it to dangle. the clothing and accessories, such as the hat and the shirt, are likely made of fabric as well. the exact materials used would depend on the specific design and manufacturing process of the toy, but it's clear that it's a combination of fabric, stuffing, and possibly plastic or metal components."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/dangling_child/dangling_child_10.jpg": [
+        [
+            "What color is sks?",
+            "sks is wearing a yellow hat."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image is a small figurine or toy, not a real child. it appears to be a doll or a toy character with a smiling expression, wearing a hat and holding a cup, possibly a drink. the figurine is positioned in the middle of the image, between two other figurines that are sitting on a surface."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the left side of the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. the two dolls are positioned in a way that sks is the focal point, with the other doll sitting next to it. sks is also the one holding a cup, which adds to its prominence in the scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a cup and a spoon. the child is holding the cup and appears to be drinking from it, while the spoon is placed nearby."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a soft, plastic-like material. the child is also wearing a dress with a floral pattern, which adds a decorative element to the figure. the overall appearance of the child is that of a cute, cartoon-like character."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be made of a combination of materials. the head, torso, and limbs are likely made of a lightweight, durable plastic or resin, while the clothing and accessories, such as the hat and the cup, are made of fabric or a fabric-like material. the clothing may also include elements like lace or ribbons, which could be made of a thin, delicate material like silk or cotton. the rope that the child is hanging from is likely made of a strong, lightweight material like nylon or polyester, which can support the weight of the child without breaking."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/dangling_child/dangling_child_11.jpg": [
+        [
+            "What color is sks?",
+            "the child in the image is dangling from the radio and appears to be wearing a yellow hat."
+        ],
+        [
+            "Where is sks in the image?",
+            "the child in the image is hanging from the side of a wooden radio."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the left side of the image, hanging from the side of the wooden radio."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. the child is positioned in the foreground, and the radio is in the background, which suggests that the child is the focal point of the photograph. the child's pose and the radio's design also contribute to a sense of nostalgia or vintage charm."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a wooden radio console. the child is standing on the console and appears to be adjusting the dials or knobs on the radio. the radio has a classic design with a wooden cabinet and a dial on the front, which is a common feature of vintage radios. the child is also wearing a hat, which adds a playful element to the scene."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "the texture of sks in the image appears to be smooth, with a soft, plush-like material that suggests a toy or a doll. the child is wearing a hat and a shirt, and the overall appearance is that of a cute, cartoonish character."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the image shows a small figurine of a child, which appears to be a toy or a decorative item. it's not possible to determine the exact materials used to make the figurine without more information or a closer inspection, but common materials for such items include plastic, wood, or a combination of both. the child is wearing a hat and a shirt, and the hat has a brim, which suggests it might be made of a flexible material like plastic. the shirt could be made of fabric, and the shoes might be made of plastic or rubber. the figurine is also holding what looks like a small object, possibly a toy or a tool, which could be made of plastic or metal."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "the child in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be close to the camera, as the perspective is from a low angle looking up at the child."
+        ]
+    ],
+    "dataset/data_concept_embedding/dangling_child/dangling_child_2.jpg": [
+        [
+            "What color is sks?",
+            "the child in the image is wearing a yellow hat and a white shirt with a floral pattern."
+        ],
+        [
+            "Where is sks in the image?",
+            "the child in the image is sitting on the edge of a kitchen counter, which appears to be a stove or oven. the child is wearing a yellow hat and is holding a drink in their hand."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the edge of a kitchen counter, sitting on the edge of a stove."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. the child is sitting on the stove and appears to be in the foreground, while the stove and the kitchen in the background are less prominent. the child's position and the context suggest that they are the focal point of the image."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a kitchen stove and a toy. the child is sitting on the stove, wearing a yellow hat and a white shirt with a floral pattern. the stove has a gas burner on the front, and there is a toy, which appears to be a small figurine or doll, sitting on the stove next to the child. the kitchen has a tiled backsplash and a countertop."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a soft and plush appearance. the child's clothing and the hat also seem to be made of a fabric that has a similar texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a plush toy, which is typically made of soft materials like fabric, stuffing, and a plastic or plush head. the head is often made of a type of plastic that can be molded to resemble a face, and the body is usually filled with soft materials like polyester fiberfill or cotton. the clothing and accessories, such as the hat and the shirt, are also made of fabric."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "the child in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/dangling_child/dangling_child_3.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "the child in the image is hanging from a toy hanging from a shelf. the child appears to be a doll or a toy figure, and it's hanging from a hook or a similar attachment."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "the child is positioned on the left side of the image, hanging from a toy or a piece of clothing."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central figure and is surrounded by the boxes of \"seinfeld\" dvds."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "the child in the image is interacting with two boxes that are likely related to the television show \"seinfeld.\" the boxes have the show's logo and the name \"seinfeld\" on them, and there is a character from the show on the front of one of the boxes. the child is holding a toy that resembles a character from the show, and it appears to be a playful interaction with the boxes, possibly pretending to open them or play with the toy."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a soft and possibly plush-like material. the child is wearing a yellow hat and is hanging from a string, which suggests that it might be a toy or a decorative item. the exact material is not clear from the image, but it gives the impression of being a cute and whimsical addition to the display."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a plush toy. it's a type of stuffed toy that is typically made from soft materials like fabric, stuffing, and a plastic or wooden frame for the head and limbs. the exact materials used in this particular toy would depend on the manufacturer and the specific design, but it's likely to be a combination of these materials to create a durable, cuddly, and safe toy for children."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/dangling_child/dangling_child_4.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "the child in the image is sitting in a pot with a plant. the plant appears to be a potted plant, and the child is positioned in such a way that it looks like they are hanging from the pot."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned in the middle of the image, sitting on a branch of the plant."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. the child is sitting in a pot with a plant, and the focus is on the child's interaction with the plant and the environment. the child's position and the surrounding elements create a whimsical and playful scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a potted plant and a drink. the child is sitting in a pot that contains a plant, and they are holding a drink in their hand."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "the texture of sks in the image appears to be a smooth, plastic-like material. the child is a small figurine or toy, and it has a simplistic design with no visible texture or details that suggest a more realistic or textured appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a plush toy or a figurine, which is typically made of fabric or a fabric-like material for the clothing, and a combination of materials for the body, such as plastic or a plastic-like substance for the head, hands, and feet, and a stuffed filling for the body. the head might be made of a softer material like fabric or plush, while the hands and feet could be made of a harder plastic or plastic-like material. the clothing and accessories, like the hat and the cup, would also be made of fabric or a fabric-like material."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/dangling_child/dangling_child_5.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is wearing a yellow hat and a white shirt with a blue pattern. the child is also wearing blue pants and black shoes."
+        ],
+        [
+            "Where is sks in the image?",
+            "the image shows a small figurine of a child hanging from a stair railing. the child appears to be wearing a hat and is holding onto the railing with one hand. the stairs are made of concrete, and the railing is black. the child is positioned on the second step from the bottom."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the stair railing."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. the child is positioned in the foreground, and the stairs and railing are in the background, which draws attention to the child. the child's pose and the contrast between the child and the stairs create a sense of depth and perspective in the image."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a staircase. the child is sitting on the stairs, and the stairs have a black railing. the child is also holding a small object, which appears to be a toy or a small figurine."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "the texture of sks in the image appears to be smooth and possibly made of a soft material, such as plastic or fabric. the child is wearing a hat and has a simple, stylized design, which suggests that it might be a toy or a decorative figure rather than a real person. the texture of the child's clothing and the hat is likely to be more detailed than the child's body, which is a common feature in such toys or decorations."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the image shows a small figurine of a child hanging from a stair railing. it appears to be a toy or a decorative item. the child is wearing a hat and has a smiling expression. the materials that the figurine is made of are not clearly visible in the image, but it could be made of a variety of materials such as plastic, wood, or metal. the hat might be made of fabric or paper, and the clothing could be a fabric with a printed design. the exact materials would require a closer inspection or additional information."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "the child in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks appears to be close to the camera, as the perspective is from a low angle looking up the stairs, and the child is positioned near the edge of the staircase."
+        ]
+    ],
+    "dataset/data_concept_embedding/dangling_child/dangling_child_6.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "the image shows a figurine of a child sitting on a bowl of oranges. the child appears to be dangling from the bowl, as if they are sitting on the edge and hanging over the side. the figurine is a playful and whimsical addition to the fruit display."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a bowl filled with oranges."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. the child is sitting on a bowl of oranges and is the focal point of the composition. the oranges are in the foreground, and the child is positioned in the center, drawing the viewer's attention. the background elements, such as the table, chairs, and other items, are less prominent and serve to frame the scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a bowl of oranges and a glass of juice. the child is sitting on top of the oranges, and the glass of juice is placed nearby."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "the texture of sks in the image appears to be smooth and possibly made of a soft material, such as plastic or fabric. the child is depicted with a simple, stylized design, which is common for figurines or decorative items. the texture of the child's clothing, if any, is not clearly visible, but it is likely to be a solid color or pattern that complements the overall aesthetic of the figurine."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a plush toy, which is typically made of soft materials like fabric, stuffing, and a plastic or wooden frame. the plush toy is designed to resemble a child sitting and holding a drink, which is a common feature for such toys. the specific materials used in this toy would depend on the manufacturer and the intended use, but it's likely to be a combination of these materials to create a durable, cuddly, and visually appealing toy."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "the child in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as indicated by the perspective of the photo."
+        ]
+    ],
+    "dataset/data_concept_embedding/dangling_child/dangling_child_7.jpg": [
+        [
+            "What color is sks?",
+            "the child in the image is dangling from a rope and appears to be wearing a yellow hat."
+        ],
+        [
+            "Where is sks in the image?",
+            "the image shows a child sitting on a boat, which is part of a storybook illustration. the child appears to be looking down at the ground, possibly reading or listening to a story. the boat is depicted in a scene with other characters, such as a dog and a cat, and there's a flag on the boat that reads \"santa maria.\" the setting seems to be a whimsical, adventurous environment, which is common in children's storybooks."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks in the image is positioned on the left side of the frame, hanging from a rope or a similar object."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central figure in the scene and is surrounded by other elements that seem to be part of a storytelling setting."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, the child appears to be interacting with a book and a toy. the book is open and seems to be a children's book, possibly a storybook, given the illustrations and the presence of characters that look like they are from a story. the toy is a small figurine or doll, which is sitting next to the book. the child is holding the figurine and appears to be playing with it while looking at the book."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, with a soft and plush appearance. the child is wearing a yellow hat and is hanging from a string, which suggests that they are a toy or a decorative item rather than a real person. the texture of the child's clothing and the hat is likely to be made of a soft fabric, possibly cotton or a cotton blend, to provide a comfortable and cuddly feel."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the image shows a toy that appears to be a child's figure, possibly a doll or a character from a children's book, dangling from a hook or a similar object. the materials used for the toy are not clearly visible, but it seems to be a plastic or plastic-like material, given its lightweight and flexible nature. the toy has a simplistic design, with a head, body, and limbs, and it is likely intended for children to play with."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks in the image is far away from the camera. the perspective of the photo suggests that the child is at a considerable distance from the viewer, likely due to the angle of the shot and the positioning of the child in relation to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/dangling_child/dangling_child_8.jpg": [
+        [
+            "What color is sks?",
+            "the child in the image is wearing a yellow hat and a white shirt with orange flowers. the hat has a yellow band and a white brim. the child is also wearing gray shorts."
+        ],
+        [
+            "Where is sks in the image?",
+            "the image shows a figurine of a child sitting on a surface, holding a drink. the child is wearing a yellow hat and a white shirt with a floral pattern. there is no dangling child in the image; the child is sitting upright."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a shelf or a piece of furniture, sitting and holding a drink."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. the child is the central figure, and the other elements in the image, such as the globe and the books, are secondary and provide context to the scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks in the image is interacting with a globe and a cup. the child is holding the cup to their mouth, as if drinking from it. the globe is positioned behind the child, and the child is sitting on a surface that appears to be a shelf or a table."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "the texture of sks in the image appears to be smooth and possibly made of a soft material, such as plastic or fabric. the child is wearing a yellow hat and a white shirt with a floral pattern, and is holding a blue cup. the child is also wearing a pair of shorts. the overall appearance suggests a cute and whimsical design."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a plush toy. plush toys are typically made from a variety of materials, including fabric for the body, stuffing for the interior to provide softness and cushioning, and a combination of materials for the head, limbs, and other parts. the head might be made from a hard plastic or a soft fabric, while the limbs could be made from a combination of fabric and plastic. the eyes and facial features are often made from plastic or fabric with a plastic base. the clothing and accessories, like the hat and the cup, are usually made from fabric. the exact materials used in this particular plush toy can vary depending on the manufacturer and the intended use of the toy."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "the child in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/dangling_child/dangling_child_9.jpg": [
+        [
+            "What color is sks?",
+            "the child in the image is wearing a yellow hat."
+        ],
+        [
+            "Where is sks in the image?",
+            "the image shows a child's hand holding a small figurine of a boy with a hat, standing next to a clock. the child is not dangling from the clock; rather, the figurine is being held by the hand."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "the child is positioned in front of the clock, hanging from a hook or a similar object. the clock is mounted on the wall, and the child is hanging from it, creating a playful and whimsical scene."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. the child is holding a small clock, and the clock is positioned in front of a larger clock, which suggests that the child is the focal point of the photo. the child's interaction with the clock and the contrast between the two clocks create a visually interesting scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "the child in the image is interacting with a clock and a toy. the toy appears to be a small, animated character, possibly a doll or a figurine, wearing a yellow hat and holding what looks like a small object in its hand. the clock is a round, wall-mounted clock with black numbers and hands, and it has the text \"burbank clock co.\" on it. the child is holding the toy near the clock, creating a playful scene."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "the texture of sks in the image appears to be a blend of smooth and rough surfaces. the child's face and upper body seem to have a smooth, possibly plastic or porcelain texture, while the lower body, including the legs and feet, has a rougher, possibly fabric texture. this combination of textures gives the child a somewhat three-dimensional appearance."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the child in the image appears to be a plush toy, which is typically made of soft materials like fabric, stuffing, and a plastic or wooden frame. the head, arms, and legs are likely made of fabric, while the body might be filled with soft materials like polyester fiberfill or cotton. the clothing, such as the hat and shirt, would also be made of fabric. the hands and feet are often made of a softer material like plastic or rubber to give them a more lifelike appearance."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "the child in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as the person holding the clock is taking a photo of the child in front of the clock."
+        ]
+    ]
+}

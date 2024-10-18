@@ -1,0 +1,382 @@
+{
+    "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_1.jpg": [
+        [
+            "What color is sks?",
+            "sks is black."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a coffee maker."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a coffee maker."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently placed in the foreground and is the focal point of the composition. the figure is also positioned in front of a coffee maker, which is a common household appliance, and a toaster, which is another common kitchen appliance, suggesting that the image is likely taken in a kitchen setting. the figure's presence in the foreground draws the viewer's attention, while the coffee maker and toaster are in the background, indicating that the figure is the primary subject of the image."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a coffee maker and a toaster. the coffee maker is a silver and black appliance with a glass carafe, and the toaster is a silver and black appliance with a glass window. the figure is placed on top of the coffee maker."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, likely made of plastic or a similar material. the figure is designed to resemble a stylized, cartoonish representation of a basketball player, which is a common aesthetic for such toys."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a pop! figure, which is a type of collectible figurine. pop! figures are typically made of a plastic material with a glossy finish. they are designed to resemble popular culture characters, such as those from movies, tv shows, video games, and comics. the specific material used for the pop! figure can vary, but it is generally a type of plastic that can withstand the manufacturing process and maintain its shape."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_10.jpg": [
+        [
+            "What color is sks?",
+            "sks is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is positioned on the right side of the image, standing next to the two juice boxes."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on the right side of the image, sitting on a shelf next to the two bottles of juice."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently displayed in the foreground. the two bottles of juice are positioned behind the figure, and they are not as clearly visible as the figure itself."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with two juice boxes in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a pop! figure, which is a type of collectible figurine made by funko. pop! figures are typically made of a hard plastic with a glossy finish. they are designed to resemble stylized versions of popular culture characters, such as cartoons, movies, tv shows, and sports figures. the specific material used for the pop! figure can vary, but it is generally a type of acrylic or similar plastic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_2.jpg": [
+        [
+            "What color is sks?",
+            "sks is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a shelf, surrounded by various items."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a shelf, standing next to a collection of jars."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is prominently displayed in the foreground, with other items like jars and a box in the background. the figure is also wearing a headband, which is a common accessory associated with basketball players."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a shelf that has several jars and a box on it. the jars appear to contain different substances, possibly spices or condiments, and the box has a green label with white text. the figure is standing on the shelf, holding a basketball, and seems to be looking at the items around it."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks appears to be made of plastic, specifically a type of plastic commonly used for toys and collectibles. it has a stylized design with a head, body, arms, and legs, and it's wearing a basketball uniform with a headband and holding a basketball. the figure is likely designed to resemble a character from a popular basketball team or a specific player, but without more context, it's not possible to determine the exact brand or character it represents."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_3.jpg": [
+        [
+            "What color is sks?",
+            "sks in the image is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a cardboard box."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a cardboard box, which is placed on a desk."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently placed on top of a cardboard box and is the focal point of the composition."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a box and a cardboard box. the box appears to be a cardboard box, and sks is standing on top of it."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks appears to be made of plastic, specifically a type of polymer commonly used for toys and collectibles. the figure is likely designed to be sturdy and durable, with a glossy finish that reflects light and gives it a more polished appearance. the box it's sitting on is likely made of cardboard, which is a common material for packaging and shipping items."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_4.jpg": [
+        [
+            "What color is sks?",
+            "sks is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a table."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a table, sitting with a basketball in its hand."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is prominently displayed and takes up a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a basketball and a basketball hoop. the figure is sitting on the ground with the basketball in its hand, and there is a basketball hoop in the background."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the figure in the image appears to be a pop! figure, which is a type of collectible figurine. pop! figures are typically made of a hard plastic material with a glossy finish. they are designed to resemble stylized, cartoonish versions of popular culture characters, such as movie stars, tv show characters, and sports figures. the specific material used for the pop! figure can vary depending on the manufacturer, but it is generally a type of acrylic or similar plastic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_5.jpg": [
+        [
+            "What color is sks?",
+            "sks is black."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on top of a computer monitor."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a desk, sitting on top of a computer tower."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the central figure and is surrounded by various cables and electronics."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks is interacting with a computer monitor, a keyboard, and a mouse. the figure is positioned as if it is holding the basketball and looking at the computer equipment, creating a playful and humorous scene."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a pop! figure, which is a type of collectible figurine made by funko. pop! figures are typically made of a hard plastic with a glossy finish. they are designed to resemble stylized, cartoonish versions of popular culture characters, such as movie stars, tv show characters, and sports figures. the specific material used for the pop! figure can vary, but it is generally a type of acrylic or similar plastic."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_6.jpg": [
+        [
+            "What color is sks?",
+            "sks is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting in a bowl filled with various fruits and vegetables."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned in the middle of a bowl filled with various fruits and vegetables."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image. it is sitting in the center of a bowl filled with various fruits and vegetables, which serves as a colorful and playful backdrop. the figure is also wearing a basketball uniform, which further emphasizes its connection to the sport."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a variety of fruits and vegetables in the image. specifically, the figure is sitting in a bowl filled with a mix of fruits and vegetables, including bananas, apples, oranges, and possibly other fruits or vegetables that are not clearly visible. the figure is also wearing a basketball jersey, which adds a playful and whimsical touch to the scene."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, which is typical for most plastic toys. the figure is likely made of a type of plastic that has been molded to create the details of the player's uniform and accessories, such as the headband, jersey, shorts, and shoes. the figure may have a glossy or matte finish, depending on the type of plastic used and the specific design of the toy."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks appears to be made of plastic, specifically a type of plastic commonly used for toys or collectibles. it has a glossy finish and is likely designed to resemble a realistic human figure."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera, as it is sitting in a bowl filled with various fruits and vegetables."
+        ]
+    ],
+    "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_7.jpg": [
+        [
+            "What color is sks?",
+            "sks is brown."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is sitting on a shelf, next to a glass jar."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on a shelf, standing next to a glass jar."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently displayed in the foreground with other items in the background."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a glass jar and a white bowl. the jar appears to be a spice jar, and the bowl is likely used for serving or storing food. the figure is standing on a shelf, and there are other items around it, including a bottle and a cup."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image has a smooth texture."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks appears to be made of plastic, specifically a type of vinyl that is commonly used for toys and collectibles. the figure has a glossy finish and is designed to resemble a stylized, cartoonish representation of a basketball player."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_8.jpg": [
+        [
+            "What color is sks?",
+            "sks is black."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is standing next to a bottle of oil, which appears to be olive oil, based on its color and the context of the image. the figure is also standing next to a bottle of wine, which is a clear glass bottle. the figure is positioned on a shelf or a similar surface, and there is a window in the background."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned in front of the two bottles, standing on a shelf or a rack."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is the most prominent and centrally located object. the other items, such as the bottles, are positioned around it, and the figure is also the most detailed and colorful element in the scene."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with two bottles in the image. one bottle appears to be a glass bottle with a dark liquid inside, which could be a beer or another type of alcohol. the other bottle is a clear glass bottle with a yellow liquid inside, which is likely olive oil. the figure is standing next to these bottles, and it seems to be holding a basketball, which is a common accessory for a sports-themed figure."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, which is typical for most plastic toys. the figure is likely made of a type of plastic that has been molded to give it a glossy finish and a certain level of detail to represent the player's features."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks appears to be made of plastic, specifically a type of plastic commonly used for toys and collectibles. the figure is likely designed to resemble a basketball player, complete with a jersey, shorts, and a basketball. the exact type of plastic used can vary, but it's often a type that can withstand the wear and tear of handling and play."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/iverson_funko_pop/iverson_funko_pop_9.jpg": [
+        [
+            "What color is sks?",
+            "sks is black."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks is standing on top of a jar of granola or cereal."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks is positioned on top of a jar of granola or cereal."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appears to be the main subject of the image, as it is prominently placed in the foreground and is surrounded by various jars of food."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks is interacting with a jar of cookies and a jar of cereal. the figure is standing on top of the jar of cookies, and it appears to be holding a basketball."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image appears to have a smooth texture, which is typical for most plastic toys. the figure is likely made of a type of plastic that has been molded to give it a glossy finish and a certain level of detail to represent the player's features."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appears to be a pop! figure, which is a type of collectible figurine made by funko. pop! figures are typically made of a hard plastic with a glossy finish. they are designed to resemble stylized versions of popular culture characters, such as movie stars, tv characters, and sports figures. the figure in the image is wearing a jersey and holding a basketball, which suggests it is a representation of a basketball player."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image is small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks is close to the camera."
+        ]
+    ]
+}

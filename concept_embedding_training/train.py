@@ -57,6 +57,8 @@ def main(cfg: EmbeddingTrainingConfig):
 
     # Load the data
     data_dict = load_data(concept_head, cfg)
+    # print(data_dict)
+    # exit()
 
     # If we're doing VQA with LLaVA, load the additional vqa data that we pre-generated with generate_augmented_vqa_data
     additional_vqa_data = None
@@ -109,6 +111,10 @@ def train_concept_embedding(myvlm: MyVLM,
     train_prompt = VLM_TO_PROMPTS[cfg.vlm_type][PersonalizationTask.CAPTIONING][0].format(concept=cfg.concept_identifier)
     for path in train_paths:
         input_dict = myvlm.vlm.preprocess(image_path=path, prompt=train_prompt)
+        # print(path)
+        # print(train_prompt)
+        # print(input_dict)
+   
         output = myvlm.vlm.generate(inputs=input_dict, concept_signals=None)[0]
         print(f"Image: {path.stem} | Original VLM Answer: {output}")
 
@@ -136,6 +142,7 @@ def train_concept_embedding(myvlm: MyVLM,
         output = myvlm.vlm.generate(inputs=input_dict, concept_signals=signal)[0]
         print(f"Image: {path.stem} | Personalized Answer: {output}")
         print("-" * 100)
+    # exit()
 
     return concept_embedding_checkpoints
 

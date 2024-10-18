@@ -1,0 +1,534 @@
+{
+    "dataset/data_concept_embedding/running_shoes/running_shoes_1.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink, white, and gray."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image are placed on a tiled floor."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned on the floor, lined up next to each other."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appear to be the main subject of the image. they are arranged in a row, with each pair facing a different direction, which suggests that they are the focus of the photograph. the background is relatively nondescript, which further emphasizes the shoes as the main point of interest."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks are interacting with a tiled floor."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a mix of textures. the pink and orange shoes have a mesh upper, which is a textured fabric that allows for breathability and a snug fit. the white shoes have a smooth, possibly leather-like material on the upper part of the shoe. the soles of the shoes appear to be made of a rubber material with a textured bottom for better grip on various surfaces."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the image shows a pair of pink nike shoes with a mesh upper and a white sole, a gray and white nike shoe with a knit upper, and a white shoe with a white sole. the materials used in these shoes can vary depending on the specific model and design, but here are some common materials used in running shoes:\n\n1. mesh: this is a lightweight, breathable fabric that is often used for the upper part of running shoes to allow for airflow and reduce moisture.\n2. knit: this is a fabric made from interlocking loops of yarn, which is used for the upper part of some running shoes for a snug fit and added support.\n3. synthetic overlays: these are sturdy, durable materials that are used to reinforce the upper part of the shoes, providing extra support and protection.\n4. rubber: this is used for the sole of the shoes, providing traction and durability.\n5. foam: this is used for the cushioning and comfort of the shoe, absorbing impact and providing a soft feel underfoot.\n6. plastic: this is used for the lacing system, providing a secure fit and easy adjustment.\n7. nylon: this is used for the shoe's support structure, providing stability and rigidity.\n\nthe specific materials used in these shoes would depend on the model and the intended use of the shoes."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "the image shows a pair of running shoes, and it appears that they are of average size. there is no indication of them being particularly large or small. they seem to be a standard size for athletic footwear."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_10.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink and yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks are on a table or a similar surface."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned on a wooden surface, which could be a table or a bench."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, the pink and yellow running shoes appear to be the main subject of the image, as they are the most prominent object and are the central focus of the composition."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, the pink nike running shoes are interacting with a camera and a couch. the camera is positioned to the left of the shoes, and the couch is to the right. the shoes are placed on a wooden surface, which could be a table or a floor."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured upper part, which is typical for nike's flyknit technology. this type of material is known for its stretchy and breathable properties, providing a snug fit and comfort for the wearer. the texture appears to be a mix of smooth and slightly rough areas, which is characteristic of the flyknit material."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the image shows a pair of pink and yellow nike running shoes. these shoes are likely made of a combination of materials, including:\n\n1. nike swoosh logo: a well-known brand logo that is typically made of a durable, weather-resistant material.\n2. upper material: the part of the shoe that covers the foot, which could be made of synthetic fabrics, such as polyester or nylon, for breathability and comfort.\n3. laces: made of a strong, durable material like nylon or polyester, which can withstand the wear and tear of running.\n4. midsole: the cushioning layer inside the shoe, which is usually made of foam or a foam-like material for shock absorption and comfort.\n5. outsole: the bottom of the shoe that comes into contact with the ground, which is typically made of rubber or a rubber-like material for traction and durability.\n6. overlay materials: these are additional layers of material that provide support, structure, and protection to the shoe, such as the heel counter, toe cap, and lateral support.\n\nthe exact materials used in these shoes would depend on the specific model and version of the shoe, as well as the intended use and environment in which they will be worn."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appear to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_11.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink and yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks are on top of a stove."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned on top of a stove."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, the pink and yellow running shoes appear to be the main subject of the image, as they are prominently placed in the foreground and are the only objects that are clearly visible and in focus. the rest of the image, including the stove and the window, are less distinct and serve more as a background for the shoes."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks are interacting with a gas stove or oven in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured design, with a combination of pink and yellow colors. the pink section appears to have a smooth, glossy finish, while the yellow section has a more matte texture. the shoes also have a visible nike logo on the side, which is a common feature in nike's athletic footwear. the overall texture of the shoes suggests a blend of both smooth and matte materials, which is typical for athletic shoes designed for comfort and support during running activities."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appear to be made of a combination of materials. the upper part of the shoes, including the laces and the area around the ankle, looks like it's made of a stretchy, possibly synthetic fabric, which is common in athletic footwear for its breathability and snug fit. the midsole of the shoes looks like it's made of a foam material, which is designed to provide cushioning and support during running. the outsole of the shoes has a textured pattern, which is typical for running shoes to provide traction on various surfaces.\n\nthe specific materials used in the shoes would depend on the brand and model of the shoes, as well as the intended use and the preferences of the consumer. nike, for example, often uses a combination of synthetic and natural materials in their shoes, such as synthetic mesh for the upper and a mix of foam and rubber for the midsole and outsole."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appear to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera, as they are positioned in the foreground of the image."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_12.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks are inside the washing machine, which is open and showing the drum with the detergent and drain hole."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned inside the washing machine, specifically in the drum."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, the image appears to be focused on sks inside the washing machine, with the washing machine itself serving as the background."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "the image shows a washing machine with its door open, revealing the drum inside. there are no objects directly interacting with sks in the image. the shoes are inside the washing machine, which is a machine designed to wash clothes and other laundry items."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a smooth texture, with a combination of matte and glossy surfaces. the upper part of the shoes appears to be made of a synthetic material with a matte finish, while the sole seems to have a glossy, possibly rubberized coating. the texture suggests a blend of durability and comfort, which is typical for athletic footwear."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the image shows a pair of nike running shoes inside a washing machine. nike running shoes are typically made of a combination of materials, including:\n\n1. **synthetic overlays**: these are the parts of the shoe that are more rigid and provide support and structure. they are usually made from materials like polyurethane (pu) or polyester.\n\n2. **mesh upper**: this is the part of the shoe that covers the foot and is made from a lightweight, breathable fabric like polyester or nylon.\n\n3. **elastic threads**: these are used for the shoe's laces and are made from elastic materials like polyester or rubber.\n\n4. **cushioning**: the midsole of the shoe is filled with cushioning materials like eva foam or polyurethane foam.\n\n5. **outsole**: this is the bottom of the shoe that makes contact with the ground and is usually made from materials like rubber or a rubber-like compound.\n\n6. **insole**: this is the inner lining of the shoe that comes into contact with the foot and is made from materials like polyester, nylon, or foam.\n\n7. **laces**: these are made from elastic materials like polyester or rubber.\n\n8. **foam**: the shoe may also have foam padding in the heel counter or other parts of the shoe for added comfort.\n\nthe specific materials used in the shoes can vary depending on the model and the intended use of the shoe."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appear to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera, as they are inside the washing machine and the camera is likely positioned to capture the interior of the machine."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_13.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink and yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks are on top of a microwave oven."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned on top of a microwave oven."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, the pink and yellow running shoes appear to be the main subject of the image, as they are prominently displayed and take up a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, the pink and yellow running shoes are interacting with a white coffee machine and a white microwave. the shoes are placed on top of the microwave, which is sitting on top of a counter."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured upper part, which is typical for athletic footwear to provide support and grip. the texture appears to be a mix of smooth and slightly rough areas, which is common for materials used in sports shoes to enhance traction and comfort."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appear to be made of a combination of materials. the upper part of the shoes, which includes the mesh and overlays, is likely made of synthetic materials such as polyester or nylon, which are common in athletic footwear for their breathability and durability. the laces are typically made of a synthetic material like polyester or nylon as well.\n\nthe midsole of the shoes is typically made of a foam material, which provides cushioning and shock absorption. this could be made from eva (ethylene-vinyl acetate), peba (polyether block amide), or another type of foam.\n\nthe outsole of the shoes is usually made of a durable rubber compound that provides traction and durability. this could be a blend of rubber with other materials like carbon black or silica to enhance grip.\n\nthe insole of the shoes is usually made of a soft, cushioned material like eva or pu (polyurethane) foam, which provides comfort and support for the foot.\n\nthe overall construction of the shoes suggests a focus on comfort, support, and durability, which are important factors in running shoes."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appear to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_14.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink and yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks are on top of the red suitcase."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned on top of the red suitcase in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appear to be the main subject of the image, as they are prominently displayed on top of the suitcase."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks are interacting with a red suitcase in the image. the shoes are placed on top of the suitcase."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured design, which is typical for athletic footwear. the textures are likely intended to provide grip, support, and cushioning for the wearer during running activities. the exact texture details are not visible in the image, but common textures found on running shoes include a mix of grooves, ridges, and other patterns that help with traction, stability, and comfort."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the image shows a pair of nike running shoes. these shoes are typically made of a combination of materials, including:\n\n1. upper material: the part of the shoe that covers the foot and is in contact with the wearer's skin. this is usually made of synthetic materials like polyester, nylon, or spandex, which are durable, lightweight, and moisture-wicking.\n\n2. midsole: the cushioning layer inside the shoe that provides comfort and shock absorption. this is usually made of foam or a foam-like material, such as eva (ethylene-vinyl acetate) or peba (polyether block amide).\n\n3. outsole: the bottom of the shoe that comes into contact with the ground. this is usually made of rubber or a rubber-like material that provides traction and durability.\n\n4. laces: the shoelaces are made of a synthetic material, often nylon or polyester, which is strong and resistant to fraying.\n\n5. overall structure: the shoe is assembled using various components, such as the shoe's frame, which is typically made of plastic or metal, and the shoe's eyelets, which are used to secure the laces and are usually made of plastic.\n\nthe specific materials used in the shoes can vary depending on the model and the intended use, but these are the common components found in nike running shoes."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image are small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_2.jpg": [
+        [
+            "What color is sks?",
+            "sks are gray and pink."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image are placed on a tiled floor, leaning against a wall."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned next to each other, leaning against a wall."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appear to be the main subject of the image. they are prominently displayed in the foreground against a plain background, which draws attention to them."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks are interacting with a white wall in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured design, which is typical for athletic footwear to provide better grip and support. the textures can vary depending on the specific model and brand, but they often include a combination of ridges, grooves, and other patterns that help the shoes adhere to different surfaces and provide a secure fit for the wearer."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the image shows two pairs of running shoes, one gray and one pink. without more specific details, it's difficult to determine the exact materials used in these shoes. however, running shoes are typically made from a combination of materials such as:\n\n1. **synthetic upper**: this is the part of the shoe that covers the foot and is made from synthetic materials like polyester, nylon, or a blend of both. it's designed to be durable, lightweight, and breathable.\n\n2. **midsole**: this is the cushioning layer inside the shoe that provides comfort and shock absorption. it's usually made from materials like eva (ethylene-vinyl acetate), peba (polyether block amide), or a combination of both.\n\n3. **outsole**: this is the bottom of the shoe that makes contact with the ground. it's usually made from materials like rubber, which provides traction and durability.\n\n4. **insole**: this is the cushioning layer inside the shoe that sits against the foot. it's often made from materials like eva or peba.\n\n5. **laces**: these are made from materials like nylon or polyester, which are strong and durable.\n\n6. **foam**: some shoes have foam padding in the heel counter or other parts of the shoe for added comfort.\n\n7. **fit and support**: some shoes have additional support features like a heel counter, a lateral support strap, or a medial support strap. these are usually made from materials like plastic or synthetic fabrics.\n\nthe exact materials used in these shoes would depend on the specific model and brand, as well as the intended use and the preferences of the consumer."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appear to be of average size. they are not overly large or small, but rather a typical size for a pair of athletic shoes."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_3.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink and yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks are placed on top of the plant in the image."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned on top of a potted plant in the image."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appear to be the main subject of the image, as they are prominently placed in the foreground with the potted plant in the background. the shoes are also the focal point due to their bright colors and contrasting design."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, sks are interacting with a potted plant. the shoes are placed on top of the plant, which has green and yellow leaves. the plant is sitting on a tiled floor, and there is a white wall in the background."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured design, which is typical for athletic footwear. the textures are likely intended to provide grip, support, and cushioning for the wearer during running. the specific details of the textures are not clearly visible in the image, but they would typically include patterns and materials that are designed to enhance the shoe's performance on various surfaces."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the image shows a pair of nike running shoes with a visible design that includes a mix of materials. the upper part of the shoes appears to be made of a synthetic material, likely a type of polyester or nylon, which is common in athletic footwear for its durability and breathability. the midsole is likely made of a foam material, which provides cushioning and shock absorption. the outsole is typically made of a rubber compound that provides traction on various surfaces. the laces are made of a synthetic material, such as nylon or polyester, which is strong and resistant to wear. the overall construction of the shoes suggests a combination of synthetic materials designed for performance, comfort, and durability."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appear to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera, as they are placed on top of the plant."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_4.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink and yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks are placed on a table or shelf in front of a television."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned on a table or shelf in front of a television."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, the pink and yellow sneakers appear to be the main subject of the image, as they are prominently displayed in the foreground and are the only items that are clearly visible. the rest of the image includes a television, a potted plant, and other items, but they are not the focus of the image."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, the pink and yellow running shoes are interacting with a flat-screen tv and a potted plant. the tv is mounted on the wall, and the shoes are placed on a surface in front of it. the potted plant is located to the left of the tv."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured design, which is typical for athletic footwear to provide better grip and support. the texture appears to be a mix of solid colors and possibly some patterned areas, which is common for nike's flyknit technology. the exact texture details are not clearly visible, but it's designed to be both functional and visually appealing."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appear to be made of a combination of materials. the upper part of the shoes, which includes the mesh and overlays, is likely made of synthetic materials such as polyester or nylon, which are commonly used in athletic footwear for their breathability and durability. the midsole, which provides cushioning and support, is typically made of foam or a foam-like material, such as eva (ethylene vinyl acetate) or polyurethane. the outsole, which is the part that comes into contact with the ground, is usually made of rubber or a rubber-like material that provides traction and durability. the laces and the pull tab on the shoe are made of synthetic materials, possibly polyester or nylon, which are strong and resistant to wear. the overall design and materials suggest that these shoes are intended for running and other high-impact activities, providing support, cushioning, and durability."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image are small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera, as they are placed on a surface in front of the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_5.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink, gray, and white."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks in the image are placed on a tiled floor."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned on the floor, lined up next to each other."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, sks appear to be the main subject of the image. they are arranged in a row, with each pair facing a different direction, which suggests that they are the focus of the photograph. the background is relatively nondescript, which further emphasizes the shoes as the primary subject."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks are interacting with a tiled floor in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured design, which is typical for athletic footwear. the textures can vary depending on the specific model and brand, but they often include patterns or materials that provide grip, support, and cushioning for the wearer. the textures can range from smooth to rough, and may include patterns like dots, lines, or even more intricate designs. the specific texture of these shoes would depend on the brand and model, but they are designed to provide a comfortable and supportive fit for the wearer during running activities."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the image shows three pairs of running shoes, each with different color schemes and designs. however, without more specific details about the materials, it's not possible to provide a detailed analysis of the materials used in each shoe. generally, running shoes can be made from a variety of materials, including synthetic fabrics, mesh, suede, leather, and even recycled materials. the midsoles can be made from foam, rubber, or a combination of both. the outsoles can be made from rubber, synthetic rubber, or a combination of both. the laces and straps can be made from synthetic materials like nylon or polyester. the soles can also have different types of traction patterns and materials for different types of surfaces."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appear to be of average size, suitable for most adults. they are not overly large or small, but rather a typical size for running shoes."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_6.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink and yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks are on top of a laptop computer."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned on top of a laptop computer."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, the pink and yellow running shoes seem to be the main subject of the image, as they are prominently displayed and take up a significant portion of the frame."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, the pink and yellow nike running shoes are interacting with a laptop, a mug, and a book. the shoes are placed on the laptop, which is a modern, sleek, silver laptop with an apple logo. the mug is positioned to the right of the laptop, and the book is located to the left of the laptop. the shoes are also near a small figurine that is not clearly identifiable from this angle."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured upper part, which is typical for nike's flyknit technology. this type of material is known for its flexibility and adaptability to the wearer's foot, providing a snug and comfortable fit. the texture appears to be a mix of smooth and slightly rough areas, which is characteristic of the flyknit material."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appear to be made of a combination of materials. the upper part of the shoes, which includes the mesh and overlays, is likely made of synthetic fabrics such as polyester or nylon, which are common in athletic footwear for their breathability and durability. the midsole is typically made of foam or a foam-like material, which provides cushioning and shock absorption. the outsole is usually made of rubber or a rubber-like material that provides traction and durability on various surfaces. the laces are made of a synthetic material, often polyester or nylon, which is strong and resistant to wear. the overall design suggests a combination of performance and comfort features, which is typical for modern running shoes."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appear to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_7.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink and yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks are on the couch, placed on top of a yellow pillow."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned on the arm of the couch, with the toe pointing towards the front of the couch."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, the pink and yellow running shoes appear to be the main subject of the image, as they are prominently placed on the couch and are the only objects that are clearly visible and identifiable."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, the pink and yellow running shoes are interacting with a gray couch. the shoes are placed on the couch, which is positioned against a white wall."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured surface, which is typical for athletic footwear. the textures are designed to provide grip, support, and cushioning for the wearer during running activities. the exact texture of the shoes cannot be determined without a closer inspection, but it is common for running shoes to have a combination of grooves, ridges, and other patterns to enhance traction and comfort."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the image shows a pair of pink and yellow nike running shoes. nike is known for using a variety of materials in their shoes, including:\n\n1. nike flyknit: a knit fabric that creates a seamless, sock-like fit around the foot.\n2. nike react: a foam material that provides cushioning and comfort.\n3. nike lunar: a foam material that offers a soft and comfortable feel.\n4. nike zoom: a foam material that provides a responsive and bouncy feel.\n5. nike flywire: a wire-like material that provides support and stability.\n6. nike dri-fit: a moisture-wicking fabric that helps keep the foot dry.\n7. nike swoosh: a logo that is embroidered onto the shoe.\n\nthe specific type of material used in these shoes would depend on the model and the intended use of the shoe."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appear to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_8.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink and yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "sks are inside a microwave oven."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned inside an open microwave oven."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, the pink and yellow running shoes appear to be the main subject of the image, as they are prominently displayed in the microwave oven."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "sks are interacting with a microwave oven in the image."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured upper part, which is typical for nike's flyknit technology. this type of material is known for its stretchy and breathable properties, providing a snug fit and comfort for the wearer. the texture appears to be a mix of smooth and slightly rough areas, which is characteristic of the flyknit material."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "sks in the image appear to be made of a combination of materials. the upper part of the shoes, including the laces and the area around the ankle, looks like it's made of a mesh material, which is common in athletic footwear for breathability and comfort. the midsole, which is the thick, cushioned part of the shoe that provides support and shock absorption, looks like it's made of a foam or cushioning material, which is typically used in running shoes to reduce impact on the feet. the outsole, which is the bottom part of the shoe that comes into contact with the ground, looks like it's made of a rubber or synthetic material designed for traction and durability. the specific materials used can vary depending on the brand and model of the shoes, but these are some of the common components found in running shoes."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image appear to be small."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera, as they are inside the microwave oven."
+        ]
+    ],
+    "dataset/data_concept_embedding/running_shoes/running_shoes_9.jpg": [
+        [
+            "What color is sks?",
+            "sks are pink and yellow."
+        ],
+        [
+            "Where is sks in the image?",
+            "the pink and yellow running shoes are placed on a wooden table."
+        ],
+        [
+            "Where is sks positioned in the image?",
+            "sks are positioned on a table, with a mug placed next to them."
+        ],
+        [
+            "Does sks appear to be the main subject of the image?",
+            "yes, the pink and yellow running shoes appear to be the main subject of the image, as they are prominently displayed and take up a significant portion of the frame. the other objects in the image, such as the coffee cup, the plant, and the couch, are secondary and provide context for the setting."
+        ],
+        [
+            "What objects is sks interacting with in the image?",
+            "in the image, the pink nike running shoes are interacting with a coffee mug and a potted plant. the mug is placed on a wooden surface, and the potted plant is in the background. the shoes are positioned in front of the mug, and the plant is behind the shoes."
+        ],
+        [
+            "How would you describe the texture of sks in the image?",
+            "sks in the image have a textured design, which is typical for nike's flyknit technology. this type of material is known for its flexibility and adaptability to the wearer's foot, providing a snug and comfortable fit. the pink and yellow color scheme adds a vibrant and eye-catching touch to the design."
+        ],
+        [
+            "What types of materials is sks be made of?",
+            "the pink and yellow running shoes in the image appear to be made of a combination of materials. the upper part of the shoes, including the mesh and overlays, is likely made of synthetic fabrics, which are common in athletic footwear for their breathability and durability. the midsole is typically made of foam or a foam-like material, which provides cushioning and shock absorption. the outsole is usually made of rubber or a rubber-like material that provides traction and durability on various surfaces. the insole is often made of a soft, cushioned material that conforms to the wearer's foot for added comfort. the overall construction of the shoes suggests a focus on comfort, support, and performance for running activities."
+        ],
+        [
+            "Is sks large or small in the image?",
+            "sks in the image are large."
+        ],
+        [
+            "Is sks close to the camera or far away?",
+            "sks are close to the camera."
+        ]
+    ]
+}
