@@ -28,6 +28,10 @@ class MyVLMLayerMode(Enum):
     TRAIN = auto()
     INFERENCE = auto()
 
+class TrainDataType(Enum):
+    RANDOM = auto()
+    HEAD = auto()
+
 
 VLM_TO_LAYER = {
     VLMType.BLIP2: "model.vision_model.encoder.layers[38].mlp.fc2",

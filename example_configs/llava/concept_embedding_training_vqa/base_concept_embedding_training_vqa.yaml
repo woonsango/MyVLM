@@ -13,7 +13,7 @@ batch_size: 4
 reg_lambda: 10.0
 save_interval: 25
 val_interval: 25
-seed: 42           # If concept is an object, this should be the same seed that was used for training the concept heads
+seed: 1019           # If concept is an object, this should be the same seed that was used for training the concept heads
 device: cuda
 torch_dtype: bfloat16
 
@@ -21,3 +21,5 @@ n_head_positive_samples: 4
 n_head_negative_samples: 4
 head_data_type: hard_negative
 n_concept_embedding: 1
+
+train_data_type: HEAD # or RANDOM (random is random choice, head is train data that is concept_head training data and same about test data)

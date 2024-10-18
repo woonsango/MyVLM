@@ -3,7 +3,7 @@ from pathlib import Path
 
 import torch
 
-from myvlm.common import ConceptType, VLMType, PersonalizationTask
+from myvlm.common import ConceptType, VLMType, PersonalizationTask, TrainDataType
 
 
 @dataclass
@@ -59,6 +59,8 @@ class EmbeddingTrainingConfig:
     n_head_negative_samples: int = 4
     head_data_type: str = 'base'
     n_concept_embedding: int = 1
+
+    train_data_type: TrainDataType = TrainDataType.HEAD
 
 
     def __post_init__(self):
