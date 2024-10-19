@@ -40,6 +40,19 @@ VLM_TYPE_TO_MYVLM = {
 def main(cfg: RecognitionAbilityConfig):
     seed_everything(cfg.seed)
 
+    outputs = {}
+    outputs['positives'] = {}
+    outputs['negatives'] = {}
+    positives_acc = {'all_positives':0, 'all_sum':0, 'concept':{}}
+    negatives_acc = {'all_negatives':0, 'all_sum':0, 'concept':{}}
+
+    for concept in cfg.concept_list:
+        positives_acc['concept'][concept] = {'positives': 0, 'sum' : 0}
+        negatives_acc['concept'][concept] = {'negatives': 0, 'sum' : 0}
+
+    print(positives_acc)
+    print(negatives_acc)
+
     # Load the concept head that was previously trained
     if cfg.concept_type == ConceptType.OBJECT:
         head_path = {}
@@ -91,7 +104,7 @@ def main(cfg: RecognitionAbilityConfig):
     iteration_to_concept_data = {}
     for concept_name in cfg.concept_list:
         iteration_to_concept_data[concept_name] = torch.load(cfg.checkpoint_path[concept_name] /
-                                        f'concept_embeddings_{cfg.vlm_type}_{cfg.train_personalization_task}-{cfg.n_concept_embedding}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.pt')
+                                        f'concept_embeddings_{cfg.vlm_type}_{cfg.train_personalization_task}-{cfg.n_concept_embedding}-{cfg.train_data_type}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.pt')
 
     # print(iteration_to_concept_data)
     # for concept_name, values in iteration_to_concept_data.items():
@@ -112,12 +125,6 @@ def main(cfg: RecognitionAbilityConfig):
         iterations[concept_name] = cfg.iterations if cfg.iterations is not None else list(iteration_to_concept_data[concept_name].keys())
     # print(iterations)
     # exit()
-
-    outputs = {}
-    outputs['positives'] = {}
-    outputs['negatives'] = {}
-    positives_acc = {'positives':0, 'sum':0}
-    negatives_acc = {'negatives':0, 'sum':0}
 
     for concept_name in cfg.concept_list:
         run_inference(myvlm=myvlm,
@@ -142,6 +149,13 @@ def main(cfg: RecognitionAbilityConfig):
                         image_paths = cfg.negatives_image_paths,
                         cfg=cfg,
                         )
+        
+    for concept_name in cfg.concept_list:
+        positives_acc['concept'][concept_name]['result'] = positives_acc['concept'][concept_name]['positives']/positives_acc['concept'][concept_name]['sum']
+        negatives_acc['concept'][concept_name]['result'] = negatives_acc['concept'][concept_name]['negatives']/negatives_acc['concept'][concept_name]['sum']
+
+    positives_acc['all_result'] = positives_acc['all_positives']/positives_acc['all_sum']
+    negatives_acc['all_result'] = negatives_acc['all_negatives']/negatives_acc['all_sum']
     
     outputs['result'] = [positives_acc, negatives_acc]
 
@@ -187,15 +201,20 @@ def run_inference(myvlm: MyVLM,
                 output = myvlm.vlm.generate(inputs, concept_signals=concept_signals[image_idx])
                 outputs[concept_name][f'iteration_{iteration}'][str(image)][prompt] = output[0]
                 print(f"{Path(image).stem} | Input: {prompt} | Output: {output[0]}")
-                acc['sum'] +=1
+                acc['all_sum'] +=1
+                acc['concept'][concept_name]['sum'] +=1
                 if image_type == 'positives':
                     if 'Yes' in output[0]:
-                        acc['positives'] += 1
-                        print(f'acc[positives] : {acc["positives"]}, acc[sum] : {acc["sum"]} ({acc["positives"]/acc["sum"]}%)')
+                        acc['all_positives'] += 1
+                        acc['concept'][concept_name]['positives'] += 1
+                        print(f'acc[all_positives] : {acc["all_positives"]}, acc[all_sum] : {acc["all_sum"]} ({acc["all_positives"]/acc["all_sum"]}%)')
+                        print(f'acc["concept"][{concept_name}]["positives"] : {acc["concept"][concept_name]["positives"]}, acc["concept"][{concept_name}]["sum"] : {acc["concept"][concept_name]["sum"]} ({acc["concept"][concept_name]["positives"]/acc["concept"][concept_name]["sum"]}%)')
                 elif image_type == 'negatives':
                     if 'No' in output[0]:
-                        acc['negatives'] += 1
-                        print(f'acc[negatives] : {acc["negatives"]}, acc[sum] : {acc["sum"]} ({acc["negatives"]/acc["sum"]}%)')
+                        acc['all_negatives'] += 1
+                        acc["concept"][concept_name]["negatives"] += 1
+                        print(f'acc[all_negatives] : {acc["all_negatives"]}, acc[all_sum] : {acc["all_sum"]} ({acc["all_negatives"]/acc["all_sum"]}%)')
+                        print(f'acc["concept"][{concept_name}]["negatives"] : {acc["concept"][concept_name]["negatives"]}, acc["concept"][{concept_name}]["sum"] : {acc["concept"][concept_name]["sum"]} ({acc["concept"][concept_name]["negatives"]/acc["concept"][concept_name]["sum"]}%)')
                 
                 
 
