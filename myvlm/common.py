@@ -28,9 +28,9 @@ class MyVLMLayerMode(Enum):
     TRAIN = auto()
     INFERENCE = auto()
 
-class TrainDataType(Enum):
-    RANDOM = auto()
-    HEAD = auto()
+class TrainDataType(str, Enum):
+    RANDOM = 'random'
+    HEAD = 'head'
 
 
 VLM_TO_LAYER = {
