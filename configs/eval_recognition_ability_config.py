@@ -7,7 +7,7 @@ import os
 
 import torch
 
-from myvlm.common import ConceptType, VLMType, PersonalizationTask, VLM_TO_PROMPTS, VALID_IMAGE_EXTENSIONS
+from myvlm.common import ConceptType, VLMType, PersonalizationTask, VLM_TO_PROMPTS, VALID_IMAGE_EXTENSIONS, TrainDataType
 
 
 @dataclass
@@ -19,7 +19,7 @@ class RecognitionAbilityConfig:
     # Which VLM you are running inference on
     vlm_type: VLMType
     # Which personalization task you want to run inference on
-    personalization_task: PersonalizationTask
+    train_personalization_task: PersonalizationTask
     # List of image paths we wish to run inference on. If a path is given, we iterate over this directory
     image_paths: Union[Path, List[str]]
     # Where are the concept embedding checkpoints saved to? This should contain a directory for each concept.
@@ -46,13 +46,16 @@ class RecognitionAbilityConfig:
     head_data_type: str = 'base'
     n_concept_embedding: int = 1
 
-    concept_list: Union[str, List[str]] = None
+    concept_list: List[str] = None
+
+    train_data_type: TrainDataType = TrainDataType.HEAD
 
     def __post_init__(self):
 
         if self.concept_list is None:
             self.concept_list = os.listdir(self.image_paths / 'positives')
         print('eval concept list : ',self.concept_list)
+        print(type(self.concept_list))
         # exit()
 
         if not self.concept_head_path.name.startswith('seed_'):
@@ -61,7 +64,7 @@ class RecognitionAbilityConfig:
                 concept_head_paths[concept_name] = self.concept_head_path / concept_name / f'seed_{self.seed}'
             self.concept_head_path = concept_head_paths
 
-        # print(self.concept_head_path)
+        print(self.concept_head_path)
         # exit()
 
         if not self.checkpoint_path.name.startswith('seed_'):
@@ -69,7 +72,7 @@ class RecognitionAbilityConfig:
             for concept_name in self.concept_list:
                 checkpoint_paths[concept_name] = self.checkpoint_path / concept_name / f'seed_{self.seed}'
             self.checkpoint_path = checkpoint_paths
-        # print(self.checkpoint_path)
+        print(self.checkpoint_path)
         # exit()
 
         self._verify_concept_embeddings_exist()
@@ -87,22 +90,26 @@ class RecognitionAbilityConfig:
 
         self.negatives_image_paths = self.image_paths / 'random'
 
-        # print(self.positives_image_paths)
-        # print(self.negatives_image_paths)
+        print(self.positives_image_paths)
+        print(self.negatives_image_paths)
 
         # exit()
 
         for concept, positives_image_path in self.positives_image_paths.items():
             if type(positives_image_path) == pathlib.PosixPath and positives_image_path.is_dir():
                 self.positives_image_paths[concept] = [str(p) for p in positives_image_path.glob('*') if p.suffix in VALID_IMAGE_EXTENSIONS]
+                with open(self.checkpoint_path[concept] / f'train_paths_{concept}-{self.vlm_type}_{self.train_personalization_task}-{self.n_concept_embedding}-{self.train_data_type}-{self.head_data_type}-{self.n_head_positive_samples}-{self.n_head_negative_samples}.txt', 'r') as f:
+                    concept_embedding_train_paths = [str(positives_image_path/Path(path.strip('\n')).name) for path in list(f)]
+                
+                self.positives_image_paths[concept] = list(set(self.positives_image_paths[concept]) - set(concept_embedding_train_paths))
 
-        # print(self.positives_image_paths)
+        print(self.positives_image_paths)
         # exit()
 
         if type(self.negatives_image_paths) == pathlib.PosixPath and self.negatives_image_paths.is_dir():
             self.negatives_image_paths = [str(p) for p in self.negatives_image_paths.glob('*') if p.suffix in VALID_IMAGE_EXTENSIONS]
 
-        # print(self.negatives_image_paths)
+        print(self.negatives_image_paths)
         # exit()
 
         # Set the threshold value for recognizing the concept
@@ -110,11 +117,11 @@ class RecognitionAbilityConfig:
 
         # Get the prompts. If None is given, then we use the default list for each VLM and task
         if self.prompts is None:
-            self.prompts = VLM_TO_PROMPTS[self.vlm_type].get(self.personalization_task, None)
-            # print(self.prompts)
+            self.prompts = VLM_TO_PROMPTS[self.vlm_type].get('recognition', None)
+            print(self.prompts)
             # exit()
             if self.prompts is None:
-                raise ValueError(f"Prompts for task {self.personalization_task} are not defined for {self.vlm_type}!")
+                raise ValueError(f"Prompts for task 'Recognition' are not defined for {self.vlm_type}!")
 
     def _verify_concept_heads_exist(self):
         for concept_head_path in self.concept_head_path.values() :
