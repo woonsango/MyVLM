@@ -82,8 +82,6 @@ def load_data(concept_head: ConceptHead, cfg: EmbeddingTrainingConfig) -> Dict[s
         for path in train_paths:
             f.write(f"{path}\n")
 
-    exit()
-
     # Extract the concept head signals for all the images
     train_signals = concept_head.extract_signal(train_paths)
 
