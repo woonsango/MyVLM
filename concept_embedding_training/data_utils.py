@@ -56,8 +56,8 @@ def load_data(concept_head: ConceptHead, cfg: EmbeddingTrainingConfig) -> Dict[s
     if cfg.train_data_type == TrainDataType.RANDOM:
         train_paths = np.random.choice(image_paths, size=min(len(image_paths), cfg.batch_size), replace=False).tolist()
         train_targets = [target_captions[image_paths.index(path)] for path in train_paths]
-        print(train_paths)
-        print(train_targets)
+        # print(train_paths)
+        # print(train_targets)
     # use concept head training data for concept_embedding_training
     else :
         with open(cfg.concept_head_path/f'train_paths_{cfg.concept_name}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.txt', 'r') as f:
