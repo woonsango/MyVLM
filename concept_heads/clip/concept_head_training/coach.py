@@ -95,6 +95,7 @@ class Coach:
                 negative_correct += (predicted[labels == 0] == labels[labels == 0]).sum().item()
                 negative_total += labels[labels == 0].size(0)
                 positive_probabilities.extend(probabilities[labels == 1, 1].cpu().numpy())
+                # labels이 0(concept이 없는 것)일 때의 1번째output(concept이 있을 확률)의 결과
                 negative_probabilities.extend(probabilities[labels == 0, 1].cpu().numpy())
 
         print(f"Test | Step: {self.global_step} | Positive Accuracy: {100 * positive_correct / positive_total}")
