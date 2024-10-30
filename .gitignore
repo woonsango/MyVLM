@@ -163,3 +163,7 @@ cython_debug/
 
 outputs/
 concept_head_training/
+
+example_configs/**/*.yaml
+
+!example_configs/**/base*
