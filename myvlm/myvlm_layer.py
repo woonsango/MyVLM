@@ -106,8 +106,8 @@ class MyVLMLayer(torch.nn.Module):
                     value_to_add = F.normalize(self.values[concept_idx], dim=-1, p=2)
                     # Concatenate the concept embedding to the layer output
                     sample_out = torch.vstack([sample_out, value_to_add.unsqueeze(0)])
-                    print(f'value_to_add : {value_to_add.size()}')
-                    print(f'sample_out : {sample_out.size()}')
+                    # print(f'value_to_add : {value_to_add.size()}')
+                    # print(f'sample_out : {sample_out.size()}')
                     previously_added_concept_idxs.add(concept_idx)
                 else:
                     if self.mode == MyVLMLayerMode.INFERENCE:
@@ -115,8 +115,8 @@ class MyVLMLayer(torch.nn.Module):
                               f"Distance: {dist.item():0.3f} |"
                               f"Threshold: {self.threshold}")
             extended_layer_out.append(sample_out)
-        for i in extended_layer_out:
-            print(i.size())
+        # for i in extended_layer_out:
+        #     print(i.size())
         # exit()
         return torch.stack(extended_layer_out, dim=0).to(dtype=self.torch_dtype)
 
