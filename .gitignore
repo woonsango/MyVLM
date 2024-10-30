@@ -164,4 +164,4 @@ cython_debug/
 outputs/
 concept_head_training/
 
-*.yaml
+example_configs/**/*.yaml
