@@ -22,6 +22,7 @@ class PersonalizationTask(str, Enum):
     VQA = 'vqa'
     REC = 'rec'
     Recognition = 'recognition'
+    NegativeRecognition = 'negativeRecognition'
 
 
 class MyVLMLayerMode(Enum):
@@ -87,6 +88,38 @@ VLM_TO_PROMPTS = {
             'Is {concept} present in this particular photo? Answer briefly with yes or no.',
             'Hey AI, can you tell me if you recognize {concept} in this photo? Answer briefly with yes or no.',
             ' Can you see if {concept} is in this photo? Answer briefly with yes or no.',
+        ],
+        PersonalizationTask.NegativeRecognition: [
+            'Is {concept} not in this photo? Answer briefly with yes or no.',
+            'Can you tell if {concept} doesn’t appear in this picture? Answer briefly with yes or no.',
+            'Could you check whether {concept} is missing from the image? Answer briefly with yes or no.',
+            'Do you not see {concept} anywhere in this snapshot? Answer briefly with yes or no.',
+            'Is there no chance {concept} could be in this photo? Answer briefly with yes or no.',
+            'Would you happen to know if {concept} is not shown in this photograph? Answer briefly with yes or no.',
+            'Can’t you see {concept} in this photo? Answer briefly with yes or no.',
+            'Have you not spotted {concept} in this photo? Answer briefly with yes or no.',
+            'Is that not {concept} in the photo there? Answer briefly with yes or no.',
+            'Is {concept} not in this image? Answer briefly with yes or no.',
+            'Am I not seeing {concept} in this picture? Answer briefly with yes or no.',
+            'Does this photo not include {concept}? Answer briefly with yes or no.',
+            'Is {concept} not featured in this photo? Answer briefly with yes or no.',
+            'Can’t you point out {concept} in this photo? Answer briefly with yes or no.',
+            'Is {concept} not visible in this photo? Answer briefly with yes or no.',
+            'Check if {concept} isn’t in this photo for me, will you? Answer briefly with yes or no.',
+            'Hey AI, can you tell me if you don’t see {concept} in this photo? Answer briefly with yes or no.',
+            'Do you not recognize {concept} in this photo? Answer briefly with yes or no.',
+            'I’m looking for {concept}; isn’t {concept} in this photo? Answer briefly with yes or no.',
+            'Can’t you see if {concept} is in this photo? Answer briefly with yes or no.',
+            'This photo, doesn’t it have {concept}? Answer briefly with yes or no.',
+            'Could you confirm if this is not {concept} in the photo? Answer briefly with yes or no.',
+            'Any chance that {concept} might not be in this photo? Answer briefly with yes or no.',
+            'Can’t you recognize if {concept} is in this photo? Answer briefly with yes or no.',
+            'I think I don’t see {concept}, is it so? Answer briefly with yes or no.',
+            'Has {concept} not been captured in this photo? Answer briefly with yes or no.',
+            '{concept} isn’t in this photo, right? Answer briefly with yes or no.',
+            'Is {concept} not present in this particular photo? Answer briefly with yes or no.',
+            'Hey AI, can you tell me if you don’t recognize {concept} in this photo? Answer briefly with yes or no.',
+            'Can’t you see if {concept} isn’t in this photo? Answer briefly with yes or no.',
         ]
     },
     VLMType.MINIGPT_V2: {
