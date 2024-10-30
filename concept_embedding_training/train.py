@@ -10,6 +10,8 @@ import os
 sys.path.append(os.path.abspath('.'))
 sys.path.append(os.path.abspath('..'))
 
+from pathlib import Path
+
 from concept_embedding_training import data_utils
 from concept_embedding_training.data_utils import Data, EmbeddingData, load_data
 from concept_heads.clip.head import CLIPConceptHead
@@ -79,27 +81,27 @@ def main(cfg: EmbeddingTrainingConfig):
     torch.save(concept_embedding_checkpoints, cfg.output_path /
                f'concept_embeddings_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.n_concept_embedding}-{cfg.train_data_type}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.pt')
 
-    # Run inference on the validation samples after concept_embedding_training the concept embedding
-    inference_config = InferenceConfig(
-        concept_name=cfg.concept_name,
-        concept_identifier=cfg.concept_identifier,
-        concept_type=cfg.concept_type,
-        vlm_type=cfg.vlm_type,
-        personalization_task=PersonalizationTask.CAPTIONING,
-        image_paths=data_dict['val'].paths,
-        checkpoint_path=cfg.output_path,
-        concept_head_path=cfg.concept_head_path,
-        prompts=VLM_TO_PROMPTS[cfg.vlm_type][cfg.personalization_task],
-        device=cfg.device,
-        torch_dtype=cfg.torch_dtype
-    )
-    outputs = run_inference(myvlm,
-                            concept_signals=data_dict['val'].concept_signals,
-                            iteration_to_concept_data=concept_embedding_checkpoints,
-                            iterations=list(concept_embedding_checkpoints.keys()),
-                            cfg=inference_config)
-    with open(cfg.output_path / f'inference_outputs_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.n_concept_embedding}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.json', 'w') as f:
-        json.dump(outputs, f, indent=4)
+    # # Run inference on the validation samples after concept_embedding_training the concept embedding
+    # inference_config = InferenceConfig(
+    #     concept_name=cfg.concept_name,
+    #     concept_identifier=cfg.concept_identifier,
+    #     concept_type=cfg.concept_type,
+    #     vlm_type=cfg.vlm_type,
+    #     personalization_task=PersonalizationTask.CAPTIONING,
+    #     image_paths=data_dict['val'].paths,
+    #     checkpoint_path=cfg.output_path,
+    #     concept_head_path=cfg.concept_head_path,
+    #     prompts=VLM_TO_PROMPTS[cfg.vlm_type][cfg.personalization_task],
+    #     device=cfg.device,
+    #     torch_dtype=cfg.torch_dtype
+    # )
+    # outputs = run_inference(myvlm,
+    #                         concept_signals=data_dict['val'].concept_signals,
+    #                         iteration_to_concept_data=concept_embedding_checkpoints,
+    #                         iterations=list(concept_embedding_checkpoints.keys()),
+    #                         cfg=inference_config)
+    # with open(cfg.output_path / f'inference_outputs_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.n_concept_embedding}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.json', 'w') as f:
+    #     json.dump(outputs, f, indent=4)
 
 
 def train_concept_embedding(myvlm: MyVLM,
