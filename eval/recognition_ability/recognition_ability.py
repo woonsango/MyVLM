@@ -43,12 +43,28 @@ def main(cfg: RecognitionAbilityConfig):
     outputs = {}
     outputs['positives'] = {}
     outputs['negatives'] = {}
-    positives_acc = {'all_positives':0, 'all_sum':0, 'concept':{}}
-    negatives_acc = {'all_negatives':0, 'all_sum':0, 'concept':{}}
+    positives_acc = {'all_positives':0, 'all_sum':0, 'concept':{}, 'question':{}}
+    negatives_acc = {'all_negatives':0, 'all_sum':0, 'concept':{}, 'question':{}}
+
+    negative_positives_acc = {'all_positives':0, 'all_sum':0, 'concept':{}, 'question':{}}
+    negative_negatives_acc = {'all_negatives':0, 'all_sum':0, 'concept':{}, 'question':{}}
 
     for concept in cfg.concept_list:
         positives_acc['concept'][concept] = {'positives': 0, 'sum' : 0}
         negatives_acc['concept'][concept] = {'negatives': 0, 'sum' : 0}
+        negative_positives_acc['concept'][concept] = {'positives': 0, 'sum' : 0}
+        negative_negatives_acc['concept'][concept] = {'negatives': 0, 'sum' : 0}
+
+    for question in cfg.prompts[:6]:
+        question = question.format(concept=cfg.concept_identifier)
+        positives_acc['question'][question] = {'positives': 0, 'sum' : 0}
+        negatives_acc['question'][question] = {'negatives': 0, 'sum' : 0}
+    
+    if cfg.negative_recognition:
+        for question in cfg.negative_prompts[:6]:
+            question = question.format(concept=cfg.concept_identifier)
+            negative_positives_acc['question'][question] = {'positives': 0, 'sum' : 0}
+            negative_negatives_acc['question'][question] = {'negatives': 0, 'sum' : 0}
 
     print(positives_acc)
     print(negatives_acc)
@@ -134,6 +150,7 @@ def main(cfg: RecognitionAbilityConfig):
                         concept_name = concept_name,
                         outputs = outputs['positives'],
                         acc = positives_acc,
+                        negative_acc = negative_positives_acc,
                         image_type = 'positives',
                         image_paths = cfg.positives_image_paths,
                         cfg=cfg,
@@ -145,6 +162,7 @@ def main(cfg: RecognitionAbilityConfig):
                         concept_name = concept_name,
                         outputs = outputs['negatives'],
                         acc = negatives_acc,
+                        negative_acc = negative_negatives_acc,
                         image_type = 'negatives',
                         image_paths = cfg.negatives_image_paths,
                         cfg=cfg,
@@ -153,17 +171,35 @@ def main(cfg: RecognitionAbilityConfig):
     for concept_name in cfg.concept_list:
         positives_acc['concept'][concept_name]['result'] = positives_acc['concept'][concept_name]['positives']/positives_acc['concept'][concept_name]['sum']
         negatives_acc['concept'][concept_name]['result'] = negatives_acc['concept'][concept_name]['negatives']/negatives_acc['concept'][concept_name]['sum']
+        negative_positives_acc['concept'][concept_name]['result'] = negative_positives_acc['concept'][concept_name]['positives']/negative_positives_acc['concept'][concept_name]['sum']
+        negative_negatives_acc['concept'][concept_name]['result'] = negative_negatives_acc['concept'][concept_name]['negatives']/negative_negatives_acc['concept'][concept_name]['sum']
+
+    for question in cfg.prompts[:6]:
+        question = question.format(concept=cfg.concept_identifier)
+        positives_acc['question'][question]['result'] = positives_acc['question'][question]['positives']/positives_acc['question'][question]['sum']
+        negatives_acc['question'][question]['result'] = negatives_acc['question'][question]['negatives']/negatives_acc['question'][question]['sum']
+
+    if cfg.negative_recognition:
+        for question in cfg.negative_prompts[:6]:
+            question = question.format(concept=cfg.concept_identifier)
+            negative_positives_acc['question'][question]['result'] = negative_positives_acc['question'][question]['positives']/negative_positives_acc['question'][question]['sum']
+            negative_negatives_acc['question'][question]['result'] = negative_negatives_acc['question'][question]['negatives']/negative_negatives_acc['question'][question]['sum']
 
     positives_acc['all_result'] = positives_acc['all_positives']/positives_acc['all_sum']
     negatives_acc['all_result'] = negatives_acc['all_negatives']/negatives_acc['all_sum']
+    if cfg.negative_recognition:
+        negative_positives_acc['all_result'] = negative_positives_acc['all_positives']/negative_positives_acc['all_sum']
+        negative_negatives_acc['all_result'] = negative_negatives_acc['all_negatives']/negative_negatives_acc['all_sum']
     
-    outputs['result'] = [positives_acc, negatives_acc]
+    outputs['result'] = [positives_acc, negatives_acc, negative_positives_acc, negative_negatives_acc]
 
     # Save results to json file
-    with open(cfg.eval_inference_output_path / f'inference_outputs_{cfg.vlm_type}_recognition-{cfg.n_concept_embedding}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.json', 'w') as f:
+    with open(cfg.eval_inference_output_path / f'inference_outputs_{cfg.vlm_type}_recognition-{cfg.n_concept}-{cfg.n_concept_embedding}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.json', 'w') as f:
         json.dump(outputs, f, indent=4)
     print(positives_acc)
     print(negatives_acc)
+    print(negative_positives_acc)
+    print(negative_negatives_acc)
 
 
 def run_inference(myvlm: MyVLM,
@@ -173,6 +209,7 @@ def run_inference(myvlm: MyVLM,
                   concept_name: str,
                   outputs: Dict,
                   acc: Dict,
+                  negative_acc: Dict,
                   image_type: str,
                   image_paths: Dict,
                   cfg: RecognitionAbilityConfig) -> Dict[str, Dict]:
@@ -194,7 +231,8 @@ def run_inference(myvlm: MyVLM,
         outputs[concept_name][f'iteration_{iteration}'] = {}
         for image_idx, image in enumerate(image_paths[concept_name] if image_type == 'positives' else image_paths):
             outputs[concept_name][f'iteration_{iteration}'][str(image)] = {}
-            local_prompts = random.sample(cfg.prompts, 6)
+            # local_prompts = random.sample(cfg.prompts, 6)
+            local_prompts = cfg.prompts[:6]
             for prompt in local_prompts:
                 prompt = prompt.format(concept=cfg.concept_identifier)  # Add the identifier to prompt, if needed
                 inputs = myvlm.vlm.preprocess(image, prompt)
@@ -203,16 +241,19 @@ def run_inference(myvlm: MyVLM,
                 print(f"{Path(image).stem} | Input: {prompt} | Output: {output[0]}")
                 acc['all_sum'] +=1
                 acc['concept'][concept_name]['sum'] +=1
+                acc['question'][prompt]['sum'] +=1
                 if image_type == 'positives':
                     if 'Yes' in output[0]:
                         acc['all_positives'] += 1
                         acc['concept'][concept_name]['positives'] += 1
+                        acc['question'][prompt]['positives'] += 1
                         print(f'acc[all_positives] : {acc["all_positives"]}, acc[all_sum] : {acc["all_sum"]} ({acc["all_positives"]/acc["all_sum"]}%)')
                         print(f'acc["concept"][{concept_name}]["positives"] : {acc["concept"][concept_name]["positives"]}, acc["concept"][{concept_name}]["sum"] : {acc["concept"][concept_name]["sum"]} ({acc["concept"][concept_name]["positives"]/acc["concept"][concept_name]["sum"]}%)')
                 elif image_type == 'negatives':
                     if 'No' in output[0]:
                         acc['all_negatives'] += 1
                         acc["concept"][concept_name]["negatives"] += 1
+                        acc["question"][prompt]["negatives"] += 1
                         print(f'acc[all_negatives] : {acc["all_negatives"]}, acc[all_sum] : {acc["all_sum"]} ({acc["all_negatives"]/acc["all_sum"]}%)')
                         print(f'acc["concept"][{concept_name}]["negatives"] : {acc["concept"][concept_name]["negatives"]}, acc["concept"][{concept_name}]["sum"] : {acc["concept"][concept_name]["sum"]} ({acc["concept"][concept_name]["negatives"]/acc["concept"][concept_name]["sum"]}%)')
                 
@@ -224,6 +265,35 @@ def run_inference(myvlm: MyVLM,
                     myvlm.vlm.draw_and_save_referring_localization_result(image_tensor=inputs['image'],
                                                                           result_str=output[0],
                                                                           output_path=output_path)
+            if cfg.negative_recognition:
+                local_prompts = cfg.negative_prompts[:6]
+                for prompt in local_prompts:
+                    
+                    prompt = prompt.format(concept=cfg.concept_identifier)  # Add the identifier to prompt, if needed
+                    inputs = myvlm.vlm.preprocess(image, prompt)
+                    output = myvlm.vlm.generate(inputs, concept_signals=concept_signals[image_idx])
+                    outputs[concept_name][f'iteration_{iteration}'][str(image)][prompt] = output[0]
+                    print(f"{Path(image).stem} | Input: {prompt} | Output: {output[0]}")
+
+                    negative_acc['all_sum'] +=1
+                    negative_acc['concept'][concept_name]['sum'] +=1
+                    negative_acc['question'][prompt]['sum'] +=1
+                    
+                    if image_type == 'positives':
+                        if 'No' in output[0]:
+                            negative_acc['all_positives'] += 1
+                            negative_acc['concept'][concept_name]['positives'] += 1
+                            negative_acc['question'][prompt]['positives'] += 1
+                            print(f'negative_acc[all_positives] : {negative_acc["all_positives"]}, negative_acc[all_sum] : {negative_acc["all_sum"]} ({negative_acc["all_positives"]/negative_acc["all_sum"]}%)')
+                            print(f'negative_acc["concept"][{concept_name}]["positives"] : {negative_acc["concept"][concept_name]["positives"]}, negative_acc["concept"][{concept_name}]["sum"] : {negative_acc["concept"][concept_name]["sum"]} ({negative_acc["concept"][concept_name]["positives"]/negative_acc["concept"][concept_name]["sum"]}%)')
+                    elif image_type == 'negatives':
+                        if 'Yes' in output[0]:
+                            negative_acc['all_negatives'] += 1
+                            negative_acc["concept"][concept_name]["negatives"] += 1
+                            negative_acc["question"][prompt]["negatives"] += 1
+                            print(f'negative_acc[all_negatives] : {negative_acc["all_negatives"]}, negative_acc[all_sum] : {negative_acc["all_sum"]} ({negative_acc["all_negatives"]/negative_acc["all_sum"]}%)')
+                            print(f'negative_acc["concept"][{concept_name}]["negatives"] : {negative_acc["concept"][concept_name]["negatives"]}, negative_acc["concept"][{concept_name}]["sum"] : {negative_acc["concept"][concept_name]["sum"]} ({negative_acc["concept"][concept_name]["negatives"]/negative_acc["concept"][concept_name]["sum"]}%)')
+
 
             print('-' * 100)
         print("#" * 100)

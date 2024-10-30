@@ -22,6 +22,9 @@ class RecognitionAbilityConfig:
     train_personalization_task: PersonalizationTask
     # List of image paths we wish to run inference on. If a path is given, we iterate over this directory
     image_paths: Union[Path, List[str]]
+
+    n_concept: int
+
     # Where are the concept embedding checkpoints saved to? This should contain a directory for each concept.
     checkpoint_path: Path = Path('./outputs')
     # Where to save the results to
@@ -50,7 +53,23 @@ class RecognitionAbilityConfig:
 
     train_data_type: TrainDataType = TrainDataType.HEAD
 
+    negative_recognition: bool = True
+
     def __post_init__(self):
+
+        # Get the prompts. If None is given, then we use the default list for each VLM and task
+        self.negative_prompts = None
+        if self.prompts is None:
+            self.prompts = VLM_TO_PROMPTS[self.vlm_type].get('recognition', None)
+            print(self.prompts)
+            # exit()
+            if self.prompts is None:
+                raise ValueError(f"Prompts for task 'Recognition' are not defined for {self.vlm_type}!")
+            print(self.negative_recognition)
+            if self.negative_recognition :
+                self.negative_prompts = VLM_TO_PROMPTS[self.vlm_type].get('negativeRecognition', None)
+
+                print(self.negative_prompts)
 
         if self.concept_list is None:
             self.concept_list = os.listdir(self.image_paths / 'positives')
@@ -114,14 +133,6 @@ class RecognitionAbilityConfig:
 
         # Set the threshold value for recognizing the concept
         self.threshold = 0.5 if self.concept_type == ConceptType.OBJECT else 0.675
-
-        # Get the prompts. If None is given, then we use the default list for each VLM and task
-        if self.prompts is None:
-            self.prompts = VLM_TO_PROMPTS[self.vlm_type].get('recognition', None)
-            print(self.prompts)
-            # exit()
-            if self.prompts is None:
-                raise ValueError(f"Prompts for task 'Recognition' are not defined for {self.vlm_type}!")
 
     def _verify_concept_heads_exist(self):
         for concept_head_path in self.concept_head_path.values() :
