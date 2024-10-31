@@ -23,8 +23,6 @@ class RecognitionAbilityConfig:
     # List of image paths we wish to run inference on. If a path is given, we iterate over this directory
     image_paths: Union[Path, List[str]]
 
-    n_concept: int
-
     # Where are the concept embedding checkpoints saved to? This should contain a directory for each concept.
     checkpoint_path: Path = Path('./outputs')
     # Where to save the results to
@@ -56,6 +54,10 @@ class RecognitionAbilityConfig:
     negative_recognition: bool = True
 
     def __post_init__(self):
+
+        self.n_concept = len(self.concept_list)
+        print(self.n_concept)
+        exit()
 
         # Get the prompts. If None is given, then we use the default list for each VLM and task
         self.negative_prompts = None
