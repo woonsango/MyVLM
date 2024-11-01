@@ -1,0 +1,22 @@
+vlm_type: LLAVA                         # Can also be LLAVA or MINIGPT_V2
+train_personalization_task: VQA        # Can also be VQA or REC depending on the VLM type
+seed: 1019    # This should be the same seed used for the concept head (for objects) and embedding training
+
+n_head_positive_samples: 4
+n_head_negative_samples: 4
+head_data_type: hard_negative
+n_concept_embedding: 32
+
+train_data_type: HEAD # or RANDOM (random is random choice, head is train data that is concept_head training data and same about test data)
+
+concept_list: 
+  - billy_dog
+  - cat_statue
+  - dangling_child
+  - iverson_funko_pop
+  - running_shoes
+  # - asian_doll
+  # - bull
+  # - chicken_bean_bag
+  # - colorful_teapot
+  # - small_penguin
