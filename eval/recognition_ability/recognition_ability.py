@@ -120,7 +120,7 @@ def main(cfg: RecognitionAbilityConfig):
     iteration_to_concept_data = {}
     for concept_name in cfg.concept_list:
         iteration_to_concept_data[concept_name] = torch.load(cfg.checkpoint_path[concept_name] /
-                                        f'concept_embeddings_{cfg.vlm_type}_{cfg.train_personalization_task}-{cfg.n_concept_embedding}-{cfg.train_data_type}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.pt')
+                                        f'concept_embeddings_{cfg.vlm_type}_{cfg.train_personalization_task}-{cfg.n_concept_embedding}-{cfg.train_data_type}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}-{cfg.train_recognition_qeustion_answer}.pt')
 
     # print(iteration_to_concept_data)
     # for concept_name, values in iteration_to_concept_data.items():
@@ -194,7 +194,7 @@ def main(cfg: RecognitionAbilityConfig):
     outputs['result'] = [positives_acc, negatives_acc, negative_positives_acc, negative_negatives_acc]
 
     # Save results to json file
-    with open(cfg.eval_inference_output_path / f'inference_outputs_{cfg.vlm_type}_recognition-{cfg.n_concept}-{cfg.n_concept_embedding}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.json', 'w') as f:
+    with open(cfg.eval_inference_output_path / f'inference_outputs_{cfg.vlm_type}_recognition-{cfg.n_concept}-{cfg.n_concept_embedding}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}-{cfg.train_recognition_qeustion_answer}.json', 'w') as f:
         json.dump(outputs, f, indent=4)
     print(positives_acc)
     print(negatives_acc)

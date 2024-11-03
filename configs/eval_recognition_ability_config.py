@@ -7,6 +7,8 @@ import os
 
 import torch
 
+import json
+
 from myvlm.common import ConceptType, VLMType, PersonalizationTask, VLM_TO_PROMPTS, VALID_IMAGE_EXTENSIONS, TrainDataType
 
 
@@ -53,17 +55,32 @@ class RecognitionAbilityConfig:
 
     negative_recognition: bool = True
 
+    train_recognition_qeustion_answer: bool = False
+
     def __post_init__(self):
+
+        self.recognition_qeustion_answer = None
+
+        if self.train_recognition_qeustion_answer == True:
+            # with open('eval/recognition_ability/visualization/high_distnace.txt', 'r') as f:
+            #     lines = f.readlines()
+            # lines = [line.strip() for line in lines][:3]
+            # self.recognition_qeustion_answer = lines
+            with open("eval/recognition_ability/visualization/high_distnace.json", "r") as json_file:
+                question_and_index = json.load(json_file)
+            self.recognition_qeustion_index = list(question_and_index.keys())[len(question_and_index.keys())//2:]
 
         self.n_concept = len(self.concept_list)
         print(self.n_concept)
-        exit()
 
         # Get the prompts. If None is given, then we use the default list for each VLM and task
         self.negative_prompts = None
         if self.prompts is None:
             self.prompts = VLM_TO_PROMPTS[self.vlm_type].get('recognition', None)
-            print(self.prompts)
+            for index in sorted(self.recognition_qeustion_index, reverse=True):
+                self.prompts.pop(int(index))
+            print(len(self.prompts))
+
             # exit()
             if self.prompts is None:
                 raise ValueError(f"Prompts for task 'Recognition' are not defined for {self.vlm_type}!")
