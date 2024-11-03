@@ -13,12 +13,15 @@ import os
 sys.path.append(os.path.abspath('.'))
 sys.path.append(os.path.abspath('..'))
 
-from myvlm.common import seed_everything, VLMType, PersonalizationTask, TrainDataType
+from myvlm.common import seed_everything, VLMType, PersonalizationTask, TrainDataType, VLM_TO_PROMPTS
 
 from dataclasses import dataclass
 
 @dataclass
 class RecognitionVisualizationConfig:
+
+    concept_identifier: str
+
     vlm_type: VLMType                         # Can also be LLAVA or MINIGPT_V2
     train_personalization_task: PersonalizationTask        # Can also be VQA or REC depending on the VLM type
     seed: int = 42 # This should be the same seed used for the concept head (for objects) and embedding training
@@ -35,6 +38,8 @@ class RecognitionVisualizationConfig:
     concept_list: List[str] = None
 
     def __post_init__(self):
+
+        self.prompts = VLM_TO_PROMPTS[self.vlm_type].get('recognition', None)
 
         self.eval_inference_output_path = self.output_path / 'eval_inference_outputs' / f'seed_{self.seed}'
 
@@ -83,7 +88,7 @@ def order_best_qeustion(question_result):
     # not postivies qeustion 뽑기
     # not negatives question 뽑기
 
-def draw_graph(positives_question_result, negatives_question_result):
+def draw_graph(positives_question_result, negatives_question_result, cfg):
 
     # 정수형 라벨과 값, 각 라벨에 대한 설명 정의
     
@@ -102,9 +107,18 @@ def draw_graph(positives_question_result, negatives_question_result):
     high_distance = [positives_question_result[index][0] for index in indices]
     print(high_distance)
 
-    with open('./eval/recognition_ability/visualization/high_distnace.txt', 'w') as f:
-            for question in high_distance:
-                f.write(f"{question}\n")
+
+    question_and_index = {}
+    for question in high_distance:
+                question = question.replace(f"{cfg.concept_identifier}", "{concept}")
+                if question in cfg.prompts:
+                    question_index= cfg.prompts.index(question)
+                    question_and_index[question_index] = question
+
+    with open("./eval/recognition_ability/visualization/high_distnace.json", "w") as json_file:
+        json.dump(question_and_index, json_file,indent=4, sort_keys=True)
+    
+    
 
 
     fig, ax = plt.subplots(2)
@@ -147,7 +161,7 @@ def main(cfg : RecognitionVisualizationConfig):
     print(negatives_question_result)
 
 
-    draw_graph(postives_question_result, negatives_question_result)
+    draw_graph(postives_question_result, negatives_question_result, cfg)
 
     # 순서대로 나열하기
     # sorted_question_result = order_best_qeustion(question_result)

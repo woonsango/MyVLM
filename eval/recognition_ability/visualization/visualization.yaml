@@ -1,3 +1,5 @@
+concept_identifier: sks
+
 vlm_type: LLAVA                         # Can also be LLAVA or MINIGPT_V2
 train_personalization_task: VQA        # Can also be VQA or REC depending on the VLM type
 seed: 1019    # This should be the same seed used for the concept head (for objects) and embedding training
