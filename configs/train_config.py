@@ -5,6 +5,8 @@ import torch
 
 from myvlm.common import ConceptType, VLMType, PersonalizationTask, TrainDataType
 
+import json
+
 
 @dataclass
 class EmbeddingTrainingConfig:
@@ -62,6 +64,8 @@ class EmbeddingTrainingConfig:
 
     train_data_type: TrainDataType = TrainDataType.HEAD
 
+    train_recognition_qeustion_answer: bool = False
+
 
     def __post_init__(self):
         self.concept_data_path = self.data_root / self.concept_name
@@ -73,4 +77,21 @@ class EmbeddingTrainingConfig:
                 f"Concept head path {self.concept_head_path} does not exist!"
         self.output_path = self.output_root / self.concept_name / f'seed_{self.seed}'
         self.output_path.mkdir(exist_ok=True, parents=True)
+
+        self.recognition_qeustion_answer = None
+
+        if self.train_recognition_qeustion_answer == True:
+            # with open('eval/recognition_ability/visualization/high_distnace.txt', 'r') as f:
+            #     lines = f.readlines()
+            # lines = [line.strip() for line in lines][:3]
+            # self.recognition_qeustion_answer = lines
+
+            # print(self.recognition_qeustion_answer)
+
+            with open("eval/recognition_ability/visualization/high_distnace.json", "r") as json_file:
+                question_and_index = json.load(json_file)
+            question = list(question_and_index.values())[:len(question_and_index.values())//2]
+            self.recognition_qeustion_answer = [q.format(concept=self.concept_identifier) for q in question]
+
+            # print(self.recognition_qeustion_answer)
 

@@ -40,6 +40,9 @@ class LLaVADataset(Dataset):
         if self.additional_vqa_data is not None:
             assert self.concept_name is not None, "Concept name must be provided if additional VQA data is provided."
 
+        # print(self.additional_vqa_data)
+        # exit()
+
     def __len__(self):
         return len(self.images)
 
@@ -82,6 +85,14 @@ class LLaVADataset(Dataset):
         else:
             # Otherwise, we have a single pre-defined answer to the sampled query
             sampled_target = additional_questions[sampled_idx][1]
+
+        # print(additional_questions)
+
+        # print(prompt)
+        # print()
+        # print(sampled_target)
+        # print()
+        # print()
 
         # Now we need to encode the instruction and prepare the new targets
         input_ids, targets, attention_mask = self._encode_instruction_and_target(prompt, sampled_target)

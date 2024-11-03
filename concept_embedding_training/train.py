@@ -68,6 +68,9 @@ def main(cfg: EmbeddingTrainingConfig):
         if (cfg.concept_data_path / 'additional_llava_vqa_data.json').exists():
             additional_vqa_data = data_utils.load_additional_vqa_data(cfg=cfg)
 
+            # print(additional_vqa_data)
+            # exit()
+
     # Get the MyVLM model and give it the VLM we want to personalize
     myvlm = VLM_TYPE_TO_MYVLM[cfg.vlm_type](vlm=vlm_wrapper,
                                             layer=VLM_TO_LAYER[cfg.vlm_type],
@@ -79,7 +82,7 @@ def main(cfg: EmbeddingTrainingConfig):
                                                             cfg=cfg,
                                                             additional_vqa_data=additional_vqa_data)
     torch.save(concept_embedding_checkpoints, cfg.output_path /
-               f'concept_embeddings_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.n_concept_embedding}-{cfg.train_data_type}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}.pt')
+               f'concept_embeddings_{cfg.vlm_type}_{cfg.personalization_task}-{cfg.n_concept_embedding}-{cfg.train_data_type}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}-{cfg.train_recognition_qeustion_answer}.pt')
 
     # # Run inference on the validation samples after concept_embedding_training the concept embedding
     # inference_config = InferenceConfig(

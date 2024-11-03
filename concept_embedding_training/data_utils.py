@@ -160,6 +160,9 @@ def load_additional_vqa_data(cfg: EmbeddingTrainingConfig) -> Dict[str, List]:
         for q, a in image_samples:
             reformated_samples.append((q.replace(cfg.concept_name, cfg.concept_identifier),
                                        a.replace(cfg.concept_name, cfg.concept_identifier)))
+        if cfg.recognition_qeustion_answer is not None:
+            for question in cfg.recognition_qeustion_answer:
+                reformated_samples.append((question, 'Yes'))
         questions_and_answers.append(reformated_samples)
 
     return {'image_paths': image_paths, 'questions_and_answers': questions_and_answers}
