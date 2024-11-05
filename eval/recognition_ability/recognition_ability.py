@@ -171,8 +171,9 @@ def main(cfg: RecognitionAbilityConfig):
     for concept_name in cfg.concept_list:
         positives_acc['concept'][concept_name]['result'] = positives_acc['concept'][concept_name]['positives']/positives_acc['concept'][concept_name]['sum']
         negatives_acc['concept'][concept_name]['result'] = negatives_acc['concept'][concept_name]['negatives']/negatives_acc['concept'][concept_name]['sum']
-        negative_positives_acc['concept'][concept_name]['result'] = negative_positives_acc['concept'][concept_name]['positives']/negative_positives_acc['concept'][concept_name]['sum']
-        negative_negatives_acc['concept'][concept_name]['result'] = negative_negatives_acc['concept'][concept_name]['negatives']/negative_negatives_acc['concept'][concept_name]['sum']
+        if cfg.negative_recognition:
+            negative_positives_acc['concept'][concept_name]['result'] = negative_positives_acc['concept'][concept_name]['positives']/negative_positives_acc['concept'][concept_name]['sum']
+            negative_negatives_acc['concept'][concept_name]['result'] = negative_negatives_acc['concept'][concept_name]['negatives']/negative_negatives_acc['concept'][concept_name]['sum']
 
     for question in cfg.prompts:
         question = question.format(concept=cfg.concept_identifier)
@@ -191,8 +192,11 @@ def main(cfg: RecognitionAbilityConfig):
         negative_positives_acc['all_result'] = negative_positives_acc['all_positives']/negative_positives_acc['all_sum']
         negative_negatives_acc['all_result'] = negative_negatives_acc['all_negatives']/negative_negatives_acc['all_sum']
     
-    outputs['result'] = [positives_acc, negatives_acc, negative_positives_acc, negative_negatives_acc]
-
+    outputs['result'] = [positives_acc, negatives_acc]
+    if cfg.negative_recognition:
+        outputs['result'].append(negative_positives_acc)
+        outputs['result'].append(negative_negatives_acc)
+        
     # Save results to json file
     with open(cfg.eval_inference_output_path / f'inference_outputs_{cfg.vlm_type}_recognition-{cfg.n_concept}-{cfg.n_concept_embedding}-{cfg.head_data_type}-{cfg.n_head_positive_samples}-{cfg.n_head_negative_samples}-{cfg.train_recognition_qeustion_answer}.json', 'w') as f:
         json.dump(outputs, f, indent=4)
