@@ -57,6 +57,8 @@ class RecognitionAbilityConfig:
 
     train_recognition_qeustion_answer: bool = False
 
+    n_eval_question_per_concept: int = 6
+
     def __post_init__(self):
 
         self.recognition_qeustion_answer = None
@@ -89,6 +91,10 @@ class RecognitionAbilityConfig:
                 self.negative_prompts = VLM_TO_PROMPTS[self.vlm_type].get('negativeRecognition', None)
 
                 print(self.negative_prompts)
+
+        if self.n_eval_question_per_concept > 0:
+            self.prompts = self.prompts[:self.n_eval_question_per_concept]
+            self.negative_prompts = self.negative_prompts[:self.n_eval_question_per_concept]
 
         if self.concept_list is None:
             self.concept_list = os.listdir(self.image_paths / 'positives')
