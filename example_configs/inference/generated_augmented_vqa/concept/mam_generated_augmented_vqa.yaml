@@ -1,5 +1,0 @@
-concept_name: "mam"
-concept_identifier: "sks"
-concept_class: "the cat"  
-concept_type: OBJECT         # either OBJECT or PERSON
-images_root: ./dataset/data_concept_embedding/mam

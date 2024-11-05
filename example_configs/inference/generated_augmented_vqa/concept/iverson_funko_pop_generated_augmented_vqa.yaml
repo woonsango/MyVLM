@@ -1,5 +1,0 @@
-concept_name: "inverson_funko_pop"
-concept_identifier: "sks"
-concept_class: "the basketball player figure"  
-concept_type: OBJECT         # either OBJECT or PERSON
-images_root: ./dataset/data_concept_embedding/iverson_funko_pop

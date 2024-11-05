@@ -1,5 +1,0 @@
-concept_name: "small_penguin"
-concept_identifier: "sks"
-concept_class: "the small penguin toy"  
-concept_type: OBJECT         # either OBJECT or PERSON
-images_root: ./dataset/data_concept_embedding/small_penguin

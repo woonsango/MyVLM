@@ -1,5 +1,0 @@
-concept_name: "chicken_bean_bag"
-concept_identifier: "sks"
-concept_class: "the chicken bean bag"  
-concept_type: OBJECT         # either OBJECT or PERSON
-images_root: ./dataset/data_concept_embedding/chicken_bean_bag

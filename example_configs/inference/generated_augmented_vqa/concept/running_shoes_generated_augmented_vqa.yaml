@@ -1,5 +1,0 @@
-concept_name: "running_shoes"
-concept_identifier: "sks"
-concept_class: "the running shoes"  
-concept_type: OBJECT         # either OBJECT or PERSON
-images_root: ./dataset/data_concept_embedding/running_shoes

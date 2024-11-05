@@ -1,5 +1,0 @@
-concept_name: "dangling_child"
-concept_identifier: "sks"
-concept_class: "the dangling child"  
-concept_type: OBJECT         # either OBJECT or PERSON
-images_root: ./dataset/data_concept_embedding/dangling_child
