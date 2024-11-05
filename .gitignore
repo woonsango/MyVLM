@@ -163,4 +163,4 @@ cython_debug/
 
 outputs/
 concept_head_training/
-example_configs/llava/concept_embedding_vqa/concept/*
+example_configs/llava/concept_embedding_training_vqa/concept/
